@@ -1,0 +1,544 @@
+{{DataTabs|fl=KR/LCK|extra_purges=LCK/2026 Season}}
+
+== Round 1 ==
+{{SetPatch|patch=26.16 |disabled= |hotfix= |footnote=}}
+{{MatchSchedule/Start|tab=Round 1 |bestof=5 |shownname=LCK 2026 Season Playoffs }}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder=1|team1=T1 |team2=BNK FEARX |team1score=3 |team2score=2 |winner=1
+|date=2026-08-29 |time=17:00 |timezone=KST |dst=yes |pbp=Valdes |color=Wolf (Wolf Schröder) |vodinterview=https://youtu.be/LSCnrGz5-HU?t=19341 |with=Doran (Choi Hyeon-jun) |mvp=Doran (Choi Hyeon-jun) |vodhl= |stream=https://www.twitch.tv/lck |reddit=https://www.reddit.com/r/leagueoflegends/comments/1w1l9tk/bnk_fearx_vs_t1_lck_2026_season_playoffs_upper/
+|game1={{MatchSchedule/Game
+|blue=BNK FEARX |red=T1 |winner=2 |first_sel=T1 |ssel=BNK FEARX |pick_sel=T1 |first_pick=T1 |ff=
+|riot_platform_game_id=LOLTMNT02_461258
+|vod=
+|vodpb=https://youtu.be/LSCnrGz5-HU?t=3071
+|vodstart=https://youtu.be/LSCnrGz5-HU?t=3450
+|vodpost=https://youtu.be/LSCnrGz5-HU?t=5414
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue=BNK FEARX |red=T1 |winner=1 |first_sel=BNK FEARX |ssel=BNK FEARX |pick_sel=T1 |first_pick=BNK FEARX |ff=
+|riot_platform_game_id=LOLTMNT02_460279
+|vod=
+|vodpb=https://youtu.be/LSCnrGz5-HU?t=6390
+|vodstart=https://youtu.be/LSCnrGz5-HU?t=6878
+|vodpost=https://youtu.be/LSCnrGz5-HU?t=8602
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue=T1 |red=BNK FEARX |winner=2 |first_sel=T1 |ssel=T1 |pick_sel=BNK FEARX |first_pick=T1 |ff=
+|riot_platform_game_id=LOLTMNT02_460287
+|vod=
+|vodpb=https://youtu.be/LSCnrGz5-HU?t=9818
+|vodstart=https://youtu.be/LSCnrGz5-HU?t=10158
+|vodpost=https://youtu.be/LSCnrGz5-HU?t=11942
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game4={{MatchSchedule/Game
+|blue=BNK FEARX |red=T1 |winner=2 |first_sel=T1 |ssel=BNK FEARX |pick_sel=T1 |first_pick=BNK FEARX |ff=
+|riot_platform_game_id=LOLTMNT02_461283
+|vod=
+|vodpb=https://youtu.be/LSCnrGz5-HU?t=12958
+|vodstart=https://youtu.be/LSCnrGz5-HU?t=13407
+|vodpost=https://youtu.be/LSCnrGz5-HU?t=15949
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game5={{MatchSchedule/Game
+|blue=T1 |red=BNK FEARX |winner=1 |first_sel=BNK FEARX |ssel=T1 |pick_sel=BNK FEARX |first_pick=T1 |ff=
+|riot_platform_game_id=LOLTMNT02_461296
+|vod=
+|vodpb=https://youtu.be/LSCnrGz5-HU?t=16934
+|vodstart=https://youtu.be/LSCnrGz5-HU?t=17473
+|vodpost=https://youtu.be/LSCnrGz5-HU?t=19015
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder=1|team1=DPLUS |team2=KT |team1score=0 |team2score=3 |winner=2
+|date=2026-08-30 |time=17:00 |timezone=KST |dst=yes |pbp=Atlus |color=Aux |vodinterview=https://youtu.be/SC347dMCp2Q?t=12604 |with=Jiwoo |mvp=Jiwoo |vodhl= |stream=https://www.twitch.tv/lck |reddit=https://www.reddit.com/r/leagueoflegends/comments/1w2efyd/dplus_kia_vs_kt_rolster_lck_2026_season_playoffs/
+|game1={{MatchSchedule/Game
+|blue=KT |red=DPLUS |winner=1 |first_sel=DPLUS |ssel=KT |pick_sel=DPLUS |first_pick=DPLUS |ff=
+|riot_platform_game_id=LOLTMNT02_461410
+|vod=
+|vodpb=https://youtu.be/SC347dMCp2Q?t=1990
+|vodstart=https://youtu.be/SC347dMCp2Q?t=2404
+|vodpost=https://youtu.be/SC347dMCp2Q?t=4700
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue=KT |red=DPLUS |winner=1 |first_sel=DPLUS |ssel=KT |pick_sel=DPLUS |first_pick=DPLUS |ff=
+|riot_platform_game_id=LOLTMNT02_461420
+|vod=
+|vodpb=https://youtu.be/SC347dMCp2Q?t=5663
+|vodstart=https://youtu.be/SC347dMCp2Q?t=6248
+|vodpost=https://youtu.be/SC347dMCp2Q?t=8705
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue=KT |red=DPLUS |winner=1 |first_sel=DPLUS |ssel=KT |pick_sel=DPLUS |first_pick=KT |ff=
+|riot_platform_game_id=LOLTMNT02_461430
+|vod=
+|vodpb=https://youtu.be/SC347dMCp2Q?t=9607
+|vodstart=https://youtu.be/SC347dMCp2Q?t=9979
+|vodpost=https://youtu.be/SC347dMCp2Q?t=12248
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder=1|team1=BNK FEARX |team2=DPLUS |team1score=2 |team2score=3 |winner=2
+|date=2026-09-03 |time=17:00 |timezone=KST |dst=yes |pbp=Valdes |color=Wolf (Wolf Schröder) |vodinterview=https://youtu.be/-N6744h_JWs?t=17965 |with=ShowMaker |mvp=ShowMaker |vodhl= |stream=https://www.twitch.tv/lck |reddit=https://www.reddit.com/r/leagueoflegends/comments/1w65x0d/bnk_fearx_vs_dplus_kia_lck_2026_season_playoffs/ |tags=worlds2026elim
+|game1={{MatchSchedule/Game
+|blue=BNK FEARX |red=DPLUS |winner=1 |first_sel=BNK FEARX |ssel=BNK FEARX |pick_sel=DPLUS |first_pick=DPLUS |ff=
+|riot_platform_game_id=LOLTMNT02_460749
+|vod=
+|vodpb=https://youtu.be/-N6744h_JWs?t=1905
+|vodstart=https://youtu.be/-N6744h_JWs?t=2260
+|vodpost=https://youtu.be/-N6744h_JWs?t=4785
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue=BNK FEARX |red=DPLUS |winner=1 |first_sel=DPLUS |ssel=BNK FEARX |pick_sel=DPLUS |first_pick=DPLUS |ff=
+|riot_platform_game_id=LOLTMNT02_460761
+|vod=
+|vodpb=https://youtu.be/-N6744h_JWs?t=5778
+|vodstart=https://youtu.be/-N6744h_JWs?t=6287
+|vodpost=https://youtu.be/-N6744h_JWs?t=8685
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue=DPLUS |red=BNK FEARX |winner=1 |first_sel=DPLUS |ssel=DPLUS |pick_sel=BNK FEARX |first_pick=DPLUS |ff=
+|riot_platform_game_id=LOLTMNT02_460772
+|vod=
+|vodpb=https://youtu.be/-N6744h_JWs?t=9636
+|vodstart=https://youtu.be/-N6744h_JWs?t=10020
+|vodpost=https://youtu.be/-N6744h_JWs?t=11914
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game4={{MatchSchedule/Game
+|blue=BNK FEARX |red=DPLUS |winner=2 |first_sel=BNK FEARX |ssel=BNK FEARX |pick_sel=DPLUS |first_pick=DPLUS |ff=
+|riot_platform_game_id=LOLTMNT02_460780
+|vod=
+|vodpb=https://youtu.be/-N6744h_JWs?t=12859
+|vodstart=https://youtu.be/-N6744h_JWs?t=13290
+|vodpost=https://youtu.be/-N6744h_JWs?t=14629
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game5={{MatchSchedule/Game
+|blue=DPLUS |red=BNK FEARX |winner=1 |first_sel=BNK FEARX |ssel=DPLUS |pick_sel=BNK FEARX |first_pick=BNK FEARX |ff=
+|riot_platform_game_id=LOLTMNT02_460789
+|vod=
+|vodpb=https://youtu.be/-N6744h_JWs?t=15665
+|vodstart=https://youtu.be/-N6744h_JWs?t=16180
+|vodpost=https://youtu.be/-N6744h_JWs?t=17634
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule/End}}
+
+== Round 2 ==
+{{MatchSchedule/Start|tab=Round 2 |bestof=5 |shownname=LCK 2026 Season Playoffs }}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder=1|team1=GEN |team2=KT |team1score=3 |team2score=0 |winner=1
+|date=2026-09-01 |time=17:00 |timezone=KST |dst=yes |pbp=Valdes |color=Wolf (Wolf Schröder) |vodinterview=https://youtu.be/LDklaKFvhz8?t=11480 |with=Canyon |mvp=Canyon |vodhl= |stream=https://www.twitch.tv/lck |reddit=https://www.reddit.com/r/leagueoflegends/comments/1w485lr/geng_vs_kt_rolster_lck_2026_season_playoffs_upper/ |tags=worlds2026qual
+|game1={{MatchSchedule/Game
+|blue=GEN |red=KT |winner=1 |first_sel=GEN |ssel=GEN |pick_sel=KT |first_pick=KT |ff=
+|riot_platform_game_id=LOLTMNT02_461660
+|vod=
+|vodpb=https://youtu.be/LDklaKFvhz8?t=2005
+|vodstart=https://youtu.be/LDklaKFvhz8?t=2583
+|vodpost=https://youtu.be/LDklaKFvhz8?t=4710
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue=GEN |red=KT |winner=1 |first_sel=KT |ssel=GEN |pick_sel=KT |first_pick=KT |ff=
+|riot_platform_game_id=LOLTMNT02_460605
+|vod=
+|vodpb=https://youtu.be/LDklaKFvhz8?t=5682
+|vodstart=https://youtu.be/LDklaKFvhz8?t=6153
+|vodpost=https://youtu.be/LDklaKFvhz8?t=8105
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue=GEN |red=KT |winner=1 |first_sel=KT |ssel=GEN |pick_sel=KT |first_pick=KT |ff=
+|riot_platform_game_id=LOLTMNT02_461672
+|vod=
+|vodpb=https://youtu.be/LDklaKFvhz8?t=9013
+|vodstart=https://youtu.be/LDklaKFvhz8?t=9490
+|vodpost=https://youtu.be/LDklaKFvhz8?t=11176
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder=1|team1=HLE |team2=T1 |team1score=3 |team2score=2 |winner=1
+|date=2026-09-02 |time=17:00 |timezone=KST |dst=yes |pbp=Atlus |color=Aux |vodinterview=https://youtu.be/PbRTaRK6c_0?t=16915 |with=Zeka (Kim Geon-woo) |mvp=Zeka (Kim Geon-woo) |vodhl= |stream=https://www.twitch.tv/lck |reddit=https://www.reddit.com/r/leagueoflegends/comments/1w58gce/hanwha_life_esports_vs_t1_lck_2026_season/
+|game1={{MatchSchedule/Game
+|blue=T1 |red=HLE |winner=1 |first_sel=HLE |ssel=T1 |pick_sel=HLE |first_pick=HLE |ff=
+|riot_platform_game_id=LOLTMNT02_461735
+|vod=
+|vodpb=https://youtu.be/PbRTaRK6c_0?t=2100
+|vodstart=https://youtu.be/PbRTaRK6c_0?t=2467
+|vodpost=https://youtu.be/PbRTaRK6c_0?t=4227
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue=T1 |red=HLE |winner=1 |first_sel=HLE |ssel=T1 |pick_sel=HLE |first_pick=HLE |ff=
+|riot_platform_game_id=LOLTMNT02_460676
+|vod=
+|vodpb=https://youtu.be/PbRTaRK6c_0?t=5225
+|vodstart=https://youtu.be/PbRTaRK6c_0?t=5704
+|vodpost=https://youtu.be/PbRTaRK6c_0?t=7433
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue=HLE |red=T1 |winner=1 |first_sel=HLE |ssel=HLE |pick_sel=T1 |first_pick=HLE |ff=
+|riot_platform_game_id=LOLTMNT02_460684
+|vod=
+|vodpb=https://youtu.be/PbRTaRK6c_0?t=8300
+|vodstart=https://youtu.be/PbRTaRK6c_0?t=8807
+|vodpost=https://youtu.be/PbRTaRK6c_0?t=10323
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game4={{MatchSchedule/Game
+|blue=T1 |red=HLE |winner=2 |first_sel=T1 |ssel=T1 |pick_sel=HLE |first_pick=HLE |ff=
+|riot_platform_game_id=LOLTMNT02_460687
+|vod=
+|vodpb=https://youtu.be/PbRTaRK6c_0?t=11245
+|vodstart=https://youtu.be/PbRTaRK6c_0?t=11799
+|vodpost=https://youtu.be/PbRTaRK6c_0?t=13420
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game5={{MatchSchedule/Game
+|blue=T1 |red=HLE |winner=2 |first_sel=T1 |ssel=T1 |pick_sel=HLE |first_pick=HLE |ff=
+|riot_platform_game_id=LOLTMNT02_460694
+|vod=
+|vodpb=https://youtu.be/PbRTaRK6c_0?t=14415
+|vodstart=https://youtu.be/PbRTaRK6c_0?t=14910
+|vodpost=https://youtu.be/PbRTaRK6c_0?t=16565
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder=1|team1=KT |team2=DPLUS |team1score=1 |team2score=3 |winner=2
+|date=2026-09-04 |time=17:00 |timezone=KST |dst=yes |pbp=Atlus |color=Aux |vodinterview=https://youtu.be/5Irh7yU7mgA?t=15844 |with=Smash (Shin Geum-jae) |mvp=Smash (Shin Geum-jae) |vodhl= |stream=https://www.twitch.tv/lck |reddit=https://www.reddit.com/r/leagueoflegends/comments/1w71qqf/kt_rolster_vs_dplus_kia_lck_2026_season_playoffs/ |tags= worlds2026qual, worlds2026elim
+|game1={{MatchSchedule/Game
+|blue=KT |red=DPLUS |winner=1 |first_sel=KT |ssel=KT |pick_sel=DPLUS |first_pick=DPLUS |ff=
+|riot_platform_game_id=LOLTMNT02_460906
+|vod=
+|vodpb=https://youtu.be/5Irh7yU7mgA?t=3122
+|vodstart=https://youtu.be/5Irh7yU7mgA?t=3469
+|vodpost=https://youtu.be/5Irh7yU7mgA?t=5348
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue=DPLUS |red=KT |winner=1 |first_sel=DPLUS |ssel=DPLUS |pick_sel=KT |first_pick=KT |ff=
+|riot_platform_game_id=LOLTMNT02_460917
+|vod=
+|vodpb=https://youtu.be/5Irh7yU7mgA?t=6342
+|vodstart=https://youtu.be/5Irh7yU7mgA?t=6730
+|vodpost=https://youtu.be/5Irh7yU7mgA?t=9244
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue=KT |red=DPLUS |winner=2 |first_sel=KT |ssel=KT |pick_sel=DPLUS |first_pick=KT |ff=
+|riot_platform_game_id=LOLTMNT02_460928
+|vod=
+|vodpb=https://youtu.be/5Irh7yU7mgA?t=10159
+|vodstart=https://youtu.be/5Irh7yU7mgA?t=10644
+|vodpost=https://youtu.be/5Irh7yU7mgA?t=12236
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game4={{MatchSchedule/Game
+|blue=DPLUS |red=KT |winner=1 |first_sel=KT |ssel=DPLUS |pick_sel=KT |first_pick=KT |ff=
+|riot_platform_game_id=LOLTMNT02_462043
+|vod=
+|vodpb=https://youtu.be/5Irh7yU7mgA?t=13168
+|vodstart=https://youtu.be/5Irh7yU7mgA?t=13675
+|vodpost=https://youtu.be/5Irh7yU7mgA?t=15525
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule/End}}
+
+== Round 3 ==
+{{MatchSchedule/Start|tab=Round 3 |bestof=5 |shownname=LCK 2026 Season Playoffs }}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder=1|team1=T1 |team2=DPLUS |team1score=3 |team2score=1 |winner=1
+|date=2026-09-06 |time=17:00 |timezone=KST |dst=yes |pbp=Atlus |color=Aux |vodinterview=https://youtu.be/tQ4atWo-rpE?t=17290 |with=Doran (Choi Hyeon-jun), Oner, Faker, Peyz, Keria, Tom (Im Jae-hyeon) |mvp=Doran (Choi Hyeon-jun) |vodhl= |stream=https://www.twitch.tv/lck |reddit=https://www.reddit.com/r/leagueoflegends/comments/1w8ty27/t1_vs_dplus_kia_lck_2026_season_playoffs_lower/
+|game1={{MatchSchedule/Game
+|blue=DPLUS |red=T1 |winner=2 |first_sel=T1 |ssel=DPLUS |pick_sel=T1 |first_pick=T1 |ff=
+|riot_platform_game_id=LOLTMNT02_463036
+|vod=
+|vodpb=https://youtu.be/tQ4atWo-rpE?t=3712
+|vodstart=https://youtu.be/tQ4atWo-rpE?t=4180
+|vodpost=https://youtu.be/tQ4atWo-rpE?t=6720
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue=DPLUS |red=T1 |winner=1 |first_sel=DPLUS |ssel=DPLUS |pick_sel=T1 |first_pick=T1 |ff=
+|riot_platform_game_id=LOLTMNT02_463047
+|vod=
+|vodpb=https://youtu.be/tQ4atWo-rpE?t=7693
+|vodstart=https://youtu.be/tQ4atWo-rpE?t=8149
+|vodpost=https://youtu.be/tQ4atWo-rpE?t=10003
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue=DPLUS |red=T1 |winner=2 |first_sel=T1 |ssel=DPLUS |pick_sel=T1 |first_pick=T1 |ff=
+|riot_platform_game_id=LOLTMNT02_462218
+|vod=
+|vodpb=https://youtu.be/tQ4atWo-rpE?t=10882
+|vodstart=https://youtu.be/tQ4atWo-rpE?t=11327
+|vodpost=https://youtu.be/tQ4atWo-rpE?t=13783
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game4={{MatchSchedule/Game
+|blue=DPLUS |red=T1 |winner=2 |first_sel=DPLUS |ssel=DPLUS |pick_sel=T1 |first_pick=T1 |ff=
+|riot_platform_game_id=LOLTMNT02_463053
+|vod=
+|vodpb=https://youtu.be/tQ4atWo-rpE?t=14695
+|vodstart=https://youtu.be/tQ4atWo-rpE?t=15106
+|vodpost=https://youtu.be/tQ4atWo-rpE?t=16971
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule/End}}
+
+== Round 4 ==
+{{MatchSchedule/Start|tab=Round 4 |bestof=5 |shownname=LCK 2026 Season Playoffs }}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder=1|team1=GEN |team2=HLE |team1score=3 |team2score=1 |winner=1
+|date=2026-09-05 |time=17:00 |timezone=KST |dst=yes |pbp=Valdes |color=Wolf (Wolf Schröder) |vodinterview=https://youtu.be/_1bpZJ5Rouc?t=15864 |with=Kiin, Canyon, Chovy, Ruler, Duro, Ryu |mvp=Chovy |vodhl= |stream=https://www.twitch.tv/lck |reddit=https://www.reddit.com/r/leagueoflegends/comments/1w7yi6l/hanwha_life_esports_vs_geng_lck_2026_season/
+|game1={{MatchSchedule/Game
+|blue=HLE |red=GEN |winner=1 |first_sel=GEN |ssel=HLE |pick_sel=GEN |first_pick=GEN |ff=
+|riot_platform_game_id=LOLTMNT02_462135
+|vod=
+|vodpb=https://youtu.be/_1bpZJ5Rouc?t=2379
+|vodstart=https://youtu.be/_1bpZJ5Rouc?t=2847
+|vodpost=https://youtu.be/_1bpZJ5Rouc?t=5182
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue=GEN |red=HLE |winner=1 |first_sel=GEN |ssel=GEN |pick_sel=HLE |first_pick=GEN |ff=
+|riot_platform_game_id=LOLTMNT02_462142
+|vod=
+|vodpb=https://youtu.be/_1bpZJ5Rouc?t=6145
+|vodstart=https://youtu.be/_1bpZJ5Rouc?t=6635
+|vodpost=https://youtu.be/_1bpZJ5Rouc?t=9355
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue=HLE |red=GEN |winner=2 |first_sel=HLE |ssel=HLE |pick_sel=GEN |first_pick=HLE |ff=
+|riot_platform_game_id=LOLTMNT02_460995
+|vod=
+|vodpb=https://youtu.be/_1bpZJ5Rouc?t=10260
+|vodstart=https://youtu.be/_1bpZJ5Rouc?t=10720
+|vodpost=https://youtu.be/_1bpZJ5Rouc?t=12576
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game4={{MatchSchedule/Game
+|blue=GEN |red=HLE |winner=1 |first_sel=HLE |ssel=GEN |pick_sel=HLE |first_pick=GEN |ff=
+|riot_platform_game_id=LOLTMNT02_461000
+|vod=
+|vodpb=https://youtu.be/_1bpZJ5Rouc?t=13493
+|vodstart=https://youtu.be/_1bpZJ5Rouc?t=13933
+|vodpost=https://youtu.be/_1bpZJ5Rouc?t=15522
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder=1|team1=HLE |team2=T1 |team1score=3 |team2score=1 |winner=1
+|date=2026-09-12 |time=14:00 |timezone=KST |dst=yes |pbp=Valdes |color=Aux, Wolf (Wolf Schröder) |vodinterview=https://youtu.be/f9IOOQFgZnw?t=15968 |with=Zeus, Kanavi, Zeka (Kim Geon-woo), Gumayusi, Delight, Homme |mvp=Zeka (Kim Geon-woo) |vodhl= |stream=https://www.twitch.tv/lck |reddit=https://www.reddit.com/r/leagueoflegends/comments/1we7dfr/hanwha_life_esports_vs_t1_lck_2026_season/
+|game1={{MatchSchedule/Game
+|blue=HLE |red=T1 |winner=1 |first_sel=HLE |ssel=HLE |pick_sel=T1 |first_pick=T1 |ff=
+|riot_platform_game_id=LOLTMNT02_463339
+|vod=
+|vodpb=https://youtu.be/f9IOOQFgZnw?t=2580
+|vodstart=https://youtu.be/f9IOOQFgZnw?t=3070
+|vodpost=https://youtu.be/f9IOOQFgZnw?t=5931
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue=T1 |red=HLE |winner=2 |first_sel=T1 |ssel=T1 |pick_sel=HLE |first_pick=HLE |ff=
+|riot_platform_game_id=LOLTMNT02_463340
+|vod=
+|vodpb=https://youtu.be/f9IOOQFgZnw?t=6935
+|vodstart=https://youtu.be/f9IOOQFgZnw?t=7415
+|vodpost=https://youtu.be/f9IOOQFgZnw?t=9186
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue=HLE |red=T1 |winner=2 |first_sel=T1 |ssel=HLE |pick_sel=T1 |first_pick=T1 |ff=
+|riot_platform_game_id=LOLTMNT02_462537
+|vod=
+|vodpb=https://youtu.be/f9IOOQFgZnw?t=10138
+|vodstart=https://youtu.be/f9IOOQFgZnw?t=10665
+|vodpost=https://youtu.be/f9IOOQFgZnw?t=12549
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game4={{MatchSchedule/Game
+|blue=T1 |red=HLE |winner=2 |first_sel=HLE |ssel=T1 |pick_sel=HLE |first_pick=T1 |ff=
+|riot_platform_game_id=LOLTMNT02_462538
+|vod=
+|vodpb=https://youtu.be/f9IOOQFgZnw?t=13430
+|vodstart=https://youtu.be/f9IOOQFgZnw?t=13875
+|vodpost=https://youtu.be/f9IOOQFgZnw?t=15633
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule/End}}
+
+== Finals ==
+{{MatchSchedule/Start|tab=Finals |bestof=5 |shownname=LCK 2026 Season Playoffs }}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder=1 |team1=GEN.G |team2=HLE |team1score=3 |team2score=1 |winner=1
+|date=2026-09-13 |time=14:00 |timezone=KST |dst=yes |pbp=Atlus |color=Aux, Wolf (Wolf Schröder) |vodinterview=https://youtu.be/fQFeYy7ZqPU?t=15700 |with=Kiin, Canyon, Chovy, Ruler, Duro, Ryu |mvp=Ruler |vodhl= |stream=https://www.twitch.tv/lck |reddit=https://www.reddit.com/r/leagueoflegends/comments/1wf2cii/geng_vs_hanwha_life_esports_lck_2026_season/
+|game1={{MatchSchedule/Game
+|blue=GEN |red=HLE |winner=2 |first_sel=N/A |ssel=GEN |pick_sel=GEN |first_pick=GEN |ff=
+|riot_platform_game_id=LOLTMNT02_463372
+|vod=
+|vodpb=https://youtu.be/fQFeYy7ZqPU?t=3091
+|vodstart=https://youtu.be/fQFeYy7ZqPU?t=3593
+|vodpost=https://youtu.be/fQFeYy7ZqPU?t=5890
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue=HLE |red=GEN |winner=2 |first_sel=GEN |ssel=HLE |pick_sel=GEN |first_pick=GEN |ff=
+|riot_platform_game_id=LOLTMNT02_463373
+|vod=
+|vodpb=https://youtu.be/fQFeYy7ZqPU?t=6930
+|vodstart=https://youtu.be/fQFeYy7ZqPU?t=7426
+|vodpost=https://youtu.be/fQFeYy7ZqPU?t=9262
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue=HLE |red=GEN |winner=2 |first_sel=HLE |ssel=HLE |pick_sel=GEN |first_pick=GEN |ff=
+|riot_platform_game_id=LOLTMNT02_462565
+|vod=
+|vodpb=https://youtu.be/fQFeYy7ZqPU?t=10250
+|vodstart=https://youtu.be/fQFeYy7ZqPU?t=10747
+|vodpost=https://youtu.be/fQFeYy7ZqPU?t=12338
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game4={{MatchSchedule/Game
+|blue=GEN |red=HLE |winner=1 |first_sel=HLE |ssel=GEN |pick_sel=HLE |first_pick=GEN |ff=
+|riot_platform_game_id=LOLTMNT02_463374
+|vod=
+|vodpb=https://youtu.be/fQFeYy7ZqPU?t=13268
+|vodstart=https://youtu.be/fQFeYy7ZqPU?t=13735
+|vodpost=https://youtu.be/fQFeYy7ZqPU?t=15390
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule/End}}

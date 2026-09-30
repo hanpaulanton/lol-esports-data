@@ -1,0 +1,28 @@
+{
+  "sources": [
+    {
+      "source": "leaguepedia",
+      "role": "primary",
+      "status": "investigating",
+      "apiBase": "https://lol.fandom.com/api.php",
+      "collector": "scripts/collectors/leaguepedia.py",
+      "notes": "cargoquery is rate limited in practice; page-wikitext fallback path is used in PHASE 16. See config/policies/leaguepedia.json and docs/leaguepedia-schema.md."
+    },
+    {
+      "source": "oracle_elixir",
+      "role": "secondary-verification",
+      "status": "terms-reviewed",
+      "downloadsPage": "https://oracleselixir.com/tools/downloads",
+      "collector": "scripts/collectors/oracle_elixir.py (not implemented yet)",
+      "notes": "Files updated once per day; download at most once per day when implemented."
+    },
+    {
+      "source": "liquipedia",
+      "role": "backup",
+      "status": "blocked-for-automation",
+      "termsPage": "https://liquipedia.net/api-terms-of-use",
+      "collector": "scripts/collectors/liquipedia.py (not implemented yet)",
+      "notes": "Terms page returns 403 to plain HTTP clients (Cloudflare). Do not automate against this source until terms are reviewed by a human in a real browser."
+    }
+  ]
+}

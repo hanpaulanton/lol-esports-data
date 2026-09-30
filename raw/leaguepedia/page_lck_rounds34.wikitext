@@ -1,0 +1,345 @@
+{{Tabs:LCK 2026}}
+{{Infobox Tournament
+|name=LCK 2026 Rounds 3-4
+|image= LCK 2021 logo.png
+|organizer=[http://www.leagueoflegends.co.kr/?m=esports&mod=esports/ Riot Games]
+|sponsor
+|type=
+|country=South Korea
+|prizepool= 
+|format=
+|date=
+|sdate=2026-07-29
+|edate=2026-08-23
+|rulebook=Archive:Official Rulebooks/Riot/LCK/2026(2)
+|streams={{stream|url=https://www.twitch.tv/lck|lang=usuk}}
+|linkstreams=yes
+|region=KR
+|split=Rounds 3-4
+|split_number=3
+|CM_StandardName=LCK 2026 Rounds 3-4
+|CM_TournamentLevel=Primary
+|CM_IsQualifier=No
+|CM_IsPlayoffs=No
+|CM_IsOfficial=Yes
+|CM_Year=2026
+|CM_StandardLeague=LCK21
+|CM_LeagueIconKey=LCK21
+|website=https://lolesports.com
+|twitter=LCK
+|instagram=lckofficial
+|youtube=https://www.youtube.com/@LCKglobal
+|facebook=https://www.facebook.com/officiallck
+|tiktok=lck_official
+|discord=
+|closest_timezone=KST
+}}{{TournamentPageStart|twitchid=lck|toclimit=2|text=The '''LCK 2026 Rounds 3-4''' is the second half of the year long season of the sixth year of Korea's professional League of Legends league under partnership. Ten teams compete in a double round robin group stage.}}
+
+==Overview==
+=== Format ===
+* 10 teams participate
+* Two groups based on the results of [[LCK/2026 Season/Rounds 1-2|Rounds 1-2]]
+* Teams carry over their records from [[LCK/2026 Season/Rounds 1-2|Rounds 1-2]]
+* Double Round Robin within group
+* All matches are best of three
+* Top four teams from the Legend Group qualify for [[LCK/2026 Season/Season Playoffs|Season Playoffs]]
+* Bottom team from Legend Group and top 3 teams from the Rise Group qualify for [[LCK/2026 Season/Season Play-In|Season Play-In]]
+
+== Participants ==
+{{RostersStart|maxteams=5
+|showrosterpage=yes
+|rosterswaps=Roster Swaps/2026 Preseason/Korea
+}}
+===Legend Group===
+{{Box|start}}
+{{TeamRoster|team=Dplus Kia
+|{{TeamRoster/Line|player=Siwoo|flag=kr|role=t}}
+|{{TeamRoster/Line|player=Lucid (Choi Yong-hyeok)|flag=kr|role=j}}
+|{{TeamRoster/Line|player=ShowMaker|flag=kr|role=m}}
+|{{TeamRoster/Line|player=Smash (Shin Geum-jae)|flag=kr|role=a}}
+|{{TeamRoster/Line|player=Career|flag=kr|role=s}}
+|{{TeamRoster/Line|player=CvMax|flag=kr|role=c}}
+|{{TeamRoster/Line|player=PoohManDu|flag=kr|role=c}}
+|{{TeamRoster/Line|player=Hachani|flag=kr|role=c}}
+}}
+{{Box|break}}
+{{TeamRoster|team=Gen.G
+|{{TeamRoster/Line|player=Kiin|flag=kr|role=t}}
+|{{TeamRoster/Line|player=Canyon|flag=kr|role=j}}
+|{{TeamRoster/Line|player=Chovy|flag=kr|role=m}}
+|{{TeamRoster/Line|player=Ruler|flag=kr|role=a}}
+|{{TeamRoster/Line|player=Duro|flag=kr|role=s}}
+|{{TeamRoster/Line|player=Ryu|flag=kr|role=c}}
+|{{TeamRoster/Line|player=Lyn|flag=kr|role=c}}
+|{{TeamRoster/Line|player=Nova (Park Chan-ho)|flag=kr|role=c}}
+}}
+{{Box|break}}
+{{TeamRoster|team=Hanwha Life Esports
+|{{TeamRoster/Line|player=Zeus|flag=kr|role=t}}
+|{{TeamRoster/Line|player=Kanavi|flag=kr|role=j}}
+|{{TeamRoster/Line|player=Zeka (Kim Geon-woo)|flag=kr|role=m}}
+|{{TeamRoster/Line|player=Gumayusi|flag=kr|role=a}}
+|{{TeamRoster/Line|player=Delight|flag=kr|role=s}}
+|{{TeamRoster/Line|player=Bluffing|flag=kr|role=s}}
+|{{TeamRoster/Line|player=Homme|flag=kr|role=c}}
+|{{TeamRoster/Line|player=Mowgli|flag=kr|role=c}}
+|{{TeamRoster/Line|player=Sin (Yeon Hyeong-mo)|flag=kr|role=c}}
+}}
+{{Box|break}}
+{{TeamRoster|team=KT Rolster
+|{{TeamRoster/Line|player=PerfecT (Lee Seung-min)|flag=kr|role=t}}
+|{{TeamRoster/Line|player=Cuzz|flag=kr|role=j}}
+|{{TeamRoster/Line|player=Bdd|flag=kr|role=m}}
+|{{TeamRoster/Line|player=FenRir (Park Kang-jun)|flag=kr|role=a}}
+|{{TeamRoster/Line|player=Jiwoo|flag=kr|role=a}}
+|{{TeamRoster/Line|player=Effort|flag=kr|role=s}}
+|{{TeamRoster/Line|player=Score|flag=kr|role=c}}
+|{{TeamRoster/Line|player=Museong|flag=kr|role=c}}
+|{{TeamRoster/Line|player=Sonstar|flag=kr|role=c}}
+}}
+{{Box|break}}
+{{TeamRoster|team=T1
+|{{TeamRoster/Line|player=Doran (Choi Hyeon-jun)|flag=kr|role=t}}
+|{{TeamRoster/Line|player=Oner|flag=kr|role=j}}
+|{{TeamRoster/Line|player=Painter|flag=kr|role=j}}
+|{{TeamRoster/Line|player=Faker|flag=kr|role=m}}
+|{{TeamRoster/Line|player=Peyz|flag=kr|role=a}}
+|{{TeamRoster/Line|player=Keria|flag=kr|role=s}}
+|{{TeamRoster/Line|player=Tom (Im Jae-hyeon)|flag=kr|role=c}}
+|{{TeamRoster/Line|player=Easyhoon|flag=kr|role=c}}
+|{{TeamRoster/Line|player=Mata|flag=kr|role=c}}
+}}
+{{Box|end}}
+
+===Rise Group===
+{{Box|start}}
+{{TeamRoster|team=BNK FEARX
+|{{TeamRoster/Line|player=Clear (Song Hyeon-min)|flag=kr|role=t}}
+|{{TeamRoster/Line|player=Raptor (Jeon Eo-jin)|flag=kr|role=j}}
+|{{TeamRoster/Line|player=VicLa|flag=kr|role=m}}
+|{{TeamRoster/Line|player=Taeyoon (Kim Tae-yoon)|flag=kr|role=a}}
+|{{TeamRoster/Line|player=Kellin|flag=kr|role=s}}
+|{{TeamRoster/Line|player=Edo (Park Jun-seok)|flag=kr|role=c}}
+|{{TeamRoster/Line|player=Lira|flag=kr|role=c}}
+|{{TeamRoster/Line|player=Rather|flag=kr|role=c}}
+}}
+{{Box|break}}
+{{TeamRoster|team=DN SOOPers
+|{{TeamRoster/Line|player=DuDu (Lee Dong-ju)|flag=kr|role=t}}
+|{{TeamRoster/Line|player=Sharvel|flag=kr|role=j}}
+|{{TeamRoster/Line|player=Clozer|flag=kr|role=m}}
+|{{TeamRoster/Line|player=deokdam|flag=kr|role=a}}
+|{{TeamRoster/Line|player=Peter (Jeong Yoon-su)|flag=kr|role=s}}
+|{{TeamRoster/Line|player=Ggoong|flag=kr|role=c}}
+|{{TeamRoster/Line|player=Minit|flag=kr|role=c}}
+}}
+{{Box|break}}
+{{TeamRoster|team=HANJIN BRION
+|{{TeamRoster/Line|player=Casting|flag=kr|role=t}}
+|{{TeamRoster/Line|player=GIDEON|flag=kr|role=j}}
+|{{TeamRoster/Line|player=Roamer|flag=kr|role=m}}
+|{{TeamRoster/Line|player=Teddy|flag=kr|role=a}}
+|{{TeamRoster/Line|player=Namgung|flag=kr|role=s}}
+|{{TeamRoster/Line|player=Ssong|flag=kr|role=c}}
+|{{TeamRoster/Line|player=Duke (Lee Ho-seong)|flag=kr|role=c}}
+}}
+{{Box|break}}
+{{TeamRoster|team=Kiwoom DRX
+|{{TeamRoster/Line|player=Frog (Lee Min-hoi)|flag=kr|role=t}}
+|{{TeamRoster/Line|player=Willer|flag=kr|role=j}}
+|{{TeamRoster/Line|player=Ucal |flag=kr|role=m}}
+|{{TeamRoster/Line|player=LazyFeel |flag=vn|role=a}}
+|{{TeamRoster/Line|player=Aiming |flag=kr|role=a}}
+|{{TeamRoster/Line|player=Andil |flag=kr|role=s}}
+|{{TeamRoster/Line|player=Minous |flag=kr|role=s}}
+|{{TeamRoster/Line|player=Joker (Cho Jae-eup)|flag=kr|role=c}}
+|{{TeamRoster/Line|player=Naehyun|flag=kr|role=c}}
+|{{TeamRoster/Line|player=Saroo|flag=kr|role=c}}
+}}
+{{Box|break}}
+{{TeamRoster|team=Nongshim RedForce
+|{{TeamRoster/Line|player=Kingen|flag=kr|role=t}}
+|{{TeamRoster/Line|player=Sponge|flag=kr|role=j}}
+|{{TeamRoster/Line|player=Scout|flag=kr|role=m}}
+|{{TeamRoster/Line|player=Diable|flag=kr|role=a}}
+|{{TeamRoster/Line|player=Lehends|flag=kr|role=s}}
+|{{TeamRoster/Line|player=DanDy|flag=kr|role=c}}
+|{{TeamRoster/Line|player=Chelly (Park Seung-jin)|flag=kr|role=c}}
+|{{TeamRoster/Line|player=Crazy (Kim Jae-hee)|flag=kr|role=c}}
+}}
+{{Box|end}}
+{{RostersEnd}}
+
+==Results==
+{{Box|start}}
+{{AutoStandings|preload=bo3diff|onlygroup=Legend Group|display=Legend Group|phase=Legend Group
+|finalorder=Gen.G,Hanwha Life Esports,T1,Dplus Kia,KT Rolster
+|places=upwith2bye,upwith2bye,upwithbye,upwithbye,up
+|row1=upwith2bye
+|row2=upwith2bye
+|row3=upwithbye
+|row4=upwithbye
+|row5=up
+|legend=true
+|upwith2bye=[[LCK/2026 Season/Season Playoffs|Season Playoffs]] Round 2 Seed
+|upwithbye=[[LCK/2026 Season/Season Playoffs|Season Playoffs]] Round 1 Seed
+|up=[[LCK/2026 Season/Season Play-In|Season Play-In]] Upper Bracket Seed
+|isover=yes
+|useasresults=yes
+|storeargs=yes
+|carried_over_from=LCK/2026 Season/Rounds 1-2
+}}
+{{Box|break}}
+{{AutoCrossbox|crossboxtype=BO3|onlygroup=Legend Group
+}}
+{{Box|end}}
+{{Box|start}}
+{{AutoStandings|preload=bo3diff|onlygroup=Rise Group|display=Rise Group|phase=Rise Group
+|finalorder=HANJIN BRION,Nongshim RedForce,BNK FEARX,Kiwoom DRX,DN SOOPers
+|places=up,stayup,stayup,stay,stay
+|row1=up
+|row2=stayup
+|row3=stayup
+|row4=stay
+|row5=stay
+|legend=true
+|up=[[LCK/2026 Season/Season Play-In|Season Play-In]] Upper Bracket Seed
+|stayup=[[LCK/2026 Season/Season Play-In|Season Play-In]] Lower Bracket Seed
+|stay=Not Qualified for Season Play-In Stage
+|isover=yes
+|useasresults=yes
+|storeargs=yes
+|carried_over_from=LCK/2026 Season/Rounds 1-2
+}}
+{{Box|break}}
+{{AutoCrossbox|crossboxtype=BO3|onlygroup=Rise Group
+}}
+{{Box|end}}
+
+== Match Schedule ==
+{{AutoMatches}}
+
+== VODs & Match Links ==
+{{MatchDetails
+|matchfields=pbp,color,MVP, Reddit,interview,with,hl
+|gamefields=Blue,Red,Side Selection,VODs,PickSel,FirstPick,FirstSel
+}}
+
+== Individual Awards ==
+=== "Player of the Match" Standings ===
+{{MVPStandings|queryfrom=series|displaytext=Player of the Match Standings
+|columns=Points
+}}
+
+=== Season Awards ===
+[https://www.instagram.com/p/DchlRdvCaLu/?utm_source=ig_web_copy_link&igsi=MzRlODBiNWFlZA%3D%3D&img_index=1 Source]
+{{SeasonAwardStart}}
+{{SeasonAward|mvp|team=GEN|player=Chovy|note=}}
+{{SeasonAward|custom|award=Most Player of the Match|teams=GEN|players=Chovy|note=}}
+{{SeasonAward|proteam|players=Zeus,Kanavi,Chovy,Peyz,Keria|teams=HLE,HLE,GEN,T1,T1|note=}}
+{{SeasonAward|custom|award=2nd All-Pro Team|players=Kiin,Lucid (Choi Yong-hyeok),Zeka (Kim Geon-woo),Ruler,Delight|teams=GEN,DPLUS,HLE,GEN,HLE|note=}}
+{{SeasonAward|custom|award=3rd All-Pro Team|players=Siwoo,Canyon,ShowMaker,Gumayusi,Career|teams=DPLUS,GEN,DPLUS,HLE,DPLUS|note=}}
+{{SeasonAward|rookie|teams=DPLUS|players=Smash (Shin Geum-jae)|note=}}
+{{SeasonAward|coach|teams=DPLUS|players=CvMax|note=}}
+{{SeasonAwardEnd}}
+
+== Media ==
+===Streams===
+{{TournamentStreams/Start}}
+{{TournamentStreams|Riot Games (LCK Global)|lang=usuk|links=
+  {{TournamentStreams/Link|https://www.twitch.tv/lck|Twitch}}
+  {{TournamentStreams/Link|https://www.youtube.com/channel/UCKVlixycWmapnGQ_wht4cHQ/live|YouTube}}
+  {{TournamentStreams/Link|https://play.sooplive.co.kr/lolglobal|SOOP}}
+  {{TournamentStreams/Link|https://chzzk.naver.com/36edb2d52851ef719d5af7c693cf7b18|CHZZK}}
+}}
+{{TournamentStreams|Riot Games Korea (LCK)|lang=kr|links=
+  {{TournamentStreams/Link|https://play.sooplive.co.kr/aflol|SOOP(Cable Television)}}
+  {{TournamentStreams/Link|https://chzzk.naver.com/live/9381e7d6816e6d915a44a13c0195b202|CHZZK}}
+}}
+{{TournamentStreams|Box Studio and Onlive (LCK Tiếng Việt)|lang=vn|links=
+  {{TournamentStreams/Link|https://facebook.com/LCKTiengViet|Facebook}}
+  {{TournamentStreams/Link|https://www.youtube.com/c/LCKTi%E1%BA%BFngVi%E1%BB%87t/featured|Youtube}}
+  {{TournamentStreams/Link|https://play.onlive.vn/lcktiengviet/124384|Onlive}}
+}}
+{{TournamentStreams|OTP|lang=fr|links=
+  {{TournamentStreams/Link|https://www.twitch.tv/otplol_|Twitch}}
+}}
+{{TournamentStreams|Carry International (LCK Carry)|lang=tw|links=
+  {{TournamentStreams/Link|https://youtube.com/@LCKCarry|Youtube}}
+  {{TournamentStreams/Link|https://www.twitch.tv/lck_carry|Twitch}}
+  {{TournamentStreams/Link|https://play.sooplive.co.kr/carrylck|SOOP}}
+}}
+{{TournamentStreams/End}}
+
+=== Broadcast Talent ===
+* Korean
+** {{player|Caster Jun|flag=KR|name= Chun Yong-jun}} – Play-by-Play Caster
+** {{player|SEONG K|flag=KR|name= Seong Seung-heon}} – Play-by-Play Caster
+** {{player|CloudTemplar|flag=KR|name= Lee Hyun-woo}} – Color Caster
+** {{player|Ggoggo|flag=KR|name= Go Su-jin}} – Color Caster
+** {{player|MyLittlePony|flag=KR|name= Lim Ju-wan}} – Color Caster
+** {{player|Prince (Lee Chae-hwan)|flag=KR|name= Lee Chae-hwan}} – Color Caster
+** {{player|Helios (Shin Dong-jin)|flag=KR|name=Shin Dong-jin}} – Analyst
+** {{player|UmTi|flag=KR|name=Um Sung-hyeon}} – Analyst
+** {{player|Soobin|flag=KR|name=Youn Soo-bin }} – Analysis Host
+** {{player|Hyeji|flag=KR|name= Bae Hye-ji}} – Analysis Host
+** {{player|Eunbin|flag=KR|name= Lee Eun-bin}} – Analysis Host
+** {{player|Jeesun|flag=KR|name= Park Jee-sun}} – Translator
+
+* English
+** {{player|Atlus|flag=AU|name= Max Anderson}} – Play-by-Play Caster
+** {{player|Valdes|flag=US|name= Brendan Valdes}} – Play-by-Play Caster
+** {{player|Wolf (Wolf Schröder)|flag=US|name= Wolf Schröder}} – Color Caster
+** {{player|Aux|flag=UK|name= Dan Harrison}} – Analyst
+** {{player|dGon|flag=us|name=Daniel Gonzales}} – Analysis Host
+** {{player|Huni|flag=KR|name=Heo Seung-hoon}} – Analysis Host
+** {{player|Wadid|flag=KR|name=Kim Bae-in}} – Analysis Host
+
+* Vietnamese
+** {{player|Tùng Lâm|flag=VN|name=Hoàng Tùng Lâm}} – Play-by-Play Caster
+** {{player|Hoàng Luân|flag=VN|name=Huỳnh Hải Hoàng Luân}} – Play-by-Play Caster
+** {{player|Văn Tùng|flag=VN|name=Lê Văn Tùng }} – Play-by-Play Caster
+** {{player|Ling Cao Thủ|flag=VN|name=Nguyễn Mạnh Linh }} – Color Caster
+** {{player|Hữu Trung|flag=VN|name=Bùi Hữu Trung }} – Play-by-Play Caster
+** {{player|Bảo Minh|flag=vn|name=}} - Play-by-Play Caster
+** {{player|Hoàng Sama|flag=VN|name=Nguyễn Minh Hoàng}} –Color Caster
+** {{player|Minh Nghi|flag=VN|name=Trần Nguyễn Minh Nghi}} – Analysis Host
+** {{player|Gaeul (Trần Như Phương)|flag=VN|name= Trần Như Phương}} – Translator
+
+*Mandarin
+** {{player|YuWu (Chen Jia-Fong)|flag=tw|name=Chen Jia-Fong (陳家烽)}} – Caster
+** {{player|Section|flag=tw|name=Chu Ta-Kai (朱大開)}} – Caster
+** {{player|JR|flag=tw|name=Yang Chih-Jen (楊智仁)}} – Caster
+** {{player|Jackie (Chen Chia-Sheng)|flag=tw|name=Chen Chia-Sheng (陳迦笙)}} – Caster
+** {{player|Mattlin|flag=tw|name=Lin Hsiao-Chien (林孝謙)}} – Caster
+** {{player|RHan (Li Han)|flag=tw|name=Li Han (李寒)}} – Caster
+** {{player|Art (Chen Yu-Ting)|flag=tw|name=Chen Yu-Ting (陳宥廷)}} – Commentator
+** {{player|Chenzui|flag=tw|name=Fan Chen-Zui (樊宸瑞)}} – Commentator
+** {{player|Mountain (Xue Zhao-Hong)|flag=tw|name=Xue Zhao-Hong (薛兆鴻)}} – Commentator
+** {{player|Jay (Luo Zi-Jie)|flag=tw|name=Luo Zi-Jie (羅子杰)}} – Commentator
+** {{player|Zod|flag=tw|name=Chang Po-Cheng (張博誠)}} – Commentator
+
+=== Venue ===
+{| class="wikitable" style="text-align:center;"
+|-
+!{{flag|kr}} Seoul
+|-
+|LoL PARK - LCK Arena
+|-
+|''Capacity'' - 450
+|-
+|[[File:LoL PARK.jpg|330px]] [[File:2021 LCK Arena.png|330px]] 
+|-
+|33 Jong-ro, Cheongjin-dong, Jongno-gu, Seoul, South Korea
+|}
+
+=== Announcements ===
+* November 6, [https://lolesports.com/ko-KR/news/2026-lck-format-explainer 2026 LCK 진행 방식 안내]
+
+=== Viewership Statistics ===
+
+=== Additional Content ===
+* See [[LCK/2025 Season/Split 1/Media|Media]].
+
+== References ==
+<references/>

@@ -1,0 +1,19 @@
+{
+  "source": "liquipedia",
+  "termsUrl": "https://liquipedia.net/api-terms-of-use",
+  "lastReviewedAt": "2026-09-29",
+  "policyStatus": "blocked-review-required",
+  "collectionAllowed": false,
+  "reviewScope": {
+    "observed": {
+      "termsPage": "HTTP 403 to plain HTTP clients (Cloudflare-style blocking)",
+      "robotsTxt": "HTTP 200; general user agents largely allowed, AI agent user agents (GPTBot, ClaudeBot, ChatGPT-User, ...) fully disallowed"
+    },
+    "claimedByCommunityClients": {
+      "rateLimit": "strict; bans issued on violation (exact numbers on the terms page, which was not fetchable)",
+      "identity": "requests must identify the app (appname/user-agent)",
+      "license": "CC-BY-SA 3.0 for text data"
+    }
+  },
+  "notes": "Collection is NOT allowed in this phase: the terms page cannot be reviewed by automation, and the terms require human review in a real browser. This source is backup-only."
+}

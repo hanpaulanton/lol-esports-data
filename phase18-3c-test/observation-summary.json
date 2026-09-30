@@ -1,0 +1,54 @@
+{
+  "phase": "PHASE 18-3-C",
+  "observationDateUtc": "2026-09-30",
+  "fetchedAtUtc": "2026-09-30T08:33:52Z",
+  "pagesAccessed": [
+    {
+      "page": "Data:2026 Season World Championship/Main Event",
+      "httpStatus": 200,
+      "wikitextLength": 31733,
+      "structure": {
+        "matchScheduleRows": 40,
+        "startBlocks": 8,
+        "rowsPerStart": {
+          "Round 1 (bestof=1)": 8,
+          "Round 2 (bestof=1)": 8,
+          "Round 3 (bestof=3)": 8,
+          "Round 4 (bestof=3)": 6,
+          "Round 5 (bestof=3)": 3,
+          "Quarterfinals (bestof=5)": 4,
+          "Semifinals (bestof=5)": 2,
+          "Finals (bestof=5)": 1
+        },
+        "allRowsHaveEmptyTeamAndResultFields": true,
+        "scheduledRowsFutureVsObservation": 40,
+        "knownTeamScheduledRows": 0,
+        "gameTemplatesTotal": 94,
+        "rpgidNonEmpty": "0/94",
+        "gameCountEqualsStartBestof": "not always: 4 Round-3 rows (rows 17,18,21,22 = 2026-10-25/26 10:00/11:00) have 1 game block under bestof=3; the other 36 rows match their Start bestof",
+        "dstValueDistribution": {
+          "yes": 16,
+          "spring": 17,
+          "no": 7
+        },
+        "dstByDateBand": {
+          "2026-10-23..10-24": "dst=yes",
+          "2026-10-25..10-31": "dst=spring",
+          "2026-11-03..11-14": "dst=no"
+        }
+      }
+    }
+  ],
+  "knownTeamScheduledSchema": "UNKNOWN",
+  "stopConditionTriggered": "22.B — no suitable known-team page within the permitted requests; exploration stopped",
+  "newObservationsVsPhase18_3B": [
+    "dst values other than yes/no exist: dst=spring observed on 17 rows (new value class, meaning UNKNOWN).",
+    "Pre-created game-block count does not always equal Start bestof (4 rows have fewer blocks than bestof).",
+    "Both findings come from placeholder rows with empty team slots; no known-team row was found on this page."
+  ],
+  "notes": [
+    "All 40 rows have empty team1/team2/team1score/team2score/winner — the page schedules Round 1 before Play-In determines participants.",
+    "Every row is genuinely future relative to the 2026-09-30 observation (dates 2026-10-23..2026-11-14).",
+    "Game templates across all rows carry the same 17-key set as completed games, all values empty, riot_platform_game_id empty in 0/94 preassignments."
+  ]
+}

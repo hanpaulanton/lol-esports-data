@@ -1,0 +1,188 @@
+- link "나무위키":
+  - /url: /
+- link "최근 변경":
+  - /url: /RecentChanges
+  - generic: 최근 변경
+- link "최근 토론":
+  - /url: /RecentDiscuss
+  - generic: 최근 토론
+- link "특수 기능":
+  - /url: "#"
+  - generic: 특수 기능
+- link "아무 문서로 이동":
+  - /url: /random
+- searchbox "여기에서 검색"
+- link "검색":
+  - /url: "#"
+- link "이동":
+  - /url: "#"
+- link:
+  - /url: "#"
+- article:
+  - heading "Política de privacidad y Términos de uso" [level=1]
+  - iframe:
+    - iframe:
+      - table:
+        - rowgroup:
+          - 'row "Google 번역 이 보안 페이지의 콘텐츠를 번역하기 위해 보안 연결을 사용하여 Google로 전송합니다. 페이지 표시 언어: 한국어 번역 다음 언어에서 사용 안함: 스페인어 옵션 ▼ 닫기"':
+            - cell "Google 번역":
+              - link "Google 번역":
+                - /url: https://translate.google.com
+                - img "Google 번역"
+            - cell "이 보안 페이지의 콘텐츠를 번역하기 위해 보안 연결을 사용하여 Google로 전송합니다.":
+              - img "이 보안 페이지의 콘텐츠를 번역하기 위해 보안 연결을 사용하여 Google로 전송합니다."
+            - cell
+            - 'cell "페이지 표시 언어: 한국어 번역 다음 언어에서 사용 안함: 스페인어"':
+              - table:
+                - rowgroup:
+                  - 'row "페이지 표시 언어: 한국어 번역 다음 언어에서 사용 안함: 스페인어"':
+                    - 'cell "페이지 표시 언어: 한국어"':
+                      - text: "페이지 표시 언어:"
+                      - link "한국어":
+                        - /url: "#"
+                    - cell
+                    - cell "번역":
+                      - button "번역"
+                    - cell
+                    - 'cell "다음 언어에서 사용 안함: 스페인어"':
+                      - 'button "다음 언어에서 사용 안함: 스페인어"'
+            - cell
+            - cell "옵션 ▼":
+              - button "옵션 ▼"
+            - cell "닫기":
+              - link "닫기":
+                - /url: "#"
+                - img "닫기"
+    - list:
+      - listitem: 1. Disposiciones Generales
+      - list:
+        - listitem: 1.1. Las disposiciones sobre política de privacidad que se establecen son de aceptación automática por parte del usuario que ingresa en el sitio namu.wiki, bajo los principios que regulan los contratos por adhesión.
+        - listitem: 1.2. El mero acto de acceso al sitio, así como el envío y levantamiento de contribuciones implican aceptación tácita de los términos y condiciones de esta Política de Privacidad.
+        - listitem: 1.3. Los administradores del sitio quedan facultados a arbitrar las medidas necesarias en uso de sus atribuciones de administración del sitio, en caso de constatarse alguna de las violaciones de las presentes reglas de la Política de Privacidad.
+        - listitem: 1.4. El sitio namu.wiki es un sitio de colaboración y contribución sin fines de lucro. Las informaciones que sean compartidas no podrán ser utilizadas con fines alternativos a las verdaderas enseñanzas y doctrinas que rigen las materias y asignaturas al cual pertenezca el tipo de información compartida. El sitio namu.wiki no se hace responsable de algún problema o inconveniente que genere en algunas de las áreas académicas en caso de ser utilizado como medio indebido de reemplazo de tesis y proyectos didácticos y académicos.
+        - listitem: 1.5. Las informaciones que surgen en namu.wiki son de autorías de los usuarios contribuyentes, y la veracidad o validez de sus informaciones no son responsabilidades del sitio ni de sus administradores en el caso de existir controversia por parte de entendidos en la materia que refuten las informaciones. No obstante, de darse esta situación, los administradores quedan facultados a eliminar toda información que no corresponda con las realidades académicas y doctrinarias.
+        - listitem: 1.6. Los administradores del sitio namu.wiki tienen la facultad de revisar los contenidos aportados por los contribuyentes, en caso de recibir denuncias de otros usuarios que impliquen violación de políticas de privacidad, o infrinjan normas internacionales en materia de Derechos Humanos, y garantías consagradas a favor de las personas en cuanto a la protección de su intimidad, privacidad, buen nombre y honor, que incluso puedan ser considerados como delitos penales en el ámbito territorial al cual pertenezca el usuario denunciante. En este caso los administradores harán uso del derecho de suspensión de la publicación denunciada por el lapso de 30 días corridos, tiempo durante el cual se procederá a la correspondiente revisión. Cumplido este término, en caso de que los administradores dictaminen que la publicación denunciada no infringe las normas indicadas precedentemente, la publicación será restablecida en su sitio correspondiente. En caso de dictaminarse que la publicación efectivamente viola alguna de las normas precedentes, una vez cumplido el término señalado, los administradores procederán a la eliminación del aporte de su sitio.
+        - listitem: 1.7. Agotados los trámites del numeral anterior, y para el caso de surgir desacuerdos entre las partes afectadas, en el caso de situaciones no previstas o los conflictos que puedan plantearse con respecto a la ejecución o interpretación de estos términos y condiciones serán resueltos en forma amigable, de común acuerdo entre las partes, usuario/contribuyente y administradores. En caso de no ser ello posible y luego de transcurrido un plazo de 30 días corridos desde la fecha de comunicación por medio fehaciente del reclamo, se recurrirá al arbitraje, para lo cual se integrará un tribunal arbitral conformado por un (1) miembro, conviniendo las partes en éste sentido que la autoridad nominadora sea el designado por sorteo de la nómina de cuatro miembros posibles designados dos por cada parte. El árbitro fijará el procedimiento a seguir, que deberá ser ágil y asegurar a ambas partes la oportunidad de presentar sus posiciones y pruebas, aplicándose subsidiariamente el Reglamento de Arbitraje de la Comisión de Naciones Unidas para el Derecho Mercantil Internacional (CNUDMI). El fallo se pronunciará por equidad y será inapelable. El lugar del arbitraje será designado de común acuerdo por las partes. El árbitro ordenar la ejecución de medidas cautelares, solicitando el auxilio de funcionarios públicos, judiciales, policiales y administrativos, sin que sea necesario recurrir a juez ordinario alguno para tales efectos.
+      - listitem: 2. Disposiciones particulares en cuanto a datos.
+      - list:
+        - listitem: 2.1. El sitio namu.wiki no es un sitio de proporción de datos de usuarios contribuyentes y los usuarios están facultados a proporcionar sólo datos básicos sobre su identidad, siendo obligatoria no obstante la dirección del correo electrónico sin obligatoriedad de verificación de su origen o autenticidad de identidad, pero se encuentran obligados a revelar las fuentes didácticas y académicas de sus afirmaciones en calidad de referencia.
+        - listitem: 2.2. En el caso de que los contribuyentes proporcionen sus datos el sitio namu.wiki como asimismo sus administradores no se encuentran obligados a proporcionar los datos a las autoridades que lo requieran. No obstante, los administradores deberán de arbitrar los medios necesarios para que los sitios IP de donde provengan datos manifiestamente falsos y que afecten las seguridades de los estados, sean de acceso libre para las autoridades encargadas de las investigaciones.
+        - listitem: 2.3. El sitio namu.wiki no es una base de datos de informaciones personales, por lo que los datos privados que puedan afectar los derechos de intimidad y privacidad de los usuarios no serán exigidos ni serán expuestos a la vista de cualquier persona.
+        - listitem: 2.4. El acceso, el almacenaje o la divulgación de las informaciones personales de los contribuyentes y usuarios de namu.wiki serán efectuadas por los administradores si éstos consideraren razonable y necesarios, para satisfacer garantías válidas y aplicables, citación, orden de autoridades judiciales, ley, regulación u otra orden judicial o administrativa, conforme a las legislaciones que vayan surgiendo en la materia del país donde tiene su asiento el sitio de administración. Sin embargo, los administradores se reservan el derecho de rechazar las peticiones y requerimientos de divulgación de alguna información particular de algún usuario/contribuyente cuando sean considerados que no se han formulado en forma válida legalmente o sea considerado un abuso del sistema legal que atente contra el derecho a la libre expresión y acceso a la información conforme a las normas sobre Derechos Humanos vigentes a nivel mundial. En caso de que los administradores no tengan alternativa más que acatar las órdenes legales cuando ya no existan recursos posibles, los mismos notificarán al usuario de la situación a través de su correo electrónico, que para este caso será considerado como único dato obligatorio a ser proporcionado. El plazo de notificación será de diez días hábiles laborales, y una vez agotado sin respuesta ni objeción del usuario los administradores quedan libres de proporcionar los datos requeridos por la autoridad pertinente.
+        - text: 2.5. Por razones de seguridad, estamos utilizando software tercerizado, el reCAPTCHA que recompila su información. Para más detalles, véase
+        - link "la política de privacidad de Google.":
+          - /url: https://www.google.com.py/intl/es-419/policies/privacy/
+- list:
+  - link "닛몰캐쉬":
+    - /url: /Go?q=%EB%8B%9B%EB%AA%B0%EC%BA%90%EC%89%AC
+    - generic: 닛몰캐쉬
+  - link "사망여우":
+    - /url: /Go?q=%EC%82%AC%EB%A7%9D%EC%97%AC%EC%9A%B0
+    - generic: 사망여우
+  - link "맨시티":
+    - /url: /Go?q=%EB%A7%A8%EC%8B%9C%ED%8B%B0
+    - generic: 맨시티
+  - link "암살자(들)":
+    - /url: /Go?q=%EC%95%94%EC%82%B4%EC%9E%90%28%EB%93%A4%29
+    - generic: 암살자(들)
+  - link "부캉이":
+    - /url: /Go?q=%EB%B6%80%EC%BA%89%EC%9D%B4
+    - generic: 부캉이
+  - link "봉누도2":
+    - /url: /Go?q=%EB%B4%89%EB%88%84%EB%8F%842
+    - generic: 봉누도2
+  - link "댱이":
+    - /url: /Go?q=%EB%8C%B1%EC%9D%B4
+    - generic: 댱이
+  - link "안세영":
+    - /url: /Go?q=%EC%95%88%EC%84%B8%EC%98%81
+    - generic: 안세영
+  - link "신병4":
+    - /url: /Go?q=%EC%8B%A0%EB%B3%914
+    - generic: 신병4
+  - link "지뢰":
+    - /url: /Go?q=%EC%A7%80%EB%A2%B0
+    - generic: 지뢰
+  - link "닛몰캐쉬":
+    - /url: /Go?q=%EB%8B%9B%EB%AA%B0%EC%BA%90%EC%89%AC
+    - generic: 닛몰캐쉬
+- link:
+  - /url: /RecentChanges
+- list:
+  - link "퀸덤 퍼즐/에피소드 17초 전":
+    - /url: /w/%ED%80%B8%EB%8D%A4%20%ED%8D%BC%EC%A6%90/%EC%97%90%ED%94%BC%EC%86%8C%EB%93%9C
+    - generic: 퀸덤 퍼즐/에피소드
+    - time: 17초 전
+  - link "김민성/선수 경력/넥센 히어로즈 17초 전":
+    - /url: /w/%EA%B9%80%EB%AF%BC%EC%84%B1/%EC%84%A0%EC%88%98%20%EA%B2%BD%EB%A0%A5/%EB%84%A5%EC%84%BC%20%ED%9E%88%EC%96%B4%EB%A1%9C%EC%A6%88
+    - generic: 김민성/선수 경력/넥센 히어로즈
+    - time: 17초 전
+  - link "조아라(웹사이트) 18초 전":
+    - /url: /w/%EC%A1%B0%EC%95%84%EB%9D%BC(%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8)
+    - generic: 조아라(웹사이트)
+    - time: 18초 전
+  - link "조선국군준비대 20초 전":
+    - /url: /w/%EC%A1%B0%EC%84%A0%EA%B5%AD%EA%B5%B0%EC%A4%80%EB%B9%84%EB%8C%80
+    - generic: 조선국군준비대
+    - time: 20초 전
+  - link "파피 플레이타임/아이템 21초 전":
+    - /url: /w/%ED%8C%8C%ED%94%BC%20%ED%94%8C%EB%A0%88%EC%9D%B4%ED%83%80%EC%9E%84/%EC%95%84%EC%9D%B4%ED%85%9C
+    - generic: 파피 플레이타임/아이템
+    - time: 21초 전
+  - link "원피스(드라마)/원작과의 차이점 24초 전":
+    - /url: /w/%EC%9B%90%ED%94%BC%EC%8A%A4(%EB%93%9C%EB%9D%BC%EB%A7%88)/%EC%9B%90%EC%9E%91%EA%B3%BC%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90
+    - generic: 원피스(드라마)/원작과의 차이점
+    - time: 24초 전
+  - link "봉누도 2/집단 및 세력/봉누도경찰청 28초 전":
+    - /url: /w/%EB%B4%89%EB%88%84%EB%8F%84%202/%EC%A7%91%EB%8B%A8%20%EB%B0%8F%20%EC%84%B8%EB%A0%A5/%EB%B4%89%EB%88%84%EB%8F%84%EA%B2%BD%EC%B0%B0%EC%B2%AD
+    - generic: 봉누도 2/집단 및 세력/봉누도경찰청
+    - time: 28초 전
+  - link "괴도단 팬텀 29초 전":
+    - /url: /w/%EA%B4%B4%EB%8F%84%EB%8B%A8%20%ED%8C%AC%ED%85%80
+    - generic: 괴도단 팬텀
+    - time: 29초 전
+  - link "고유어 이름 33초 전":
+    - /url: /w/%EA%B3%A0%EC%9C%A0%EC%96%B4%20%EC%9D%B4%EB%A6%84
+    - generic: 고유어 이름
+    - time: 33초 전
+  - link "폰6 52초 전":
+    - /url: /w/%ED%8F%B06
+    - generic: 폰6
+    - time: 52초 전
+- contentinfo:
+  - link "나무위키 뷰어 - Play Store":
+    - /url: https://play.google.com/store/apps/details?id=net.umanle.namuwiki
+  - link "나무위키 뷰어 - App Store":
+    - /url: https://apps.apple.com/app/id1623510780
+  - list:
+    - listitem: namu.wiki
+    - link "Contáctenos":
+      - /url: mailto:support@namu.wiki
+    - link "Términos de uso":
+      - /url: /Policy
+  - list:
+    - listitem: Operado por umanle S.R.L.
+    - listitem: Hecho con ❤️ en Asunción, República del Paraguay
+  - list:
+    - listitem: Su zona horaria es Europe/Moscow
+    - listitem: Impulsado por the seed engine
+  - paragraph:
+    - text: This site is protected by reCAPTCHA and the Google
+    - link "Privacy Policy":
+      - /url: https://policies.google.com/privacy
+    - text: and
+    - link "Terms of Service":
+      - /url: https://policies.google.com/terms
+    - text: apply. This site is protected by hCaptcha and its
+    - link "Privacy Policy":
+      - /url: https://www.hcaptcha.com/privacy
+    - text: and
+    - link "Terms of Service":
+      - /url: https://www.hcaptcha.com/terms
+    - text: apply.
+- list:
+  - link:
+    - /url: "#"
+  - link:
+    - /url: "#"
+- iframe

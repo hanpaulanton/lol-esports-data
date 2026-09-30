@@ -1,0 +1,12 @@
+{
+  "phase": "PHASE 18-3-C",
+  "fetchedAt": "2026-09-30T10:40:07Z",
+  "sourceUrl": "https://lol.fandom.com/api.php?action=query&titles=Data%3A2026+Season+World+Championship%2FMain+Event&prop=revisions&rvprop=content&rvslots=main&format=json&formatversion=2",
+  "pageTitle": "Data:2026 Season World Championship/Main Event",
+  "requestPurpose": "PHASE 18-3-C evidence acquisition request #1 (known-team scheduled MatchSchedule)",
+  "userAgent": "LoLEsportsFanDataCollector/0.1 (unofficial fan project; personal non-commercial)",
+  "networkRequestCount": 1,
+  "retries": 0,
+  "httpStatus": 200,
+  "outcome": "HTTP 200, saved page_Data_2026 Season World Championship_Main Event_wikitext.json + page_Data_2026 Season World Championship_Main Event.wikitext; wikitext_len=31733 title='Data:2026 Season World Championship/Main Event'"
+}

@@ -1,0 +1,81 @@
+{
+  "confirmed": {
+    "T1": "T1",
+    "KT": "KT Rolster",
+    "DN SOOPers": "DN SOOPers",
+    "BNK FEARX": "BNK FEARX",
+    "GEN": "Gen.G",
+    "HANJIN BRION": "HANJIN BRION",
+    "KRX": "Kiwoom DRX",
+    "NS": "Nongshim RedForce"
+  },
+  "results": [
+    [
+      "T1",
+      "T1",
+      "OBSERVED",
+      "exact fixture name 'T1'"
+    ],
+    [
+      "GEN",
+      "GEN.G",
+      "OBSERVED_CASE_VARIANT",
+      "case variant only; fixture spelling 'Gen.G' is authoritative"
+    ],
+    [
+      "KT",
+      "KT Rolster",
+      "OBSERVED",
+      "exact fixture name 'KT Rolster'"
+    ],
+    [
+      "HLE",
+      "Hanwha Life Esports",
+      "PAIRING_UNCONFIRMED",
+      "code appears in fixture but 1:1 pairing could not be confirmed from available games"
+    ],
+    [
+      "DK",
+      "Dplus KIA",
+      "NOT_OBSERVED",
+      "code never appears in fixture (the team itself appears under a different fixture identifier)"
+    ],
+    [
+      "DNS",
+      "DN SOOPers",
+      "NOT_OBSERVED",
+      "code never appears in fixture (the team itself appears under a different fixture identifier)"
+    ],
+    [
+      "BFX",
+      "BNK FEARX",
+      "NOT_OBSERVED",
+      "code never appears in fixture (the team itself appears under a different fixture identifier)"
+    ],
+    [
+      "BRO",
+      "HANJIN BRION",
+      "NOT_OBSERVED",
+      "code never appears in fixture (the team itself appears under a different fixture identifier)"
+    ]
+  ],
+  "unmatchableDates": [
+    "2026-08-01: MatchSchedule rows=2, Scoreboard games=0",
+    "2026-08-02: MatchSchedule rows=2, Scoreboard games=0",
+    "2026-08-05: MatchSchedule rows=2, Scoreboard games=0",
+    "2026-08-06: MatchSchedule rows=2, Scoreboard games=0",
+    "2026-08-07: MatchSchedule rows=2, Scoreboard games=0",
+    "2026-08-08: MatchSchedule rows=2, Scoreboard games=0",
+    "2026-08-09: MatchSchedule rows=2, Scoreboard games=0",
+    "2026-08-12: MatchSchedule rows=2, Scoreboard games=0",
+    "2026-08-13: MatchSchedule rows=2, Scoreboard games=0",
+    "2026-08-14: MatchSchedule rows=2, Scoreboard games=0",
+    "2026-08-15: MatchSchedule rows=2, Scoreboard games=0",
+    "2026-08-16: MatchSchedule rows=2, Scoreboard games=0",
+    "2026-08-19: MatchSchedule rows=2, Scoreboard games=0",
+    "2026-08-20: MatchSchedule rows=2, Scoreboard games=0",
+    "2026-08-21: MatchSchedule rows=2, Scoreboard games=0",
+    "2026-08-22: MatchSchedule rows=2, Scoreboard games=0",
+    "2026-08-23: MatchSchedule rows=2, Scoreboard games=0"
+  ]
+}

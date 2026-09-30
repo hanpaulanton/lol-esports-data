@@ -1,0 +1,9 @@
+﻿fetched_at_utc: 2026-09-29T17:50:00Z (approx, collector run)
+sources fetched:
+  - api.php?action=cargotables (HTTP 200)
+  - api.php?action=query (opensearch/search/allpages/revisions) - all HTTP 200
+  - api.php?action=cargoquery - ratelimited (not collected this run)
+pages fetched:
+  - LCK/2026 Season/Rounds 3-4 (tournament page)
+  - LCK/2026 Season/Rounds 3-4/Scoreboards
+  - Data:LCK/2026 Season/Rounds 3-4 (MatchSchedule data page)

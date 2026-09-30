@@ -1,0 +1,187 @@
+{{DataTabs|fl=KR/LCK|extra_purges=LCK/2026 Season}}
+
+== Round 1 ==
+{{SetPatch|patch=26.16 |disabled= |hotfix= |footnote=}}
+{{MatchSchedule/Start|tab=Round 1 |bestof=5 |shownname=LCK 2026 Season Play-In }}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder=1|team1=KT |team2=HANJIN BRION |team1score=3 |team2score=2 |winner=1
+|date=2026-08-26 |time=17:00 |timezone=KST |dst=yes |pbp=Atlus |color=Aux |vodinterview=https://youtu.be/kMDhAVuVfms?t=19867 |with=Bdd |mvp=Bdd |vodhl= |stream=https://www.twitch.tv/lck |reddit=https://www.reddit.com/r/leagueoflegends/comments/1vyw357/kt_rolster_vs_hanjin_brion_lck_2026_season_playin/
+|game1={{MatchSchedule/Game
+|blue=HANJIN BRION |red=KT |winner=2 |first_sel=KT |ssel=HANJIN BRION |pick_sel=KT |first_pick=KT |ff=
+|riot_platform_game_id=LOLTMNT02_459552
+|vod=
+|vodpb=https://youtu.be/kMDhAVuVfms?t=2498
+|vodstart=https://youtu.be/kMDhAVuVfms?t=2905
+|vodpost=https://youtu.be/kMDhAVuVfms?t=5235
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue=KT |red=HANJIN BRION |winner=2 |first_sel=HANJIN BRION |ssel=KT |pick_sel=HANJIN BRION |first_pick=HANJIN BRION |ff=
+|riot_platform_game_id=LOLTMNT02_459565
+|vod=
+|vodpb=https://youtu.be/kMDhAVuVfms?t=6188
+|vodstart=https://youtu.be/kMDhAVuVfms?t=6635
+|vodpost=https://youtu.be/kMDhAVuVfms?t=8452
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue=KT |red=HANJIN BRION |winner=2 |first_sel=KT |ssel=KT |pick_sel=HANJIN BRION |first_pick=HANJIN BRION |ff=
+|riot_platform_game_id=LOLTMNT02_459574
+|vod=
+|vodpb=https://youtu.be/kMDhAVuVfms?t=9323
+|vodstart=https://youtu.be/kMDhAVuVfms?t=9862
+|vodpost=https://youtu.be/kMDhAVuVfms?t=11939
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game4={{MatchSchedule/Game
+|blue=HANJIN BRION |red=KT |winner=2 |first_sel=KT |ssel=HANJIN BRION |pick_sel=KT |first_pick=HANJIN BRION |ff=
+|riot_platform_game_id=LOLTMNT02_458575
+|vod=
+|vodpb=https://youtu.be/kMDhAVuVfms?t=12846
+|vodstart=https://youtu.be/kMDhAVuVfms?t=13291
+|vodpost=https://youtu.be/kMDhAVuVfms?t=15285
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game5={{MatchSchedule/Game
+|blue=HANJIN BRION |red=KT |winner=2 |first_sel=HANJIN BRION |ssel=KT |pick_sel=HANJIN BRION |first_pick=HANJIN BRION |ff=
+|riot_platform_game_id=LOLTMNT02_458596
+|vod=
+|vodpb=https://youtu.be/kMDhAVuVfms?t=16237
+|vodstart=https://youtu.be/kMDhAVuVfms?t=16816
+|vodpost=https://youtu.be/kMDhAVuVfms?t=19520
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder=2|team1=NS |team2=BNK FEARX |team1score=1 |team2score=3 |winner=2
+|date=2026-08-27 |time=17:00 |timezone=KST |dst=yes |pbp=Valdes |color=Aux |vodinterview=https://youtu.be/vN6y8LgTKt4?t=13812 |with=VicLa |mvp=VicLa |vodhl= |stream=https://www.twitch.tv/lck |reddit=https://www.reddit.com/r/leagueoflegends/comments/1vzo839/nongshim_redforce_vs_bnk_fearx_lck_2026_season/ |tags=worlds2026elim
+|game1={{MatchSchedule/Game
+|blue=BNK FEARX |red=NS |winner=2 |first_sel=NS |ssel=BNK FEARX |pick_sel=NS |first_pick=NS |ff=
+|riot_platform_game_id=LOLTMNT02_458778
+|vod=
+|vodpb=https://youtu.be/vN6y8LgTKt4?t=1897
+|vodstart=https://youtu.be/vN6y8LgTKt4?t=2238
+|vodpost=https://youtu.be/vN6y8LgTKt4?t=3886
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue=NS |red=BNK FEARX |winner=2 |first_sel=BNK FEARX |ssel=NS |pick_sel=BNK FEARX |first_pick=BNK FEARX |ff=
+|riot_platform_game_id=LOLTMNT02_458797
+|vod=
+|vodpb=https://youtu.be/vN6y8LgTKt4?t=4868
+|vodstart=https://youtu.be/vN6y8LgTKt4?t=5253
+|vodpost=https://youtu.be/vN6y8LgTKt4?t=7080
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue=BNK FEARX |red=NS |winner=1 |first_sel=NS |ssel=BNK FEARX |pick_sel=NS |first_pick=NS |ff=
+|riot_platform_game_id=LOLTMNT02_458808
+|vod=
+|vodpb=https://youtu.be/vN6y8LgTKt4?t=7978
+|vodstart=https://youtu.be/vN6y8LgTKt4?t=8404
+|vodpost=https://youtu.be/vN6y8LgTKt4?t=10592
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game4={{MatchSchedule/Game
+|blue=BNK FEARX |red=NS |winner=1 |first_sel=NS |ssel=BNK FEARX |pick_sel=NS |first_pick=NS |ff=
+|riot_platform_game_id=LOLTMNT02_458824
+|vod=
+|vodpb=https://youtu.be/vN6y8LgTKt4?t=11502
+|vodstart=https://youtu.be/vN6y8LgTKt4?t=11898
+|vodpost=https://youtu.be/vN6y8LgTKt4?t=13420
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule/End}}
+
+== Round 2 ==
+{{MatchSchedule/Start|tab=Round 2 |bestof=5 |shownname=LCK 2026 Season Play-In }}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder=1|team1=HANJIN BRION |team2=BNK FEARX |team1score=2 |team2score=3 |winner=2
+|date=2026-08-28 |time=17:00 |timezone=KST |dst=yes |pbp=Atlus |color=Wolf (Wolf Schröder) |vodinterview=https://youtu.be/N4QBW9qOEf4?t=18202 |with=Taeyoon (Kim Tae-yoon) |mvp=Taeyoon (Kim Tae-yoon) |vodhl= |stream=https://www.twitch.tv/lck |reddit=https://www.reddit.com/r/leagueoflegends/comments/1w0ouss/hanjin_brion_vs_bnk_fearx_lck_2026_season_playin/ |tags=worlds2026elim
+|game1={{MatchSchedule/Game
+|blue=BNK FEARX |red=HANJIN BRION |winner=1 |first_sel=HANJIN BRION |ssel=BNK FEARX |pick_sel=HANJIN BRION |first_pick=HANJIN BRION |ff=
+|riot_platform_game_id=LOLTMNT02_461046
+|vod=
+|vodpb=https://youtu.be/N4QBW9qOEf4?t=2746
+|vodstart=https://youtu.be/N4QBW9qOEf4?t=3112
+|vodpost=https://youtu.be/N4QBW9qOEf4?t=5120
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue=BNK FEARX |red=HANJIN BRION |winner=2 |first_sel=HANJIN BRION |ssel=BNK FEARX |pick_sel=HANJIN BRION |first_pick=HANJIN BRION |ff=
+|riot_platform_game_id=LOLTMNT02_461064
+|vod=
+|vodpb=https://youtu.be/N4QBW9qOEf4?t=6074
+|vodstart=https://youtu.be/N4QBW9qOEf4?t=6575
+|vodpost=https://youtu.be/N4QBW9qOEf4?t=8161
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue=HANJIN BRION |red=BNK FEARX |winner=1 |first_sel=BNK FEARX |ssel=HANJIN BRION |pick_sel=BNK FEARX |first_pick=BNK FEARX |ff=
+|riot_platform_game_id=LOLTMNT02_461095
+|vod=
+|vodpb=https://youtu.be/N4QBW9qOEf4?t=9059
+|vodstart=https://youtu.be/N4QBW9qOEf4?t=9559
+|vodpost=https://youtu.be/N4QBW9qOEf4?t=11374
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game4={{MatchSchedule/Game
+|blue=HANJIN BRION |red=BNK FEARX |winner=2 |first_sel=BNK FEARX |ssel=HANJIN BRION |pick_sel=BNK FEARX |first_pick=BNK FEARX |ff=
+|riot_platform_game_id=LOLTMNT02_461110
+|vod=
+|vodpb=https://youtu.be/N4QBW9qOEf4?t=12318
+|vodstart=https://youtu.be/N4QBW9qOEf4?t=12725
+|vodpost=https://youtu.be/N4QBW9qOEf4?t=14467
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game5={{MatchSchedule/Game
+|blue=BNK FEARX |red=HANJIN BRION |winner=1 |first_sel=HANJIN BRION |ssel=BNK FEARX |pick_sel=HANJIN BRION |first_pick=HANJIN BRION 
+|riot_platform_game_id=LOLTMNT02_461127
+|vod=
+|vodpb=https://youtu.be/N4QBW9qOEf4?t=15442
+|vodstart=https://youtu.be/N4QBW9qOEf4?t=15925
+|vodpost=https://youtu.be/N4QBW9qOEf4?t=17773
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule/End}}

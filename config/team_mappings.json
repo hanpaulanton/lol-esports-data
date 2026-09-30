@@ -1,0 +1,94 @@
+{
+  "_meta": {
+    "purpose": "Team code mapping for the LCK 2026 fixture. PHASE 17 draft + PHASE 18-1 promotion: HLE/DPLUS were resolved via riot_platform_game_id matching between MatchSchedule/Game (codes) and Scoreboard/Season 16 (full names) — 14/14 games consistent, no conflicts.",
+    "verificationTool": "tests/hle_dplus_gameid_matching.py + scripts/verify_team_mappings.py",
+    "verificationSummary": {
+      "gameIdMatchedGames": "14/14 (blue-gold-sum==team1g verified for all: team1 == blue side)",
+      "conflicts": 0,
+      "resolvedCodes": ["T1", "GEN", "KT", "HLE", "DPLUS", "KRX", "NS", "DN SOOPers", "BNK FEARX", "HANJIN BRION"],
+      "humanProvidedPromoted": ["T1", "KT", "HLE"],
+      "humanProvidedCaseVariant": ["GEN (fixture spelling Gen.G is authoritative)"],
+      "humanProvidedNotObserved": ["DK", "DNS", "BFX", "BRO (codes never appear in Leaguepedia fixture; teams use DPLUS/DN SOOPers/BNK FEARX/HANJIN BRION)"],
+      "fixtureOnlyCodes": ["KRX (Kiwoom DRX)", "NS (Nongshim RedForce)"]
+    },
+    "fieldSemantics": {
+      "leaguepediaCode": "the identifier Leaguepedia actually uses in MatchSchedule team1/team2. The normalizer uses this as the provisional team id.",
+      "humanProvidedCode": "code supplied by the user (HUMAN_PROVIDED). Separate code system — never merged with leaguepediaCode.",
+      "canonicalId": "still null: no stable canonical team ID confirmed from any source yet"
+    }
+  },
+  "mappings": [
+    {
+      "leaguepediaCode": "T1",
+      "name": "T1",
+      "humanProvidedCode": "T1",
+      "humanVerification": "OBSERVED (exact fixture name 'T1'; also confirmed by game-id matching)",
+      "canonicalId": null
+    },
+    {
+      "leaguepediaCode": "GEN",
+      "name": "Gen.G",
+      "humanProvidedCode": "GEN.G",
+      "humanVerification": "OBSERVED_CASE_VARIANT (fixture spelling Gen.G is authoritative; game-id matching confirmed GEN -> Gen.G)",
+      "canonicalId": null
+    },
+    {
+      "leaguepediaCode": "KT",
+      "name": "KT Rolster",
+      "humanProvidedCode": "KT",
+      "humanVerification": "OBSERVED (game-id matching: 2 games, both sides consistent)",
+      "canonicalId": null
+    },
+    {
+      "leaguepediaCode": "HLE",
+      "name": "Hanwha Life Esports",
+      "humanProvidedCode": "HLE",
+      "humanVerification": "OBSERVED — promoted in PHASE 18-1 (riot_platform_game_id matching: game LOLTMNT02_444234 blue=DPLUS/red=HLE winner=2 vs scoreboard team1=Dplus Kia/team2=Hanwha Life Esports winner=2 pins HLE to Hanwha Life Esports; PHASE 17's 2:2 ambiguity resolved)",
+      "canonicalId": null
+    },
+    {
+      "leaguepediaCode": "DPLUS",
+      "name": "Dplus Kia",
+      "humanProvidedCode": "DK",
+      "humanVerification": "human code DK is NOT_OBSERVED in the Leaguepedia fixture (the team is coded DPLUS there). Name pairing DPLUS -> Dplus Kia OBSERVED — promoted in PHASE 18-1 via riot_platform_game_id matching (games LOLTMNT02_443344 / 443370: blue=HLE/red=DPLUS winner=2 vs scoreboard team1=Hanwha Life Esports/team2=Dplus Kia winner=2)",
+      "canonicalId": null
+    },
+    {
+      "leaguepediaCode": "KRX",
+      "name": "Kiwoom DRX",
+      "humanProvidedCode": null,
+      "humanVerification": null,
+      "humanVerificationNote": "no human-provided code supplied for this team; code->name pairing confirmed by game-id matching (3 games)",
+      "canonicalId": null
+    },
+    {
+      "leaguepediaCode": "NS",
+      "name": "Nongshim RedForce",
+      "humanProvidedCode": null,
+      "humanVerification": null,
+      "humanVerificationNote": "no human-provided code supplied for this team; code->name pairing confirmed by game-id matching (2 games)",
+      "canonicalId": null
+    },
+    {
+      "leaguepediaCode": "DN SOOPers",
+      "name": "DN SOOPers",
+      "humanProvidedCode": "DNS",
+      "humanVerification": "human code DNS is NOT_OBSERVED in the Leaguepedia fixture (the team is coded DN SOOPers there). code->name pairing confirmed by game-id matching (2 games)",
+      "canonicalId": null
+    },
+    {
+      "leaguepediaCode": "BNK FEARX",
+      "name": "BNK FEARX",
+      "humanProvidedCode": "BFX",
+      "humanVerification": "human code BFX is NOT_OBSERVED in the Leaguepedia fixture (the team is coded BNK FEARX there). code->name pairing confirmed by game-id matching (2 games)",
+      "canonicalId": null
+    },
+    {
+      "leaguepediaCode": "HANJIN BRION",
+      "name": "HANJIN BRION",
+      "humanProvidedCode": "BRO",
+      "humanVerification": "human code BRO is NOT_OBSERVED in the Leaguepedia fixture (the team is coded HANJIN BRION there). code->name pairing confirmed by game-id matching (3 games)",
+      "canonicalId": null
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+=== anchors mentioning terms ===
+href=https://policies.google.com/terms  label='Terms of Service'
+href=https://www.hcaptcha.com/terms  label='Terms of Service'

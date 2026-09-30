@@ -1,0 +1,12 @@
+{
+  "phase": "PHASE 18-3-D-EMEA",
+  "fetchedAt": "2026-09-30T11:51:00Z",
+  "sourceUrl": "https://lol.fandom.com/api.php?action=query&titles=Data%3AEMEA%20Masters/2026%20Season/Summer%20Main%20Event&prop=revisions&rvprop=content&rvslots=main&format=json&formatversion=2",
+  "pageTitle": "Data:EMEA Masters/2026 Season/Summer Main Event",
+  "requestPurpose": "PHASE 18-3-D-EMEA request #1 (single allowed request): known-team scheduled MatchSchedule evidence from EMEA Masters 2026 Summer Main Event",
+  "userAgent": "LoLEsportsFanDataCollector/0.1 (unofficial fan project; personal non-commercial)",
+  "networkRequestCount": 1,
+  "retries": 0,
+  "httpStatus": 200,
+  "outcome": "HTTP 200, saved page_EMEA_Masters_2026_Summer_Main_Event_wikitext.json + .wikitext; wikitext_len=54892"
+}

@@ -1,0 +1,12 @@
+=== footer policy links ===
+href=/Policy  label='Términos de uso'
+=== fetching https://namu.wiki/Policy ===
+STATUS=200 TEXTLEN=12
+ Loading... 
+--- [자동] NOT FOUND
+--- [크롤] NOT FOUND
+--- [스크래핑] NOT FOUND
+--- [API] NOT FOUND
+--- [수집] NOT FOUND
+--- [data mining] NOT FOUND
+--- [ scraping] NOT FOUND

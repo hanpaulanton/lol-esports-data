@@ -1,0 +1,191 @@
+{
+  "known": {
+    "id": "lp:EM 2026 Summer Main Event:2026-09-30:BIG:SNSH",
+    "league": {
+      "id": "EM",
+      "name": "EMEA Masters",
+      "region": "EU"
+    },
+    "tournament": {
+      "id": "EM 2026 Summer Main Event",
+      "name": "EM 2026 Summer Main Event"
+    },
+    "stage": {
+      "id": "Round 5",
+      "name": "Round 5"
+    },
+    "team1Id": "BIG",
+    "team2Id": "SNSH",
+    "scheduledAt": null,
+    "status": "scheduled",
+    "bestOf": 1,
+    "score": null,
+    "sources": [
+      {
+        "source": "leaguepedia",
+        "kind": "raw_fixture",
+        "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+      }
+    ],
+    "lastUpdatedAt": "2026-09-30",
+    "_warnings": [],
+    "_provisional": {
+      "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
+      "teamSlotState": {
+        "team1": "KNOWN",
+        "team2": "KNOWN"
+      },
+      "teamSlotRaw": {
+        "team1": "BIG",
+        "team2": "SNSH"
+      },
+      "identityStatus": {
+        "team1": "UNKNOWN",
+        "team2": "UNKNOWN"
+      },
+      "canonicalTeamId": {
+        "team1": null,
+        "team2": null
+      },
+      "bestOfSource": "row-level bestof",
+      "gameBlockCount": 1,
+      "rpgidCount": {
+        "total": 1,
+        "nonEmpty": 0
+      },
+      "timeRaw": {
+        "date": "2026-09-30",
+        "time": "06:00",
+        "timezone": "PST",
+        "dst": "yes",
+        "utcConversion": "PENDING_TIMEZONE_REVIEW"
+      }
+    }
+  },
+  "tbd": {
+    "id": "lp:EM 2026 Summer Main Event:2026-10-01:TBD:TBD",
+    "league": {
+      "id": "EM",
+      "name": "EMEA Masters",
+      "region": "EU"
+    },
+    "tournament": {
+      "id": "EM 2026 Summer Main Event",
+      "name": "EM 2026 Summer Main Event"
+    },
+    "stage": {
+      "id": "Round 6",
+      "name": "Round 6"
+    },
+    "team1Id": null,
+    "team2Id": null,
+    "scheduledAt": null,
+    "status": "scheduled",
+    "bestOf": 3,
+    "score": null,
+    "sources": [
+      {
+        "source": "leaguepedia",
+        "kind": "raw_fixture",
+        "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+      }
+    ],
+    "lastUpdatedAt": "2026-09-30",
+    "_warnings": [],
+    "_provisional": {
+      "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
+      "teamSlotState": {
+        "team1": "TBD",
+        "team2": "TBD"
+      },
+      "teamSlotRaw": {
+        "team1": "TBD",
+        "team2": "TBD"
+      },
+      "identityStatus": {
+        "team1": "UNKNOWN",
+        "team2": "UNKNOWN"
+      },
+      "canonicalTeamId": {
+        "team1": null,
+        "team2": null
+      },
+      "bestOfSource": "row-level bestof",
+      "gameBlockCount": 3,
+      "rpgidCount": {
+        "total": 3,
+        "nonEmpty": 0
+      },
+      "timeRaw": {
+        "date": "2026-10-01",
+        "time": "08:00",
+        "timezone": "PST",
+        "dst": "yes",
+        "utcConversion": "PENDING_TIMEZONE_REVIEW"
+      }
+    }
+  },
+  "empty": {
+    "id": "lp:Worlds 2026 Play-In:2026-10-15:EMPTY:EMPTY",
+    "league": {
+      "id": "Worlds",
+      "name": "World Championship",
+      "region": "INT"
+    },
+    "tournament": {
+      "id": "Worlds 2026 Play-In",
+      "name": "Worlds 2026 Play-In"
+    },
+    "stage": {
+      "id": "Round 1",
+      "name": "Round 1"
+    },
+    "team1Id": null,
+    "team2Id": null,
+    "scheduledAt": null,
+    "status": "scheduled",
+    "bestOf": 5,
+    "score": null,
+    "sources": [
+      {
+        "source": "leaguepedia",
+        "kind": "raw_fixture",
+        "ref": "raw/leaguepedia/page_Data_2026 Season World Championship_Play-In.wikitext"
+      }
+    ],
+    "lastUpdatedAt": "2026-09-30",
+    "_warnings": [],
+    "_provisional": {
+      "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
+      "teamSlotState": {
+        "team1": "EMPTY",
+        "team2": "EMPTY"
+      },
+      "teamSlotRaw": {
+        "team1": "",
+        "team2": ""
+      },
+      "identityStatus": {
+        "team1": "UNKNOWN",
+        "team2": "UNKNOWN"
+      },
+      "canonicalTeamId": {
+        "team1": null,
+        "team2": null
+      },
+      "bestOfSource": "start-level bestof",
+      "gameBlockCount": 5,
+      "rpgidCount": {
+        "total": 5,
+        "nonEmpty": 0
+      },
+      "timeRaw": {
+        "date": "2026-10-15",
+        "time": "11:00",
+        "timezone": "PST",
+        "dst": "yes",
+        "utcConversion": "PENDING_TIMEZONE_REVIEW"
+      }
+    }
+  }
+}

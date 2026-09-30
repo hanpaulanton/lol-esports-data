@@ -1,0 +1,2278 @@
+- link "나무위키":
+  - /url: /
+- link "최근 변경":
+  - /url: /RecentChanges
+  - generic: 최근 변경
+- link "최근 토론":
+  - /url: /RecentDiscuss
+  - generic: 최근 토론
+- link "특수 기능":
+  - /url: "#"
+  - generic: 특수 기능
+- link "아무 문서로 이동":
+  - /url: /random
+- searchbox "여기에서 검색"
+- link "검색":
+  - /url: "#"
+- link "이동":
+  - /url: "#"
+- link:
+  - /url: "#"
+- heading "T1" [level=1]:
+  - link "T1":
+    - /url: /w/T1
+- text: "최근 수정 시각:"
+- time: 2026-09-14 17:58:13
+- link "777":
+  - /url: /member/star/T1
+  - generic: "777"
+- generic "편집 요청":
+  - generic: 편집 요청
+- link "토론":
+  - /url: /discuss/T1
+  - text: 토론
+- link "역사":
+  - /url: /activity/T1
+  - text: 역사
+- button "더 보기":
+- iframe:
+  - button:
+  - iframe:
+    - iframe:
+      - iframe:
+        - iframe
+        - link:
+          - /url: https://insight.adsrvr.org/track/clk?imp=64276d9c-8940-4dee-b006-b855e5f61ed2&ag=tfvipen&sfe=1cf3c323&sig=x8HfmkJjUcuGgBbAHZ83rIhDI-v-IPnww-j4qN0vD_w.&crid=aqatd88i&cf=10947826&fq=0&t=1&td_s=namu.wiki&rcats=&mste=&mfld=4&mssi=&mfsi=&sv=aerserv&uhow=80&agsa=&wp=0.027418&rgz=55119&dt=PC&osf=Windows&os=Windows10&br=Chrome&svpid=cdfd74ce1cdd4a67b1c4794c072324ff&rlangs=en&mlang=&did=&rcxt=Other&tmpc=15.510000000000048&vrtd=&osi=&osv=&daid=&dnr=0&vpb=&crrelr=&npt=1&cc=3~KLUv_WPYfRZoWAINDgDUD5xtJ2RAie5NEbAGuFXl9h52aXBlbkixpYIOUPKZnAV0ZDg4aWCytb8aaAByCW5hbXVQ0gFNIkpldWstZG51IEplb24OU2Vvc2VvaGE1NSA0Y2VhNjcyMzI0ZurRlfT5oXJza3I1aXdq0AKUs5IDQi1DUk00LYiF0Kfxoc8_XzExNjQ1I2lfYzEwODk0p5PPj8OZxIchEOvbg40BJGVmMGYvdy9UFEy3GBQEWV_L87K5SEXQbWfm0oJJEa-OmmKHvWsqCwj2kuHN4YrByvzK_A50uwSYEwCoE0bQEwD9ExBYmT-AFAGgFACwFAC4FADIFADgFBTqFPAUkQHYFQA4_KRCxo1eLNQF6ICBp4xfShbtP9x-xz2-hEKo-htNdyxZkYr5lyPBqHmTt1mLsoMMiJpT9CBsMYW77Ig09p_TcRIoGv4_wh_ec6JmACB9G-ZVMbVCWiHVZshzLyKiZ-wFuGqYmvEy54T3LfRlicj994uO_t8QbWcJCfE6iJJ2NX-iNra2naanoJf_3zkD33Mqc6InrcJ6QZKmoAI9nMATPBPBwDj5ku2BekDrQMUqeV0yzpZxmBoKyQNjuCpElBwqAw..&dur=2~KLUv_SMNLtZUCUkAACACKAVNN6fyPg..&durs=K5CbWF&bdc=14&mk=Google&mdl=Chrome&testid=-CRM4-&fpa=546&pcm=3&ict=WiFi&said=ef66422c-01a0-1000-dc94-4dcbfe197a8b&auct=1&tail=1&r=https://g.oncehuman.game/c/h5rsgn?campaign=thetradedesk_h73na_madhouse_steam_kr_install_conversion_event_pc_gamesight_roas&ad_group=tfvipen&ad=aqatd88i&site_id=namu.wiki&sub_site_id=namu.wiki%2fw%2fT1&sub1=aerserv&ttd_id=64276d9c-8940-4dee-b006-b855e5f61ed2&tdid=
+- text: "분류:"
+- list:
+  - link "T1":
+    - /url: /w/%EB%B6%84%EB%A5%98:T1
+  - link "SK스퀘어":
+    - /url: /w/%EB%B6%84%EB%A5%98:SK%EC%8A%A4%ED%80%98%EC%96%B4
+  - link "SK스포츠":
+    - /url: /w/%EB%B6%84%EB%A5%98:SK%EC%8A%A4%ED%8F%AC%EC%B8%A0
+  - link "컴캐스트 스펙테이코":
+    - /url: /w/%EB%B6%84%EB%A5%98:%EC%BB%B4%EC%BA%90%EC%8A%A4%ED%8A%B8%20%EC%8A%A4%ED%8E%99%ED%85%8C%EC%9D%B4%EC%BD%94
+  - link "대한민국의 e스포츠 팀":
+    - /url: /w/%EB%B6%84%EB%A5%98:%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98%20e%EC%8A%A4%ED%8F%AC%EC%B8%A0%20%ED%8C%80
+  - link "대한민국의 MCN":
+    - /url: /w/%EB%B6%84%EB%A5%98:%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98%20MCN
+  - link "합작법인":
+    - /url: /w/%EB%B6%84%EB%A5%98:%ED%95%A9%EC%9E%91%EB%B2%95%EC%9D%B8
+  - link "2004년 설립":
+    - /url: /w/%EB%B6%84%EB%A5%98:2004%EB%85%84%20%EC%84%A4%EB%A6%BD
+- img "다른 뜻 아이콘"
+- text: 동음이의어에 대한 내용은
+- link "T1(동음이의어)":
+  - /url: /w/T1(%EB%8F%99%EC%9D%8C%EC%9D%B4%EC%9D%98%EC%96%B4)
+- text: 문서를 참고하십시오.
+- table:
+  - rowgroup:
+    - row "SK 로고 화이트 SK 관련 문서":
+      - cell "SK 로고 화이트 SK 관련 문서":
+        - link "SK 로고 화이트 SK 관련 문서":
+          - /url: /w/SK
+          - img "SK 로고 화이트"
+          - strong: SK
+          - strong: 관련 문서
+    - row:
+      - cell:
+        - generic "[ 펼치기 · 접기 ]"
+- table:
+  - rowgroup:
+    - row "T1 로고 화이트 T1 티원":
+      - cell "T1 로고 화이트 T1 티원":
+        - link "T1 로고 화이트 T1 티원":
+          - /url: /w/T1
+          - img "T1 로고 화이트"
+          - strong: T1
+          - text: 티원
+    - row:
+      - cell:
+        - generic "[ 펼치기 · 접기 ]"
+        - text:          
+- table:
+  - rowgroup:
+    - row "티원":
+      - cell "티원":
+        - strong: 티원
+    - row "T1":
+      - cell "T1":
+        - strong: T1
+    - row "T1 로고":
+      - cell "T1 로고":
+        - img "T1 로고"
+        - text: 
+    - 'row "기업명 정식: ㈜에스케이텔레콤씨에스티원[1]"':
+      - cell "기업명":
+        - strong: 기업명
+      - 'cell "정식: ㈜에스케이텔레콤씨에스티원[1]"':
+        - strong: 정식
+        - text: ": ㈜에스케이텔레콤씨에스티원"
+        - link "[1]":
+          - /url: "#fn-1"
+          - text: "[1]"
+    - 'row "영문: SK telecom CS T1 Co., Ltd."':
+      - 'cell "영문: SK telecom CS T1 Co., Ltd."':
+        - strong: 영문
+        - text: ": SK telecom CS T1 Co., Ltd."
+    - row "국가 대한민국 국기 대한민국 (다국적 기업)":
+      - cell "국가":
+        - strong: 국가
+      - cell "대한민국 국기 대한민국 (다국적 기업)":
+        - link "대한민국 국기 대한민국":
+          - /url: /w/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD
+          - img "대한민국 국기"
+          - text: 대한민국
+        - text: (
+        - link "다국적 기업":
+          - /url: /w/%EB%8B%A4%EA%B5%AD%EC%A0%81%20%EA%B8%B0%EC%97%85
+        - text: )
+    - row "소재지 서울특별시 강남구 선릉로 627 (논현동 267-21) (T1 HQ)":
+      - cell "소재지":
+        - strong: 소재지
+      - cell "서울특별시 강남구 선릉로 627 (논현동 267-21) (T1 HQ)":
+        - link "서울특별시":
+          - /url: /w/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C
+        - link "강남구":
+          - /url: /w/%EA%B0%95%EB%82%A8%EA%B5%AC
+        - link "선릉로":
+          - /url: /w/%EC%84%A0%EB%A6%89%EB%A1%9C
+        - text: "627"
+        - text: (
+        - link "논현동":
+          - /url: /w/%EB%85%BC%ED%98%84%EB%8F%99(%EC%84%9C%EC%9A%B8)
+        - text: 267-21) (
+        - link "T1 HQ":
+          - /url: /w/T1%20HQ
+        - text: )
+    - row:
+      - cell:
+        - iframe:
+          - link "Maps (opens in new tab)":
+            - /url: https://maps.google.com/maps?ll=37.512524,127.042867&z=15&t=m&hl=en-US&gl=KR&mapclient=embed&cid=13389449074413357072
+            - text: Maps
+          - button "Keyboard shortcuts"
+          - region "Map"
+          - iframe
+          - img "Google"
+          - button "Keyboard shortcuts"
+          - generic: Map data ©2026 TMap Mobility
+          - link "Terms (opens in new tab)":
+            - /url: https://www.google.com/intl/en-US_KR/help/terms_maps.html
+            - text: Terms
+    - row "창단일 2004년 4월 13일[2] (22주년)":
+      - cell "창단일":
+        - strong: 창단일
+      - cell "2004년 4월 13일[2] (22주년)":
+        - link "2004년":
+          - /url: /w/2004%EB%85%84
+        - link "4월 13일":
+          - /url: /w/4%EC%9B%94%2013%EC%9D%BC
+        - link "[2]":
+          - /url: "#fn-2"
+          - text: "[2]"
+        - text: (22주년)
+    - row "모기업 SK스퀘어":
+      - cell "모기업":
+        - strong: 모기업
+      - cell "SK스퀘어":
+        - link "SK스퀘어":
+          - /url: /w/SK%EC%8A%A4%ED%80%98%EC%96%B4
+    - row "종목 리그 오브 레전드":
+      - cell "종목":
+        - strong: 종목
+      - cell "리그 오브 레전드":
+        - link "리그 오브 레전드":
+          - /url: /w/T1/%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EB%A0%88%EC%A0%84%EB%93%9C
+    - row "발로란트":
+      - cell "발로란트":
+        - link "발로란트":
+          - /url: /w/T1/%EB%B0%9C%EB%A1%9C%EB%9E%80%ED%8A%B8
+    - row "배틀그라운드":
+      - cell "배틀그라운드":
+        - link "배틀그라운드":
+          - /url: /w/T1/%EB%B0%B0%ED%8B%80%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C
+    - row "스트리트 파이터 6":
+      - cell "스트리트 파이터 6":
+        - link "스트리트 파이터 6":
+          - /url: /w/T1/%EB%8C%80%EC%A0%84%20%EA%B2%A9%ED%88%AC%20%EA%B2%8C%EC%9E%84
+    - row "오버워치":
+      - cell "오버워치":
+        - link "오버워치":
+          - /url: /w/T1/%EC%98%A4%EB%B2%84%EC%9B%8C%EC%B9%98
+    - row "전략적 팀 전투":
+      - cell "전략적 팀 전투":
+        - link "전략적 팀 전투":
+          - /url: /w/T1/%EC%A0%84%EB%9E%B5%EC%A0%81%20%ED%8C%80%20%EC%A0%84%ED%88%AC
+    - row "철권 8":
+      - cell "철권 8":
+        - link "철권 8":
+          - /url: /w/T1/%EB%8C%80%EC%A0%84%20%EA%B2%A9%ED%88%AC%20%EA%B2%8C%EC%9E%84
+    - row "FC 온라인":
+      - cell "FC 온라인":
+        - link "FC 온라인":
+          - /url: /w/T1/FC%20%EC%98%A8%EB%9D%BC%EC%9D%B8
+    - row "스타크래프트 2":
+      - cell "스타크래프트 2":
+        - link "스타크래프트 2":
+          - /url: /w/T1/%EC%8A%A4%ED%83%80%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8
+    - row "포켓몬 유나이트":
+      - cell "포켓몬 유나이트":
+        - link "포켓몬 유나이트":
+          - /url: /w/T1/%ED%8F%AC%EC%BC%93%EB%AA%AC%20%EC%9C%A0%EB%82%98%EC%9D%B4%ED%8A%B8
+    - 'row "콜 오브 듀티: 워존"':
+      - 'cell "콜 오브 듀티: 워존"':
+        - generic: "콜 오브 듀티: 워존"
+    - row "포트나이트":
+      - cell "포트나이트":
+        - link "포트나이트":
+          - /url: /w/T1/%ED%8F%AC%ED%8A%B8%EB%82%98%EC%9D%B4%ED%8A%B8
+    - row "리프트바운드":
+      - cell "리프트바운드":
+        - generic: 리프트바운드
+    - row "대표이사 공석[3]":
+      - cell "대표이사":
+        - strong: 대표이사
+      - cell "공석[3]":
+        - text: 공석
+        - link "[3]":
+          - /url: "#fn-3"
+          - text: "[3]"
+    - row "이사회":
+      - cell "이사회":
+        - strong: 이사회
+      - cell:
+        - generic "[ 펼치기 · 접기 ]"
+    - row "임원진":
+      - cell "임원진":
+        - strong: 임원진
+      - cell:
+        - generic "[ 펼치기 · 접기 ]"
+    - row "링크  T1 로고  T1LIVE logo [10] 비스테이지 아이콘 [11] 인스타그램 아이콘 인스타그램 아이콘 [🍚] X Corp 아이콘(블랙) 페이스북 아이콘 유튜브 아이콘 유튜브 아이콘 [13] SOOP 아이콘 트위치 아이콘 디스코드 아이콘 시나 웨이보 아이콘 빌리빌리 아이콘":
+      - cell "링크":
+        - strong: 링크
+      - cell " T1 로고  T1LIVE logo [10] 비스테이지 아이콘 [11] 인스타그램 아이콘 인스타그램 아이콘 [🍚] X Corp 아이콘(블랙) 페이스북 아이콘 유튜브 아이콘 유튜브 아이콘 [13] SOOP 아이콘 트위치 아이콘 디스코드 아이콘 시나 웨이보 아이콘 빌리빌리 아이콘":
+        - link " T1 로고":
+          - /url: https://t1.gg
+          - text: 
+          - img "T1 로고"
+        - link " T1LIVE logo":
+          - /url: https://t1live.gg/community?board=free
+          - text: 
+          - img "T1LIVE logo"
+        - link "[10]":
+          - /url: "#fn-10"
+          - text: "[10]"
+        - link " 비스테이지 아이콘":
+          - /url: https://t1.fan/
+          - text: 
+          - img "비스테이지 아이콘"
+        - link "[11]":
+          - /url: "#fn-11"
+          - text: "[11]"
+        - link "인스타그램 아이콘":
+          - /url: https://www.instagram.com/t1official.gg
+          - img "인스타그램 아이콘"
+        - link "인스타그램 아이콘":
+          - /url: https://www.instagram.com/t1_bap/
+          - img "인스타그램 아이콘"
+        - link "[🍚]":
+          - /url: "#fn-%f0%9f%8d%9a"
+          - text: "[🍚]"
+        - link "X Corp 아이콘(블랙)":
+          - /url: https://x.com/T1_official_gg
+          - img "X Corp 아이콘(블랙)"
+        - link "페이스북 아이콘":
+          - /url: https://www.facebook.com/t1.esports.gg/
+          - img "페이스북 아이콘"
+        - link "유튜브 아이콘":
+          - /url: https://youtube.com/@SKTT1
+          - img "유튜브 아이콘"
+        - link "유튜브 아이콘":
+          - /url: https://youtube.com/@T1Fighting
+          - img "유튜브 아이콘"
+        - link "[13]":
+          - /url: "#fn-13"
+          - text: "[13]"
+        - link "SOOP 아이콘":
+          - /url: https://ch.sooplive.co.kr/t1esports
+          - img "SOOP 아이콘"
+        - link "트위치 아이콘":
+          - /url: https://www.twitch.tv/t1esports
+          - img "트위치 아이콘"
+        - link "디스코드 아이콘":
+          - /url: https://discord.com/invite/t1esports
+          - img "디스코드 아이콘"
+        - link "시나 웨이보 아이콘":
+          - /url: https://www.weibo.com/SKTT1LOL
+          - img "시나 웨이보 아이콘"
+        - link "빌리빌리 아이콘":
+          - /url: https://m.bilibili.com/space/594558993
+          - img "빌리빌리 아이콘"
+- generic "목차"
+- link "1":
+  - /url: "#s-1"
+- text: . 개요
+- link "2":
+  - /url: "#s-2"
+- text: . 역사
+- link "3":
+  - /url: "#s-3"
+- text: . 팀 디자인
+- link "3.1":
+  - /url: "#s-3.1"
+- text: . 로고 변천사
+- link "3.2":
+  - /url: "#s-3.2"
+- text: . 마스코트
+- link "3.3":
+  - /url: "#s-3.3"
+- text: .
+- link "유니폼":
+  - /url: /w/T1/%EC%9C%A0%EB%8B%88%ED%8F%BC
+- link "4":
+  - /url: "#s-4"
+- text: . 위상 및 인기
+- link "5":
+  - /url: "#s-5"
+- text: . 경영
+- link "5.1":
+  - /url: "#s-5.1"
+- text: . 지배 구조
+- link "5.2":
+  - /url: "#s-5.2"
+- text: . 이사회
+- link "6":
+  - /url: "#s-6"
+- text: . 파트너
+- link "7":
+  - /url: "#s-7"
+- text: . 프로게임단
+- link "7.1":
+  - /url: "#s-7.1"
+- text: . 운영 중
+- link "7.2":
+  - /url: "#s-7.2"
+- text: . 해체
+- link "8":
+  - /url: "#s-8"
+- text: . 인플루언서
+- link "9":
+  - /url: "#s-9"
+- text: .
+- link "T1 HQ":
+  - /url: /w/T1%20HQ
+- link "10":
+  - /url: "#s-10"
+- text: . 여담
+- link "11":
+  - /url: "#s-11"
+- text: . 둘러보기
+- heading " 1. 개요 [편집]" [level=2]:
+  - text: 
+  - link "1.":
+    - /url: "#toc"
+  - text: 개요
+  - link "[편집]":
+    - /url: /edit/T1?section=1
+- text: T1(에스케이텔레콤씨에스티원 주식회사)은
+- link "대한민국":
+  - /url: /w/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD
+- text: 기업
+- link "SK텔레콤":
+  - /url: /w/SK%ED%85%94%EB%A0%88%EC%BD%A4
+- text: 과
+- link "미국":
+  - /url: /w/%EB%AF%B8%EA%B5%AD
+- text: 기업
+- link "컴캐스트":
+  - /url: /w/%EC%BB%B4%EC%BA%90%EC%8A%A4%ED%8A%B8
+- text: 의
+- link "합작 회사":
+  - /url: /w/%ED%95%A9%EC%9E%91%EB%B2%95%EC%9D%B8
+- text: 로 설립된 다국적
+- link "e스포츠":
+  - /url: /w/e%EC%8A%A4%ED%8F%AC%EC%B8%A0
+- text: 기업이다.
+- heading " 2. 역사 [편집]" [level=2]:
+  - text: 
+  - link "2.":
+    - /url: "#toc"
+  - text: 역사
+  - link "[편집]":
+    - /url: /edit/T1?section=2
+- table:
+  - rowgroup:
+    - row "2003년 1월 임요환과 주훈을 중심으로 스타크래프트 프로 팀을 창설.[14] 동양제과의 네이밍 스폰을 받아 동양 오리온으로 활동하다가, 스폰이 끝난 이후에는 4U[15]로 활동.":
+      - cell "2003년 1월":
+        - generic: 2003년 1월
+      - cell "임요환과 주훈을 중심으로 스타크래프트 프로 팀을 창설.[14] 동양제과의 네이밍 스폰을 받아 동양 오리온으로 활동하다가, 스폰이 끝난 이후에는 4U[15]로 활동.":
+        - link "임요환":
+          - /url: /w/%EC%9E%84%EC%9A%94%ED%99%98
+        - text: 과
+        - link "주훈":
+          - /url: /w/%EC%A3%BC%ED%9B%88(%EA%B0%90%EB%8F%85)
+        - text: 을 중심으로
+        - link "스타크래프트 프로 팀":
+          - /url: /w/SK%ED%85%94%EB%A0%88%EC%BD%A4%20T1/%EC%8A%A4%ED%83%80%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8
+        - text: 을 창설.
+        - link "[14]":
+          - /url: "#fn-14"
+          - text: "[14]"
+        - link "동양제과":
+          - /url: /w/%EC%98%A4%EB%A6%AC%EC%98%A8(%EA%B8%B0%EC%97%85)
+        - text: 의 네이밍 스폰을 받아 동양 오리온으로 활동하다가, 스폰이 끝난 이후에는 4U
+        - link "[15]":
+          - /url: "#fn-15"
+          - text: "[15]"
+        - text: 로 활동.
+    - row "2004년 3월 SK텔레콤이 스타크래프트 프로 팀 4U를 인수하여 프로게임단 SK telecom T1을 창단. T1은 Team 1st, The One 또는 Together as 1이라는 의미를 담고 있다.[16]":
+      - cell "2004년 3월":
+        - generic: 2004년 3월
+      - cell "SK텔레콤이 스타크래프트 프로 팀 4U를 인수하여 프로게임단 SK telecom T1을 창단. T1은 Team 1st, The One 또는 Together as 1이라는 의미를 담고 있다.[16]":
+        - link "SK텔레콤":
+          - /url: /w/SK%ED%85%94%EB%A0%88%EC%BD%A4
+        - text: 이 스타크래프트 프로 팀 4U를 인수하여 프로게임단
+        - strong: SK telecom T1
+        - text: 을 창단.
+        - strong: T1
+        - text: 은
+        - strong: T
+        - text: eam
+        - strong: "1"
+        - text: st,
+        - strong: T
+        - text: he
+        - strong: One
+        - text: 또는
+        - strong: T
+        - text: ogether as
+        - strong: "1"
+        - text: 이라는 의미를 담고 있다.
+        - link "[16]":
+          - /url: "#fn-16"
+          - text: "[16]"
+    - row "2012년 12월 리그 오브 레전드 프로 팀 SK텔레콤 T1 S와 SK텔레콤 T1 K를 창설.":
+      - cell "2012년 12월":
+        - generic: 2012년 12월
+      - cell "리그 오브 레전드 프로 팀 SK텔레콤 T1 S와 SK텔레콤 T1 K를 창설.":
+        - text: 리그 오브 레전드 프로 팀
+        - link "SK텔레콤 T1 S":
+          - /url: /w/SK%ED%85%94%EB%A0%88%EC%BD%A4%20T1%20S
+        - text: 와
+        - link "SK텔레콤 T1 K":
+          - /url: /w/SK%ED%85%94%EB%A0%88%EC%BD%A4%20T1%20K
+        - text: 를 창설.
+    - row "2016년 10월 스타크래프트 프로리그가 폐지됨에 따라 게임단의 모체인 스타크래프트 팀이 해체됨.":
+      - cell "2016년 10월":
+        - generic: 2016년 10월
+      - cell "스타크래프트 프로리그가 폐지됨에 따라 게임단의 모체인 스타크래프트 팀이 해체됨.":
+        - link "스타크래프트 프로리그":
+          - /url: /w/%EC%8A%A4%ED%83%80%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8%20%ED%94%84%EB%A1%9C%EB%A6%AC%EA%B7%B8
+        - text: 가 폐지됨에 따라 게임단의 모체인
+        - link "스타크래프트 팀":
+          - /url: /w/SK%ED%85%94%EB%A0%88%EC%BD%A4%20T1/%EC%8A%A4%ED%83%80%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8
+        - text: 이 해체됨.
+    - row "2019년 7월 SK텔레콤과 컴캐스트가 합작하여 e스포츠 전문 기업 SK telecom CS T1을 설립. # 최대주주는 지분율 54.95%의 SK텔레콤, 2대 주주는 지분율 34.1%의 컴캐스트 스펙타코어.":
+      - cell "2019년 7월":
+        - generic: 2019년 7월
+      - cell "SK텔레콤과 컴캐스트가 합작하여 e스포츠 전문 기업 SK telecom CS T1을 설립. # 최대주주는 지분율 54.95%의 SK텔레콤, 2대 주주는 지분율 34.1%의 컴캐스트 스펙타코어.":
+        - link "SK텔레콤":
+          - /url: /w/SK%ED%85%94%EB%A0%88%EC%BD%A4
+        - text: 과
+        - link "컴캐스트":
+          - /url: /w/%EC%BB%B4%EC%BA%90%EC%8A%A4%ED%8A%B8
+        - text: 가 합작하여 e스포츠 전문 기업 SK telecom CS T1을 설립.
+        - link "#":
+          - /url: https://sports.naver.com/news.nhn?oid=468&aid=0000477596
+        - link "최대주주":
+          - /url: /w/%EC%B5%9C%EB%8C%80%EC%A3%BC%EC%A3%BC
+        - text: 는 지분율 54.95%의
+        - link "SK텔레콤":
+          - /url: /w/SK%ED%85%94%EB%A0%88%EC%BD%A4
+        - text: ", 2대 주주는 지분율 34.1%의"
+        - link "컴캐스트 스펙타코어":
+          - /url: /w/%EC%BB%B4%EC%BA%90%EC%8A%A4%ED%8A%B8%20%EC%8A%A4%ED%8E%99%ED%83%80%EC%BD%94%EC%96%B4
+        - text: .
+    - row "컴캐스트 스펙타코어에서 최고재무책임자를 역임한 조세프 패트릭 마쉬가 SK telecom CS T1의 대표이사로 발탁됨.":
+      - cell "컴캐스트 스펙타코어에서 최고재무책임자를 역임한 조세프 패트릭 마쉬가 SK telecom CS T1의 대표이사로 발탁됨.":
+        - link "컴캐스트 스펙타코어":
+          - /url: /w/%EC%BB%B4%EC%BA%90%EC%8A%A4%ED%8A%B8%20%EC%8A%A4%ED%8E%99%ED%83%80%EC%BD%94%EC%96%B4
+        - text: 에서 최고재무책임자를 역임한
+        - link "조세프 패트릭 마쉬":
+          - /url: /w/%EC%A1%B0%20%EB%A7%88%EC%89%AC
+        - text: 가 SK telecom CS T1의
+        - link "대표이사":
+          - /url: /w/%EB%8C%80%ED%91%9C%EC%9D%B4%EC%82%AC
+        - text: 로 발탁됨.
+    - row "게임단이 SK텔레콤 산하에서 합작회사 SK telecom CS T1 산하로 편입됨. 이에 게임단명이 SK telecom T1에서 모기업명이 빠지며 T1으로 간소화됨.":
+      - cell "게임단이 SK텔레콤 산하에서 합작회사 SK telecom CS T1 산하로 편입됨. 이에 게임단명이 SK telecom T1에서 모기업명이 빠지며 T1으로 간소화됨.":
+        - text: 게임단이
+        - link "SK텔레콤":
+          - /url: /w/SK%ED%85%94%EB%A0%88%EC%BD%A4
+        - text: 산하에서 합작회사 SK telecom CS T1 산하로 편입됨. 이에 게임단명이 SK telecom T1에서 모기업명이 빠지며
+        - strong: T1
+        - text: 으로 간소화됨.
+    - row "2021년 11월 SK텔레콤이 인적분할하여 SK스퀘어가 출범함에 따라, 기존 최대주주 SK텔레콤의 SK telecom CS T1 지분 54.95%를 SK스퀘어로 이전하여 최대주주가 변경됨.":
+      - cell "2021년 11월":
+        - generic: 2021년 11월
+      - cell "SK텔레콤이 인적분할하여 SK스퀘어가 출범함에 따라, 기존 최대주주 SK텔레콤의 SK telecom CS T1 지분 54.95%를 SK스퀘어로 이전하여 최대주주가 변경됨.":
+        - link "SK텔레콤":
+          - /url: /w/SK%ED%85%94%EB%A0%88%EC%BD%A4
+        - text: 이
+        - link "인적분할":
+          - /url: /w/%EC%9D%B8%EC%A0%81%EB%B6%84%ED%95%A0
+        - text: 하여
+        - link "SK스퀘어":
+          - /url: /w/SK%EC%8A%A4%ED%80%98%EC%96%B4
+        - text: 가 출범함에 따라, 기존 최대주주
+        - link "SK텔레콤":
+          - /url: /w/SK%ED%85%94%EB%A0%88%EC%BD%A4
+        - text: 의 SK telecom CS T1 지분 54.95%를
+        - link "SK스퀘어":
+          - /url: /w/SK%EC%8A%A4%ED%80%98%EC%96%B4
+        - text: 로 이전하여 최대주주가 변경됨.
+- heading " 3. 팀 디자인 [편집]" [level=2]:
+  - text: 
+  - link "3.":
+    - /url: "#toc"
+  - text: 팀 디자인
+  - link "[편집]":
+    - /url: /edit/T1?section=3
+- heading " 3.1. 로고 변천사 [편집]" [level=3]:
+  - text: 
+  - link "3.1.":
+    - /url: "#toc"
+  - text: 로고 변천사
+  - link "[편집]":
+    - /url: /edit/T1?section=4
+- table:
+  - rowgroup:
+    - row "2004~2005 2005~2019":
+      - cell "2004~2005":
+        - strong: 2004~2005
+      - cell "2005~2019":
+        - strong: 2005~2019
+    - row "SKT T1 Old Emble... SK Telecom T1 로고...":
+      - cell "SKT T1 Old Emble...":
+        - img "SKT T1 Old Emble..."
+        - text: 
+      - cell "SK Telecom T1 로고...":
+        - img "SK Telecom T1 로고..."
+        - text: 
+    - row "동양 오리온, 4U 시절에는 이렇다 할 엠블럼이 없었기 때문에 사실상 공식 엠블럼이 생긴 것은 이때가 처음이다. 2005년을 기점으로 SK그룹의 CI 변경으로 인해 SK그룹 소속의 팀들의 색상이 파란색에서 빨간색으로 변경되었다.[17] 14년이나 쓰인 탓에 말년에는 너무 촌스럽다는 반응이 많았다.":
+      - cell "동양 오리온, 4U 시절에는 이렇다 할 엠블럼이 없었기 때문에 사실상 공식 엠블럼이 생긴 것은 이때가 처음이다.":
+        - generic: 동양 오리온, 4U 시절에는 이렇다 할 엠블럼이 없었기 때문에 사실상 공식 엠블럼이 생긴 것은 이때가 처음이다.
+      - cell "2005년을 기점으로 SK그룹의 CI 변경으로 인해 SK그룹 소속의 팀들의 색상이 파란색에서 빨간색으로 변경되었다.[17] 14년이나 쓰인 탓에 말년에는 너무 촌스럽다는 반응이 많았다.":
+        - text: 2005년을 기점으로
+        - link "SK그룹":
+          - /url: /w/SK%EA%B7%B8%EB%A3%B9
+        - text: 의 CI 변경으로 인해 SK그룹 소속의 팀들의 색상이 파란색에서 빨간색으로 변경되었다.
+        - link "[17]":
+          - /url: "#fn-17"
+          - text: "[17]"
+        - text: 14년이나 쓰인 탓에 말년에는 너무 촌스럽다는 반응이 많았다.
+    - row "2013~2019 2019~":
+      - cell "2013~2019":
+        - strong: 2013~2019
+      - cell "2019~":
+        - strong: 2019~
+    - row "T1 T1 로고":
+      - cell "T1":
+        - img "T1"
+        - text: 
+      - cell "T1 로고":
+        - img "T1 로고"
+        - text: 
+    - row "2013년도에 축약형 로고로 처음 사용되었고, 팀명 변경 이후 현행 로고 도입 전까지 메인으로 쓰였다. 스포츠에서 유독 반발이 심한 미니멀리즘 스타일 로고인데도 처음부터 반응이 좋았다. 이전 로고가 하도 촌스럽기 그지없었기 때문이기도 하지만, 그것을 감안해도 평가가 좋은 편이다.[18]":
+      - cell "2013년도에 축약형 로고로 처음 사용되었고, 팀명 변경 이후 현행 로고 도입 전까지 메인으로 쓰였다.":
+        - generic: 2013년도에 축약형 로고로 처음 사용되었고, 팀명 변경 이후 현행 로고 도입 전까지 메인으로 쓰였다.
+      - cell "스포츠에서 유독 반발이 심한 미니멀리즘 스타일 로고인데도 처음부터 반응이 좋았다. 이전 로고가 하도 촌스럽기 그지없었기 때문이기도 하지만, 그것을 감안해도 평가가 좋은 편이다.[18]":
+        - text: 스포츠에서 유독 반발이 심한
+        - link "미니멀리즘":
+          - /url: /w/%EB%AF%B8%EB%8B%88%EB%A9%80%EB%A6%AC%EC%A6%98
+        - text: 스타일 로고인데도 처음부터 반응이 좋았다. 이전 로고가 하도 촌스럽기 그지없었기 때문이기도 하지만, 그것을 감안해도 평가가 좋은 편이다.
+        - link "[18]":
+          - /url: "#fn-18"
+          - text: "[18]"
+- heading " 3.2. 마스코트 [편집]" [level=3]:
+  - text: 
+  - link "3.2.":
+    - /url: "#toc"
+  - text: 마스코트
+  - link "[편집]":
+    - /url: /edit/T1?section=5
+- table:
+  - rowgroup:
+    - row:
+      - cell:
+        - iframe:
+          - generic "YouTube Video Player"
+          - button "Play video":
+          - button "Hide player controls"
+          - link "WELCOME ATI!":
+            - /url: https://www.youtube.com/watch?v=hUXv7fg4_fQ
+          - link "T1":
+            - /url: /channel/UCJprx3bX49vNl6Bcw01Cwfg
+            - generic: T1
+          - button "thumbnail-image":
+            - img "thumbnail-image"
+          - generic: T1
+          - generic: 1.76M subscribers
+          - button "Share":
+          - link "Watch on YouTube":
+            - /url: https://www.youtube.com/watch?v=hUXv7fg4_fQ
+            - text: Watch on
+    - row "WELCOME ATI!":
+      - cell "WELCOME ATI!":
+        - strong: WELCOME ATI!
+- text: 2025년 7월 13일에 아티(ATI)라는 새로운 마스코트가 공개되었다. 잘 보면 전 마스코트인
+- link "벙키":
+  - /url: /w/%EB%B2%99%ED%82%A4
+- text: 의 사진도 볼 수 있다. 상당히 귀여운 외형으로 새로운 마스코트가 생긴 것에 만족하는 T1 팬들의 이쁨을 받고 있다.
+- link "[19]":
+  - /url: "#fn-19"
+  - text: "[19]"
+- text: 특유의 말투는 "-티"이다.
+- text: 그러다가 아티는 나온 지 얼마 되지 않아서 다른 의미로 화제를 끌고 있는데, 바로 아티가 등장한 뒤 T1이 유난히 안 좋은 수모를 당하면서
+- link "[20]":
+  - /url: "#fn-20"
+  - text: "[20]"
+- text: 순식간에 패귀의 상징으로 자리잡았다. 오죽하면 T1이 심각한 경기력을 보일 때마다 항상 아티가 문제라고 까는 경우가 수두룩할 정도. 다행히 홈그라운드에서 T1 팀들이 승리를 거뒀고, 거기에 페이커가 4년 재계약을 발표한 덕분에
+- link "패귀의 망조":
+  - /url: /w/%EB%A7%9D%EC%A1%B0%EC%9D%98%20%EC%A7%90%EC%8A%B9
+- text: 라는 이미지를 얼추 벗을 수 있었다. 만약 홈그라운드 경기에서도 졌다면 삼계탕과 마라맛 훠궈, 치킨 등으로 요리해 버렸을 거라는 의견이 있을 정도로 화풀이 대상이 될 뻔했으며 이후의 KT전 경기인 30일이 딱 삼복 중 하나인 중복이었던지라
+- strong: T1 인스타 계정이 삼계탕 사진을 올리자 아티가 필사적으로 자신은 아직 삼계탕이 되지 않았다고 해명하는 웃픈 답글
+- text: 을 달기도 했다.
+- link "#":
+  - /url: https://www.youtube.com/shorts/YNCt8smIol0
+- text: 다행히도 이 경기도 2:0으로 승리한 덕분에 중복 날에 삼계탕이나 치킨 등의 닭요리가 되는 것을 피할 수 있었지만 KT전의 경우 이후의 레전드 그룹 5라운드 경기에서 2:0으로 대떡 복수를 당한 덕분에 아티는 치킨이 되고 말았다.(...) 어쨌든 죽지 않고 다시 살아나는 봉황 속성에 더해 사실상 지는 순간 닭요리가 된다는 밈을 지닌 캐릭터성을 얻게 된 셈이며 질 때마다 아티를 닭요리로 만들고 나서 다시 나타난 아티에게 ○호라고 붙여 부활시키는 밈도 생겨났다. 이 때문에 아티 쪽은 항상 자신은 길조라고 주장하고 다니며 팬들이 네가 길조라면 증명하라는 밈이 꾸준히 나오고 있다.
+- text: 이후, 젠지전에서 진 탓에 삼계탕과 치킨이 되었고 곧 다가올 8월 9일의 말복에서도 대결 상대인 농심과의 경기 오프닝에서 너구리 투움바와 아티 삼계탕 대결 구도가 찍히는 모습
+- link "#":
+  - /url: https://www.youtube.com/shorts/DzhMHbggBsA
+- text: 이 나와 이러한 밈이 적극적으로 나온 덕분에 이 경기에서 지면 닭요리가 될 위기에 놓여졌지만 다행히 이겼다. 그 경기 직후의 롤리 나잇에서 인터뷰 게스트로 초대된 오너와 페이커에게
+- strong: 양념과 프라이드 치킨
+- text: 이 대접되는 건 물론 치킨에게
+- strong: "\"이것이 아티인 것 같은데 어떤 맛일 것 같나?\""
+- text: 라는 질문을 받는 것으로서 밈이 촌철살인급으로 고착되었다.
+- link "[21]":
+  - /url: "#fn-21"
+  - text: "[21]"
+- text: 2025년 7월 23일 공개된
+- link "오버워치":
+  - /url: /w/%EC%98%A4%EB%B2%84%EC%9B%8C%EC%B9%98
+- text: T1 번들에선 아티가 플레이어 아이콘, 배너, 스프레이 등에서 메인으로 쓰였는데, 오버워치 쪽 팬덤엔 아티의 런칭이 제대로 전달되지 않아서 아티에 대한 반감이 나타나기도 했다. 대체로 깔끔하게 T1 로고가 새겨진 프로필 아이콘을 원했다는 반응.
+- text: 여담으로 홈그라운드 2일차에
+- link "구마유시":
+  - /url: /w/%EA%B5%AC%EB%A7%88%EC%9C%A0%EC%8B%9C
+- text: 가 아티 탈을 썼다는 썰이 돌았고, 이에 대한 반응도
+- strong: "\"구마유시라면 안 시켜도 할 거 같다.\""
+- text: 라는 반응이 주류를 이뤘다. 결국 온세티 콘텐츠에서 사실로 밝혀졌다. 구마유시 본인이
+- link "인형탈":
+  - /url: /w/%EC%9D%B8%ED%98%95%ED%83%88
+- text: 을 써보고 싶다고 해서 직접 쓴 것이라고 한다.
+- text: T1 공식 유튜브에 따르면 아티는
+- link "봉황이라고 한다":
+  - /url: https://youtu.be/s5Obw08Siag
+- text: .
+- text: 오버워치 T1 번들에 이어 리그 오브 레전드에서도 등장했는데,
+- link "25 월드 챔피언쉽 우승 기념 T1 스킨":
+  - /url: /w/%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EB%A0%88%EC%A0%84%EB%93%9C%20%EC%9B%94%EB%93%9C%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8B%AD/%EC%9A%B0%EC%8A%B9%ED%8C%80%20%EC%8A%A4%ED%82%A8#s-3.15
+- text: 에서 구마유시의 우승 기념 스킨인
+- link "T1 유나라":
+  - /url: /w/%EC%9C%A0%EB%82%98%EB%9D%BC#s-12.2
+- text: 에선 무기인 기도의 구슬이 아티로 변경되었다. 평타부터 아티를 집어 던지는 것인 데다, W - 심판의 궤적 발사 시 돌아가는 구슬이 아티로 교체되어 돌아가는것이 웃음 포인트다.
+- heading " 3.3. 유니폼 [편집]" [level=3]:
+  - text: 
+  - link "3.3.":
+    - /url: "#toc"
+  - link "유니폼":
+    - /url: /w/T1/%EC%9C%A0%EB%8B%88%ED%8F%BC
+  - link "[편집]":
+    - /url: /edit/T1?section=6
+- img "상세 내용 아이콘"
+- text: 자세한 내용은
+- link "T1/유니폼":
+  - /url: /w/T1/%EC%9C%A0%EB%8B%88%ED%8F%BC
+- text: 문서를 참고하십시오.
+- heading " 4. 위상 및 인기 [편집]" [level=2]:
+  - text: 
+  - link "4.":
+    - /url: "#toc"
+  - text: 위상 및 인기
+  - link "[편집]":
+    - /url: /edit/T1?section=7
+- table:
+  - rowgroup:
+    - row "Screenshot 20231...":
+      - cell "Screenshot 20231...":
+        - img "Screenshot 20231..."
+        - text: 
+    - row "T1 HQ에 전시된 트로피 中 일부":
+      - cell "T1 HQ에 전시된 트로피 中 일부":
+        - strong: T1 HQ에 전시된 트로피 中 일부
+- blockquote:
+  - text: 우리 그룹 수영팀이 프랑스나 터키 시골로 전지훈련을 가곤 한다. 그런데 수영 선수들 유니폼에도 SKT 로고가 새겨져 있지 않나.
+  - strong: 선수에게 현지인들이 ‘너 SKT T1 소속이냐, 사인 부탁한다’고 할 정도다. 유럽 시골에서도 SK텔레콤은 모르는데 SKT T1은 안다는 것이다.
+  - text: 국내 프로스포츠 중에서 국제 경쟁력을 갖춘 종목이 없다. 근데 e스포츠는 글로벌 톱이다. 우리 SKT T1은 그중에서도 톱이다. SK가 보유한 브랜드 중에 SK T1만큼 글로벌 인지도를 갖춘 브랜드가 있나. 없다고 생각한다. 그게 우리 자부심이다.
+  - separator
+  - link "오경식":
+    - /url: /w/%EC%98%A4%EA%B2%BD%EC%8B%9D
+  - text: ","
+  - link "“2019년은 SKT의 해가 될 것이라 확신한다”":
+    - /url: https://m.sports.naver.com/esports/article/005/0001156899?sid3=79b
+- text: 한국에서
+- link "스타크래프트 프로리그":
+  - /url: /w/%EC%8A%A4%ED%83%80%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8%20%ED%94%84%EB%A1%9C%EB%A6%AC%EA%B7%B8
+- text: 7회 우승,
+- link "LCK":
+  - /url: /w/League%20of%20Legends%20Champions%20Korea
+- text: 10회 우승으로 두 종목 모두 리그 최다 우승을 기록하고 있고, 특히 유일한
+- link "리그 오브 레전드 월드 챔피언십":
+  - /url: /w/%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EB%A0%88%EC%A0%84%EB%93%9C%20%EC%9B%94%EB%93%9C%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8B%AD
+- text: 6회 우승 기록을 가진 명문 팀이다. T1으로 리브랜딩하기 전에는
+- link "스페셜 포스":
+  - /url: /w/%EC%8A%A4%ED%8E%98%EC%85%9C%20%ED%8F%AC%EC%8A%A4
+- text: 팀까지 3팀을 운영했는데 모두 명문 팀 반열에 올랐었다.
+- text: 당장 대한민국을 넘어 세계 e스포츠의 최고 전설들로 불리는
+- link "임요환":
+  - /url: /w/%EC%9E%84%EC%9A%94%ED%99%98
+- text: ","
+- link "최연성":
+  - /url: /w/%EC%B5%9C%EC%97%B0%EC%84%B1
+- text: ","
+- link "김택용":
+  - /url: /w/%EA%B9%80%ED%83%9D%EC%9A%A9
+- text: ","
+- link "페이커":
+  - /url: /w/%EC%9D%B4%EC%83%81%ED%98%81
+- text: 가 모두 T1 출신이다. 게다가 e스포츠에 관심이 없어도 T1만큼은 안다는 사람이 상당수 있다는 점에서 e스포츠계의
+- link "뉴욕 양키스":
+  - /url: /w/%EB%89%B4%EC%9A%95%20%EC%96%91%ED%82%A4%EC%8A%A4
+- text: ","
+- link "레알 마드리드":
+  - /url: /w/%EB%A0%88%EC%95%8C%20%EB%A7%88%EB%93%9C%EB%A6%AC%EB%93%9C%20CF
+- link "[22]":
+  - /url: "#fn-22"
+  - text: "[22]"
+- text: 라는 표현이 어색하지 않으며, 가히 e스포츠의 제국이라는 말이 나올 정도.
+- text: 대한민국에서 시대를 상징했던 양대 종목이라 불리는
+- link "스타크래프트":
+  - /url: /w/%EC%8A%A4%ED%83%80%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8
+- text: 와
+- link "리그 오브 레전드":
+  - /url: /w/%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EB%A0%88%EC%A0%84%EB%93%9C
+- text: 를 석권한 덕분에 한국을 넘어 세계 최고의 명문 e스포츠 팀으로 평가 받고 있다. 그리고 과거
+- link "팀리그":
+  - /url: /w/%ED%8C%80%EB%A6%AC%EA%B7%B8
+- text: 2회 우승,
+- link "위너스 리그":
+  - /url: /w/%EC%9C%84%EB%84%88%EC%8A%A4%20%EB%A6%AC%EA%B7%B8
+- text: 1회 우승,
+- link "경남-STX컵 마스터즈":
+  - /url: /w/%EA%B2%BD%EB%82%A8-STX%EC%BB%B5%20%EB%A7%88%EC%8A%A4%ED%84%B0%EC%A6%88
+- text: 3회 우승도 기록하였다. 또한
+- link "1년":
+  - /url: /w/2015%EB%85%84
+- text: 동안 스타크래프트 프로리그, LCK, 리그 오브 레전드 월드 챔피언십을 모두 석권한 유일한 팀이기도 하다.
+- link "[23]":
+  - /url: "#fn-23"
+  - text: "[23]"
+- text: 실제로
+- link "2024년":
+  - /url: /w/2024%EB%85%84
+- text: 12월 기준 T1의 누적 상금은
+- link "세계 16위":
+  - /url: http://www.esportsearnings.com/teams
+- text: 로 한국 팀으로서는 유일하게 20위권 내에 랭크되어 있다.
+- table:
+  - rowgroup:
+    - row "2024 이스포츠 실태조사 응... T1 뷰어쉽":
+      - cell "2024 이스포츠 실태조사 응...":
+        - img "2024 이스포츠 실태조사 응..."
+        - text: 
+      - cell "T1 뷰어쉽":
+        - img "T1 뷰어쉽"
+        - text: 
+- text: 국내에서의 인기는 말할 필요가 없다. 2024년 기준 T1이 78.2%로 다른 팀과 비교되지 않을 정도로 많은 팬을 보유하고 있다. T1의 본체격인 리그 오브 레전드 팀이
+- link "2024 월즈":
+  - /url: /w/%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EB%A0%88%EC%A0%84%EB%93%9C%202024%20%EC%9B%94%EB%93%9C%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8B%AD
+- text: 와
+- link "2025 월즈":
+  - /url: /w/%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EB%A0%88%EC%A0%84%EB%93%9C%202025%20%EC%9B%94%EB%93%9C%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8B%AD
+- text: 를 우승하기 전에 조사한 결과이므로 T1의 팬덤은 2025년 현재 더욱 늘어났을 것으로 예상된다.
+- link "[24]":
+  - /url: "#fn-24"
+  - text: "[24]"
+- text: 2020년 4월에는 국내 게임단 최초로
+- link "BMW":
+  - /url: /w/BMW
+- text: 본사의 스폰을 받았다.
+- link "[25]":
+  - /url: "#fn-25"
+  - text: "[25]"
+- text: 선수들의 유니폼에 BMW 엠블럼이 부착되며, BMW에서 최신 차량 등을 지원하였다.
+- link "[26]":
+  - /url: "#fn-26"
+  - text: "[26]"
+- heading " 5. 경영 [편집]" [level=2]:
+  - text: 
+  - link "5.":
+    - /url: "#toc"
+  - text: 경영
+  - link "[편집]":
+    - /url: /edit/T1?section=8
+- heading " 5.1. 지배 구조 [편집]" [level=3]:
+  - text: 
+  - link "5.1.":
+    - /url: "#toc"
+  - text: 지배 구조
+  - link "[편집]":
+    - /url: /edit/T1?section=9
+- table:
+  - rowgroup:
+    - row "주주명 지분율 비고":
+      - cell "주주명":
+        - strong: 주주명
+      - cell "지분율":
+        - strong: 지분율
+      - cell "비고":
+        - strong: 비고
+    - row "대한민국 국기 SK스퀘어 55.37% [27]":
+      - cell "대한민국 국기 SK스퀘어":
+        - link "대한민국 국기":
+          - /url: /w/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD
+          - img "대한민국 국기"
+        - link "SK스퀘어":
+          - /url: /w/SK%EC%8A%A4%ED%80%98%EC%96%B4
+      - cell "55.37%":
+        - generic: 55.37%
+      - cell "[27]":
+        - link "[27]":
+          - /url: "#fn-27"
+          - text: "[27]"
+    - row "미국 국기 컴캐스트 34.33% [28]":
+      - cell "미국 국기 컴캐스트":
+        - link "미국 국기":
+          - /url: /w/%EB%AF%B8%EA%B5%AD
+          - img "미국 국기"
+        - link "컴캐스트":
+          - /url: /w/%EC%BB%B4%EC%BA%90%EC%8A%A4%ED%8A%B8
+      - cell "34.33%":
+        - generic: 34.33%
+      - cell "[28]":
+        - link "[28]":
+          - /url: "#fn-28"
+          - text: "[28]"
+    - row "미국 국기 US Gaming, LLC 9.75% [29]":
+      - cell "미국 국기 US Gaming, LLC":
+        - link "미국 국기":
+          - /url: /w/%EB%AF%B8%EA%B5%AD
+          - img "미국 국기"
+        - text: US Gaming, LLC
+      - cell "9.75%":
+        - generic: 9.75%
+      - cell "[29]":
+        - link "[29]":
+          - /url: "#fn-29"
+          - text: "[29]"
+    - row "미국 국기 브라이언 터커 로버츠[30] 0.55% [31]":
+      - cell "미국 국기 브라이언 터커 로버츠[30]":
+        - link "미국 국기":
+          - /url: /w/%EB%AF%B8%EA%B5%AD
+          - img "미국 국기"
+        - text: 브라이언 터커 로버츠
+        - link "[30]":
+          - /url: "#fn-30"
+          - text: "[30]"
+      - cell "0.55%":
+        - generic: 0.55%
+      - cell "[31]":
+        - link "[31]":
+          - /url: "#fn-31"
+          - text: "[31]"
+    - row "2023. 11. 23. 기준":
+      - cell "2023. 11. 23. 기준":
+        - generic: 2023. 11. 23. 기준
+- heading " 5.2. 이사회 [편집]" [level=3]:
+  - text: 
+  - link "5.2.":
+    - /url: "#toc"
+  - text: 이사회
+  - link "[편집]":
+    - /url: /edit/T1?section=10
+- table:
+  - rowgroup:
+    - row "이사명 직위 겸직":
+      - cell "이사명":
+        - strong: 이사명
+      - cell "직위":
+        - strong: 직위
+      - cell "겸직":
+        - strong: 겸직
+    - row "조세프 패트릭 마쉬[CS] 대표이사 -":
+      - cell "조세프 패트릭 마쉬[CS]":
+        - link "조세프 패트릭 마쉬":
+          - /url: /w/%EC%A1%B0%EC%84%B8%ED%94%84%20%ED%8C%A8%ED%8A%B8%EB%A6%AD%20%EB%A7%88%EC%89%AC
+        - link "[CS]":
+          - /url: "#fn-CS"
+          - text: "[CS]"
+      - cell "대표이사":
+        - generic: 대표이사
+      - cell "-":
+        - generic: "-"
+    - row "사내이사":
+      - cell "사내이사":
+        - generic: 사내이사
+    - row "이재신[SK] 사내이사 現 SK텔레콤 AI성장전략담당 임원":
+      - cell "이재신[SK]":
+        - text: 이재신
+        - link "[SK]":
+          - /url: "#fn-SK"
+          - text: "[SK]"
+      - cell "사내이사":
+        - generic: 사내이사
+      - cell "現 SK텔레콤 AI성장전략담당 임원":
+        - text: 現
+        - link "SK텔레콤":
+          - /url: /w/SK%ED%85%94%EB%A0%88%EC%BD%A4
+        - text: AI성장전략담당 임원
+    - row "다니엘 조세프 힐퍼티[CS] 기타비상무이사 現 컴캐스트 스펙타코어 의장 겸 최고경영자":
+      - cell "다니엘 조세프 힐퍼티[CS]":
+        - text: 다니엘 조세프 힐퍼티
+        - link "[CS]":
+          - /url: "#fn-CS"
+          - text: "[CS]"
+      - cell "기타비상무이사":
+        - generic: 기타비상무이사
+      - cell "現 컴캐스트 스펙타코어 의장 겸 최고경영자":
+        - text: 現
+        - link "컴캐스트 스펙타코어":
+          - /url: /w/%EC%BB%B4%EC%BA%90%EC%8A%A4%ED%8A%B8%20%EC%8A%A4%ED%8E%99%ED%83%80%EC%BD%94%EC%96%B4
+        - text: 의장 겸 최고경영자
+    - row "구자성[SK] 기타비상무이사 現 SK스퀘어 포트폴리오 전략담당 임원":
+      - cell "구자성[SK]":
+        - text: 구자성
+        - link "[SK]":
+          - /url: "#fn-SK"
+          - text: "[SK]"
+      - cell "기타비상무이사":
+        - generic: 기타비상무이사
+      - cell "現 SK스퀘어 포트폴리오 전략담당 임원":
+        - text: 現
+        - link "SK스퀘어":
+          - /url: /w/SK%EC%8A%A4%ED%80%98%EC%96%B4
+        - text: 포트폴리오 전략담당 임원
+    - row "송재승[SK] 기타비상무이사 現 SK스퀘어 CIO 트랜스포메이션":
+      - cell "송재승[SK]":
+        - text: 송재승
+        - link "[SK]":
+          - /url: "#fn-SK"
+          - text: "[SK]"
+      - cell "기타비상무이사":
+        - generic: 기타비상무이사
+      - cell "現 SK스퀘어 CIO 트랜스포메이션":
+        - text: 現
+        - link "SK스퀘어":
+          - /url: /w/SK%EC%8A%A4%ED%80%98%EC%96%B4
+        - text: CIO 트랜스포메이션
+    - row "오중석[SK] 감사 現 SK스퀘어 재무담당 임원":
+      - cell "오중석[SK]":
+        - text: 오중석
+        - link "[SK]":
+          - /url: "#fn-SK"
+          - text: "[SK]"
+      - cell "감사":
+        - generic: 감사
+      - cell "現 SK스퀘어 재무담당 임원":
+        - text: 現
+        - link "SK스퀘어":
+          - /url: /w/SK%EC%8A%A4%ED%80%98%EC%96%B4
+        - text: 재무담당 임원
+    - row "2024. 4. 1. 임원의변동 공시 기준":
+      - cell "2024. 4. 1. 임원의변동 공시 기준":
+        - generic: 2024. 4. 1. 임원의변동 공시 기준
+- heading " 6. 파트너 [편집]" [level=2]:
+  - text: 
+  - link "6.":
+    - /url: "#toc"
+  - text: 파트너
+  - link "[편집]":
+    - /url: /edit/T1?section=11
+- table:
+  - rowgroup:
+    - row "MAIN":
+      - cell "MAIN":
+        - strong: MAIN
+    - row "Red Sea Global 로...":
+      - cell "Red Sea Global 로...":
+        - link "Red Sea Global 로...":
+          - /url: /w/%ED%99%8D%ED%95%B4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8
+          - text: 
+          - img "Red Sea Global 로..."
+          - text: 
+    - row "Red Sea Global[38]":
+      - cell "Red Sea Global[38]":
+        - link "Red Sea Global":
+          - /url: /w/%ED%99%8D%ED%95%B4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8
+          - strong: Red Sea Global
+        - link "[38]":
+          - /url: "#fn-38"
+          - text: "[38]"
+    - row "LEAD":
+      - cell "LEAD":
+        - strong: LEAD
+    - row "SK텔레콤 로고 에이블리 로고":
+      - cell "SK텔레콤 로고":
+        - link "SK텔레콤 로고":
+          - /url: /w/SK%ED%85%94%EB%A0%88%EC%BD%A4
+          - img "SK텔레콤 로고"
+          - text: 
+      - cell "에이블리 로고":
+        - link "에이블리 로고":
+          - /url: /w/%EC%97%90%EC%9D%B4%EB%B8%94%EB%A6%AC
+          - img "에이블리 로고"
+          - text: 
+      - cell
+    - row "T 우주 (모기업)[39] ABLY":
+      - cell "T 우주 (모기업)[39]":
+        - strong:
+          - link "T 우주 (모기업)":
+            - /url: /w/SK%ED%85%94%EB%A0%88%EC%BD%A4
+            - strong: T 우주
+            - text: (모기업)
+          - link "[39]":
+            - /url: "#fn-39"
+            - text: "[39]"
+      - cell "ABLY":
+        - strong:
+          - link "ABLY":
+            - /url: /w/%EC%97%90%EC%9D%B4%EB%B8%94%EB%A6%AC
+      - cell
+    - row "PREMIER":
+      - cell "PREMIER":
+        - strong: PREMIER
+    - row "삼성 오디세이 네오 로고 화이... 레드불 로고 스포티파이 로고":
+      - cell "삼성 오디세이 네오 로고 화이...":
+        - link "삼성 오디세이 네오 로고 화이...":
+          - /url: /w/%EC%82%BC%EC%84%B1%20%EC%98%A4%EB%94%94%EC%84%B8%EC%9D%B4%20%EC%8B%9C%EB%A6%AC%EC%A6%88
+          - text: 
+          - img "삼성 오디세이 네오 로고 화이..."
+          - text: 
+      - cell "레드불 로고":
+        - link "레드불 로고":
+          - /url: /w/%EB%A0%88%EB%93%9C%EB%B6%88
+          - img "레드불 로고"
+          - text: 
+      - cell "스포티파이 로고":
+        - link "스포티파이 로고":
+          - /url: /w/Spotify
+          - img "스포티파이 로고"
+          - text: 
+    - row "Samsung Odyssey Red Bull Spotify":
+      - cell "Samsung Odyssey":
+        - strong:
+          - link "Samsung Odyssey":
+            - /url: /w/%EC%82%BC%EC%84%B1%20%EC%98%A4%EB%94%94%EC%84%B8%EC%9D%B4%20%EC%8B%9C%EB%A6%AC%EC%A6%88
+      - cell "Red Bull":
+        - strong:
+          - link "Red Bull":
+            - /url: /w/%EB%A0%88%EB%93%9C%EB%B6%88
+      - cell "Spotify":
+        - link "Spotify":
+          - /url: /w/Spotify
+          - strong: Spotify
+    - row "SOOP 로고(화이트) 골스튜디오 텍스트 로고 화이트 우리은행 CI":
+      - cell "SOOP 로고(화이트)":
+        - link "SOOP 로고(화이트)":
+          - /url: /w/SOOP
+          - text: 
+          - img "SOOP 로고(화이트)"
+          - text: 
+      - cell "골스튜디오 텍스트 로고 화이트":
+        - link "골스튜디오 텍스트 로고 화이트":
+          - /url: /w/%EA%B3%A8%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4
+          - text: 
+          - img "골스튜디오 텍스트 로고 화이트"
+      - cell "우리은행 CI":
+        - link "우리은행 CI":
+          - /url: /w/%EC%9A%B0%EB%A6%AC%EC%9D%80%ED%96%89
+          - img "우리은행 CI"
+          - text: 
+    - row "SOOP GOALSTUDIO 우리은행":
+      - cell "SOOP":
+        - strong:
+          - link "SOOP":
+            - /url: /w/SOOP
+            - strong: SOOP
+      - cell "GOALSTUDIO":
+        - strong:
+          - link "GOALSTUDIO":
+            - /url: /w/%EA%B3%A8%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4
+            - strong: GOALSTUDIO
+      - cell "우리은행":
+        - strong:
+          - link "우리은행":
+            - /url: /w/%EC%9A%B0%EB%A6%AC%EC%9D%80%ED%96%89
+    - row "PARTNER":
+      - cell "PARTNER":
+        - strong: PARTNER
+    - row "스틸시리즈 로고 화이트 인스파이어 엔터테인먼트 리조트... KLEVV 로고":
+      - cell "스틸시리즈 로고 화이트":
+        - link "스틸시리즈 로고 화이트":
+          - /url: /w/%EC%8A%A4%ED%8B%B8%EC%8B%9C%EB%A6%AC%EC%A6%88
+          - text: 
+          - img "스틸시리즈 로고 화이트"
+          - text: 
+      - cell "인스파이어 엔터테인먼트 리조트...":
+        - link "인스파이어 엔터테인먼트 리조트...":
+          - /url: /w/%EC%9D%B8%EC%8A%A4%ED%8C%8C%EC%9D%B4%EC%96%B4%20%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8%20%EB%A6%AC%EC%A1%B0%ED%8A%B8
+          - img "인스파이어 엔터테인먼트 리조트..."
+          - text: 
+      - cell "KLEVV 로고":
+        - link "KLEVV 로고":
+          - /url: /w/%EC%97%90%EC%84%BC%EC%BD%94%EC%96%B4
+          - img "KLEVV 로고"
+          - text: 
+    - row "SteelSeries 인스파이어 엔터테인먼트 리조트 KLEVV":
+      - cell "SteelSeries":
+        - strong:
+          - link "SteelSeries":
+            - /url: /w/%EC%8A%A4%ED%8B%B8%EC%8B%9C%EB%A6%AC%EC%A6%88
+      - cell "인스파이어 엔터테인먼트 리조트":
+        - strong:
+          - link "인스파이어 엔터테인먼트 리조트":
+            - /url: /w/%EC%9D%B8%EC%8A%A4%ED%8C%8C%EC%9D%B4%EC%96%B4%20%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8%20%EB%A6%AC%EC%A1%B0%ED%8A%B8
+      - cell "KLEVV":
+        - strong:
+          - link "KLEVV":
+            - /url: /w/%EC%97%90%EC%84%BC%EC%BD%94%EC%96%B4
+    - row "Pulsar Gaming Ge... 김승리 Vic team":
+      - cell "Pulsar Gaming Ge...":
+        - link "Pulsar Gaming Ge...":
+          - /url: /w/Pulsar%20Gaming%20Gears
+          - img "Pulsar Gaming Ge..."
+          - text: 
+      - cell "김승리 Vic team":
+        - link "김승리 Vic team":
+          - /url: /w/%EA%B9%80%EC%8A%B9%EB%A6%AC
+          - img "김승리 Vic team"
+          - text: 
+      - cell
+    - row "Pulsar[40] Vic Team[41]":
+      - cell "Pulsar[40]":
+        - strong:
+          - link "Pulsar":
+            - /url: /w/Pulsar%20Gaming%20Gears
+        - link "[40]":
+          - /url: "#fn-40"
+          - text: "[40]"
+      - cell "Vic Team[41]":
+        - strong:
+          - link "Vic Team":
+            - /url: /w/%EA%B9%80%EC%8A%B9%EB%A6%AC
+        - link "[41]":
+          - /url: "#fn-41"
+          - text: "[41]"
+      - cell
+    - row "SUPPORTER":
+      - cell "SUPPORTER":
+        - strong: SUPPORTER
+    - row "Secretlab 로고 대웅제약 로고":
+      - cell "Secretlab 로고":
+        - link "Secretlab 로고":
+          - /url: /w/%EC%8B%9C%ED%81%AC%EB%A6%BF%EB%9E%A9
+          - img "Secretlab 로고"
+          - text: 
+      - cell "대웅제약 로고":
+        - link "대웅제약 로고":
+          - /url: /w/%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD
+          - img "대웅제약 로고"
+          - text: 
+      - cell
+    - row "Secretlab 대웅제약":
+      - cell "Secretlab":
+        - strong:
+          - link "Secretlab":
+            - /url: /w/%EC%8B%9C%ED%81%AC%EB%A6%BF%EB%9E%A9
+      - cell "대웅제약":
+        - strong:
+          - link "대웅제약":
+            - /url: /w/%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD
+      - cell
+    - row "업무계약 MOU":
+      - cell "업무계약 MOU":
+        - strong: 업무계약 MOU
+    - row "OP.GG 로고":
+      - cell "OP.GG 로고":
+        - link "OP.GG 로고":
+          - /url: /w/OP.GG
+          - img "OP.GG 로고"
+          - text: 
+    - row "OP.GG":
+      - cell "OP.GG":
+        - strong:
+          - link "OP.GG":
+            - /url: /w/OP.GG
+    - row "업무협약":
+      - cell "업무협약":
+        - strong: 업무협약
+    - row "대한민국 해군표지":
+      - cell "대한민국 해군표지":
+        - link "대한민국 해군표지":
+          - /url: /w/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%20%ED%95%B4%EA%B5%B0
+          - img "대한민국 해군표지"
+          - text: 
+    - row "대한민국 해군":
+      - cell "대한민국 해군":
+        - strong:
+          - link "대한민국 해군":
+            - /url: /w/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%20%ED%95%B4%EA%B5%B0
+- heading " 7. 프로게임단 [편집]" [level=2]:
+  - text: 
+  - link "7.":
+    - /url: "#toc"
+  - text: 프로게임단
+  - link "[편집]":
+    - /url: /edit/T1?section=12
+- heading " 7.1. 운영 중 [편집]" [level=3]:
+  - text: 
+  - link "7.1.":
+    - /url: "#toc"
+  - text: 운영 중
+  - link "[편집]":
+    - /url: /edit/T1?section=13
+- table:
+  - rowgroup:
+    - row "T1 로고":
+      - cell "T1 로고":
+        - img "T1 로고"
+        - text: 
+    - row "운영 중인 종목":
+      - cell "운영 중인 종목":
+        - strong: 운영 중인 종목
+    - 'row "리그 오브 레전드 엠블럼 화이... 발로란트 심볼 PUBG: BATTLEGROU..."':
+      - cell "리그 오브 레전드 엠블럼 화이...":
+        - link "리그 오브 레전드 엠블럼 화이...":
+          - /url: /w/%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EB%A0%88%EC%A0%84%EB%93%9C
+          - img "리그 오브 레전드 엠블럼 화이..."
+      - cell "발로란트 심볼":
+        - link "발로란트 심볼":
+          - /url: /w/%EB%B0%9C%EB%A1%9C%EB%9E%80%ED%8A%B8
+          - img "발로란트 심볼"
+          - text: 
+      - 'cell "PUBG: BATTLEGROU..."':
+        - 'link "PUBG: BATTLEGROU..."':
+          - /url: /w/PUBG:%20BATTLEGROUNDS
+          - 'img "PUBG: BATTLEGROU..."'
+          - text: 
+    - row "T1 T1 Esports Academy T1 T1 Esports Academy T1":
+      - cell "T1 T1 Esports Academy":
+        - link "T1":
+          - /url: /w/T1/%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EB%A0%88%EC%A0%84%EB%93%9C
+          - strong: T1
+        - link "T1 Esports Academy":
+          - /url: /w/T1%20Esports%20Academy/%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EB%A0%88%EC%A0%84%EB%93%9C
+          - strong: T1 Esports Academy
+      - cell "T1 T1 Esports Academy":
+        - link "T1":
+          - /url: /w/T1/%EB%B0%9C%EB%A1%9C%EB%9E%80%ED%8A%B8
+          - strong: T1
+        - link "T1 Esports Academy":
+          - /url: /w/T1%20Esports%20Academy/%EB%B0%9C%EB%A1%9C%EB%9E%80%ED%8A%B8
+          - strong: T1 Esports Academy
+      - cell "T1":
+        - link "T1":
+          - /url: /w/T1/%EB%B0%B0%ED%8B%80%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C
+          - strong: T1
+    - row "fighting game lo... 전략적 팀 전투 엠블럼 화이트 오버워치 2 프로그램 아이콘":
+      - cell "fighting game lo...":
+        - link "fighting game lo...":
+          - /url: /w/%EB%8C%80%EC%A0%84%20%EA%B2%A9%ED%88%AC%20%EA%B2%8C%EC%9E%84
+          - img "fighting game lo..."
+          - text: 
+      - cell "전략적 팀 전투 엠블럼 화이트":
+        - link "전략적 팀 전투 엠블럼 화이트":
+          - /url: /w/T1/%EC%A0%84%EB%9E%B5%EC%A0%81%20%ED%8C%80%20%EC%A0%84%ED%88%AC
+          - img "전략적 팀 전투 엠블럼 화이트"
+          - text: 
+      - cell "오버워치 2 프로그램 아이콘":
+        - link "오버워치 2 프로그램 아이콘":
+          - /url: /w/%EC%98%A4%EB%B2%84%EC%9B%8C%EC%B9%98
+          - img "오버워치 2 프로그램 아이콘"
+          - text: 
+    - row "T1 T1 T1":
+      - cell "T1":
+        - link "T1":
+          - /url: /w/T1/%EB%8C%80%EC%A0%84%20%EA%B2%A9%ED%88%AC%20%EA%B2%8C%EC%9E%84
+          - strong: T1
+      - cell "T1":
+        - strong:
+          - link "T1":
+            - /url: /w/T1/%EC%A0%84%EB%9E%B5%EC%A0%81%20%ED%8C%80%20%EC%A0%84%ED%88%AC
+      - cell "T1":
+        - link "T1":
+          - /url: /w/T1/%EC%98%A4%EB%B2%84%EC%9B%8C%EC%B9%98
+          - strong: T1
+    - row "FC ONLINE SC2 Mini PokemonUNITElogo":
+      - cell "FC ONLINE":
+        - img "FC ONLINE"
+        - text: 
+      - cell "SC2 Mini":
+        - link "SC2 Mini":
+          - /url: /w/%EC%8A%A4%ED%83%80%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8%202
+          - img "SC2 Mini"
+          - text: 
+      - cell "PokemonUNITElogo":
+        - link "PokemonUNITElogo":
+          - /url: /w/Pok%C3%A9mon%20UNITE
+          - img "PokemonUNITElogo"
+          - text: 
+    - row "T1 T1 T1":
+      - cell "T1":
+        - link "T1":
+          - /url: /w/T1/FC%20%EC%98%A8%EB%9D%BC%EC%9D%B8
+          - strong: T1
+      - cell "T1":
+        - link "T1":
+          - /url: /w/T1/%EC%8A%A4%ED%83%80%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8
+          - strong: T1
+      - cell "T1":
+        - link "T1":
+          - /url: /w/T1/%ED%8F%AC%EC%BC%93%EB%AA%AC%20%EC%9C%A0%EB%82%98%EC%9D%B4%ED%8A%B8
+          - strong: T1
+    - row "COD Warzone 1.0 ... 포트나이트 아이콘white Riftbound LoLTCG...":
+      - cell "COD Warzone 1.0 ...":
+        - img "COD Warzone 1.0 ..."
+        - text: 
+      - cell "포트나이트 아이콘white":
+        - link "포트나이트 아이콘white":
+          - /url: /w/%ED%8F%AC%ED%8A%B8%EB%82%98%EC%9D%B4%ED%8A%B8/%EB%B0%B0%ED%8B%80%EB%A1%9C%EC%96%84
+          - img "포트나이트 아이콘white"
+      - cell "Riftbound LoLTCG...":
+        - link "Riftbound LoLTCG...":
+          - /url: /w/%EB%A6%AC%ED%94%84%ED%8A%B8%EB%B0%94%EC%9A%B4%EB%93%9C
+          - img "Riftbound LoLTCG..."
+          - text: 
+    - row "T1 T1 T1":
+      - cell "T1":
+        - link "T1":
+          - /url: /w/T1/%EC%BD%9C%20%EC%98%A4%EB%B8%8C%20%EB%93%80%ED%8B%B0:%20%EC%9B%8C%EC%A1%B4
+          - strong: T1
+      - cell "T1":
+        - link "T1":
+          - /url: /w/T1/%ED%8F%AC%ED%8A%B8%EB%82%98%EC%9D%B4%ED%8A%B8
+          - strong: T1
+      - cell "T1":
+        - strong: T1
+- heading " 7.2. 해체 [편집]" [level=3]:
+  - text: 
+  - link "7.2.":
+    - /url: "#toc"
+  - text: 해체
+  - link "[편집]":
+    - /url: /edit/T1?section=14
+- generic:                
+- heading " 8. 인플루언서 [편집]" [level=2]:
+  - text: 
+  - link "8.":
+    - /url: "#toc"
+  - text: 인플루언서
+  - link "[편집]":
+    - /url: /edit/T1?section=15
+- table:
+  - rowgroup:
+    - row "대한민국 국기 대한민국의 MCN":
+      - cell "대한민국 국기 대한민국의 MCN":
+        - link "대한민국 국기":
+          - /url: /w/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD
+          - img "대한민국 국기"
+          - text: 
+        - link "대한민국의 MCN":
+          - /url: /w/MCN#%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD
+          - strong: 대한민국의 MCN
+    - row:
+      - cell:
+        - generic "[ 펼치기 · 접기 ]"
+- table:
+  - rowgroup:
+    - row "T1 로고 화이트 T1 인플루언서":
+      - cell "T1 로고 화이트 T1 인플루언서":
+        - table:
+          - rowgroup:
+            - row "T1 로고 화이트 T1 인플루언서":
+              - cell "T1 로고 화이트":
+                - link "T1 로고 화이트":
+                  - /url: /w/T1
+                  - img "T1 로고 화이트"
+              - cell "T1 인플루언서":
+                - link "T1":
+                  - /url: /w/T1
+                  - strong: T1
+                - strong: 인플루언서
+    - row:
+      - cell:
+        - generic "[ 펼치기 · 접기 ]"
+        - text:    
+- heading " 9. T1 HQ [편집]" [level=2]:
+  - text: 
+  - link "9.":
+    - /url: "#toc"
+  - link "T1 HQ":
+    - /url: /w/T1%20HQ
+  - link "[편집]":
+    - /url: /edit/T1?section=16
+- img "상세 내용 아이콘"
+- text: 자세한 내용은
+- link "T1 HQ":
+  - /url: /w/T1%20HQ
+- text: 문서를 참고하십시오.
+- heading " 10. 여담 [편집]" [level=2]:
+  - text: 
+  - link "10.":
+    - /url: "#toc"
+  - text: 여담
+  - link "[편집]":
+    - /url: /edit/T1?section=17
+- list:
+  - link "스타크래프트":
+    - /url: /w/%EC%8A%A4%ED%83%80%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8
+  - text: 시절 주로 사용했던
+  - link "마스코트":
+    - /url: /w/%EB%A7%88%EC%8A%A4%EC%BD%94%ED%8A%B8
+  - text: 로
+  - link "벙키":
+    - /url: /w/%EB%B2%99%ED%82%A4
+  - text: 가 있다. 또 벙키의 여동생 버전 마스코트 팅키가 있다. 벙키는
+  - link "임요환":
+    - /url: /w/%EC%9E%84%EC%9A%94%ED%99%98
+  - text: 의 팬이고, 팅키는
+  - link "김택용":
+    - /url: /w/%EA%B9%80%ED%83%9D%EC%9A%A9
+  - text: 의 팬이다. 참고로 KT에서 이에 대항하듯 내놓은 마스코트가
+  - link "쇼군":
+    - /url: /w/%EC%87%BC%EA%B5%B0(KTF%20%EB%A7%A4%EC%A7%81%EC%97%94%EC%8A%A4)
+  - text: 과 쇼걸이다.
+- list:
+  - text: 창단 초기, 임요환 등 스타크래프트 선수단이 직접 부른 응원곡이 있다. 곡명은
+  - link "'Fly High T1'":
+    - /url: https://youtu.be/UNzF2MLv3Oo
+  - text: .
+- list:
+  - link "원더걸스":
+    - /url: /w/%EC%9B%90%EB%8D%94%EA%B1%B8%EC%8A%A4
+  - text: 가 서브 ��폰서를 맡은 적이 있었다.
+  - link "기사":
+    - /url: http://www.mediapen.com/news/view/84506
+  - text: ","
+  - link "gif":
+    - /url: http://cafe.daum.net/_c21_/bbs_search_read?grpid=aVeZ&fldid=70eY&datanum=906180
+  - text: .
+- list:
+  - text: 대표적인 유명인 팬으로 가수
+  - link "박완규":
+    - /url: /w/%EB%B0%95%EC%99%84%EA%B7%9C
+  - text: 가 있다. 정확히는 김택용 전 선수의 팬으로, 스타크래프트 1 프로리그 마지막 시즌의 결승전에서 김택용이
+  - link "이영호":
+    - /url: /w/%EC%9D%B4%EC%98%81%ED%98%B8
+  - text: 를 잡고 우승을 확정 지은 직후 달려 나와 포옹하는 모습이 나오기도 했다. 리그 오브 레전드로 주력 게임이 바뀐 이후로는
+  - link "방탄소년단":
+    - /url: /w/%EB%B0%A9%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8
+  - text: ","
+  - link "백현":
+    - /url: /w/%EB%B0%B1%ED%98%84
+  - link "[44]":
+    - /url: "#fn-44"
+    - text: "[44]"
+  - text: ","
+  - link "창모":
+    - /url: /w/%EC%B0%BD%EB%AA%A8
+  - text: 등과 콜라보를 진행하기도 했으며, 플랫폼, 나라 가리지 않고 수많은 스트리머들이 많이 응원하는 팀이기도 하다.
+- list:
+  - text: 선수 복지가 좋아
+  - link "[45]":
+    - /url: "#fn-45"
+    - text: "[45]"
+  - text: 선수들이 가장 선호하는 팀으로 유명하다. 특히 스타크래프트 시절에는 선수들이 T1으로 몰리는 현상을 막기 위해
+  - link "드래프트":
+    - /url: /w/%EB%93%9C%EB%9E%98%ED%94%84%ED%8A%B8/%EC%8A%A4%ED%83%80%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8%20%EC%8B%9C%EB%A6%AC%EC%A6%88
+  - text: 를 도입했다는 소문까지 돌았을 정도로 복지가 좋았다. 김택용이나 이영호 같은 리그 대표 선수들이 은퇴 후 개인 방송에서 밝힌 바로는 통신사 라이벌 KT와 비교해도 압도적으로 좋았다고 하며,
+  - link "김성대":
+    - /url: /w/%EA%B9%80%EC%84%B1%EB%8C%80
+  - text: 의 말로는
+  - link "연습생":
+    - /url: /w/%ED%94%84%EB%A1%9C%EA%B2%8C%EC%9D%B4%EB%A8%B8%20%EC%97%B0%EC%8A%B5%EC%83%9D
+  - text: 조차도 1년에 2000만 원은 모을 수 있었다고 한다. 그래서인지
+  - link "스타크래프트 승부조작 사건":
+    - /url: /w/%EC%8A%A4%ED%83%80%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8%20%EC%8A%B9%EB%B6%80%EC%A1%B0%EC%9E%91%20%EC%82%AC%EA%B1%B4
+  - text: ","
+  - link "스타크래프트 2 승부조작 사건":
+    - /url: /w/%EC%8A%A4%ED%83%80%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8%202%20%EC%8A%B9%EB%B6%80%EC%A1%B0%EC%9E%91%20%EC%82%AC%EA%B1%B4
+  - link "[46]":
+    - /url: "#fn-46"
+    - text: "[46]"
+  - text: 을 통틀어 연루자가 한 명도 나오지 않았다.
+  - link "[47]":
+    - /url: "#fn-47"
+    - text: "[47]"
+- list:
+  - text: 리그 오브 레전드 팀은
+  - link "일산신도시":
+    - /url: /w/%EC%9D%BC%EC%82%B0%EC%8B%A0%EB%8F%84%EC%8B%9C
+  - text: 모처에 고급 아파트 2채를 숙소로 사용하고 근처에 연습실을 마련해서 있다가, 2020 시즌부터는
+  - link "강남구":
+    - /url: /w/%EA%B0%95%EB%82%A8%EA%B5%AC
+  - text: 에 신설된
+  - link "T1 HQ":
+    - /url: /w/T1%20HQ
+  - text: 로 이전하였다. 거기에 비시즌마다
+  - link "워크숍":
+    - /url: /w/%EC%9B%8C%ED%81%AC%EC%88%8D
+  - text: 을
+  - link "제주도":
+    - /url: /w/%EC%A0%9C%EC%A3%BC%EB%8F%84
+  - text: ","
+  - link "싱가포르":
+    - /url: /w/%EC%8B%B1%EA%B0%80%ED%8F%AC%EB%A5%B4
+  - text: 등 유명 관광지에서 진행하고 있다.
+  - link "발로란트 팀":
+    - /url: /w/T1/%EB%B0%9C%EB%A1%9C%EB%9E%80%ED%8A%B8
+  - text: 은 본래 북미팀으로 창단하는 바람에
+  - link "로스앤젤레스":
+    - /url: /w/%EB%A1%9C%EC%8A%A4%EC%95%A4%EC%A0%A4%EB%A0%88%EC%8A%A4
+  - text: 에 위치한
+  - link "클럽하우스":
+    - /url: /w/%ED%81%B4%EB%9F%BD%ED%95%98%EC%9A%B0%EC%8A%A4
+  - text: 를 연습실과 숙소로 사용했으나 23년, 프랜차이즈 심사와 함께
+  - link "VCT Pacific":
+    - /url: /w/VCT%20Pacific
+  - text: 리그로 합류에 성공하며
+  - link "T1 HQ":
+    - /url: /w/T1%20HQ
+  - text: 로 연습실과 숙소를 이전하였다. 스타크래프트 시절과 마찬가지로 선수 복지 면에서는 T1을 거쳐간 선수들이 모두 칭찬할 정도로 좋은 조건을 제공하고 있다. 또 T1
+  - link "하스스톤":
+    - /url: /w/%ED%95%98%EC%8A%A4%EC%8A%A4%ED%86%A4
+  - link "서렌더":
+    - /url: /w/%EA%B9%80%EC%A0%95%EC%88%98(%ED%94%84%EB%A1%9C%EA%B2%8C%EC%9D%B4%EB%A8%B8)
+  - text: 선수도 자신이 몸 담았던 모든 팀 중에서 대우가 가장 좋다고 말했다. 특히 본인의 종목이 인기 종목이 딱히 아님에도 사무국에서 신경을 많이 써준다고 한다.
+- list:
+  - text: 공교롭게도 대한민국의 e스포츠를 주도했던 두 게임인 스타크래프트와 리그 오브 레전드에서 가장 유명한 인물이자 현역, 역대 가리지 않는 올타임 레전드들인
+  - link "임요환":
+    - /url: /w/%EC%9E%84%EC%9A%94%ED%99%98
+  - text: 과
+  - link "이상혁":
+    - /url: /w/%EC%9D%B4%EC%83%81%ED%98%81
+  - text: 이 소속된 팀이기도 하다.
+- list:
+  - text: 그리고 T1에 소속되어 있던 시절 이 올타임 레전드들은 각자의 게임에서 최고의 자리에 오른 다음 부진을 겪다가 고령의 나이
+  - link "[48]":
+    - /url: "#fn-48"
+    - text: "[48]"
+  - text: 에서 재기하여 다시 활약하다가 결승 문턱에서 계속 미끄러지는 징크스를 공유하고 있었다. 임요환은
+  - link "온게임넷 스타리그":
+    - /url: /w/%EC%98%A8%EA%B2%8C%EC%9E%84%EB%84%B7%20%EC%8A%A4%ED%83%80%EB%A6%AC%EA%B7%B8
+  - text: 우승 2번으로 테란의 황제라는 칭호를 얻고 스타크래프트 선수들 중 그 누구보다도 유명한 선수가 되었으나 이 이후 준우승 2번으로 미끄러지면서 한동안 부진에 빠져버렸다. 겨우 이를 극복하고
+  - link "삼연벙":
+    - /url: /w/%EC%82%BC%EC%97%B0%EB%B2%99
+  - text: 으로 결승에 올라갔으나
+  - link "감동의 골마":
+    - /url: /w/%EA%B0%90%EB%8F%99%EC%9D%98%20%EA%B3%A8%EB%A7%88
+  - text: 로 끝나버리고, 다음 리그에서도 준우승에 그치는 비극을 겪고
+  - link "골든 마우스":
+    - /url: /w/%EA%B3%A8%EB%93%A0%20%EB%A7%88%EC%9A%B0%EC%8A%A4#s-2
+  - text: 를 얻지 못했으며
+  - link "[49]":
+    - /url: "#fn-49"
+    - text: "[49]"
+  - text: ", 이상혁은 월즈 우승 3회, LCK 3연속 우승 등의 진기록을 세워 롤에서 가장 유명한 선수가 되었지만 2019년 1557을 시작으로 2020년부터 롤드컵은커녕 LCK에서도 부진한 성적을 거두었고, 2022년에 LCK 우승으로 살아나나 싶었더니 가장 중요한 월즈 결승전에서 그 누구도 예상하지 못한 결과로 결국 좌절되어 버렸고 그 이후로 메이저 대회에서 우승을 하지 못하는 비극을 겪었다."
+  - link "[50]":
+    - /url: "#fn-50"
+    - text: "[50]"
+  - text: 그러나 이상혁은 한국에서 열린
+  - link "2023 롤드컵":
+    - /url: /w/%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EB%A0%88%EC%A0%84%EB%93%9C%202023%20%EC%9B%94%EB%93%9C%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8B%AD
+  - text: 에서 자국리그인 LCK팀이 전부 탈락했음에도 중국리그인 LPL의 3팀을 연달아 격파하고 우승하며 기어이 재기에 성공했고 이후
+  - link "2024 롤드컵":
+    - /url: /w/%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EB%A0%88%EC%A0%84%EB%93%9C%202024%20%EC%9B%94%EB%93%9C%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8B%AD
+  - text: 을 결승전 위기의 순간 엄청난 활약으로 우승, FMVP까지 수상하며 다시금 전성기를 맞이했다.
+- list:
+  - link "SK텔레콤":
+    - /url: /w/SK%ED%85%94%EB%A0%88%EC%BD%A4
+  - text: 이 설립한 게임단이라서 인터넷도
+  - link "SK브로드밴드":
+    - /url: /w/SK%EB%B8%8C%EB%A1%9C%EB%93%9C%EB%B0%B4%EB%93%9C
+  - text: 를 쓸 것 같지만, T1 선수들도 인터넷은
+  - link "KT":
+    - /url: /w/KT
+  - text: 를 쓴다고 한다. 원래는 SK브로드밴드를 썼는데,
+  - link "2014 NLB 스프링 4강":
+    - /url: /w/%EB%B9%85%ED%8C%8C%EC%9D%BC%20NLB%20Spring%202014/4%EA%B0%95#s-2
+  - text: 경기에서 우천으로 인한 회선장애 때문에 페널티를 받는 일이 생기면서 이후 KT로 바꿨다.
+  - link "팀 오너 회사 서비스를 팀이 못 쓰는":
+    - /url: /w/%ED%99%8D%EC%B2%A0%20%EC%97%86%EB%8A%94%20%ED%99%8D%EC%B2%A0%ED%8C%80
+  - text: 이상한 상황. 다만
+  - link "2021년 10월 KT 인터넷 장애 사건":
+    - /url: /w/2021%EB%85%84%2010%EC%9B%94%20KT%20%EC%9D%B8%ED%84%B0%EB%84%B7%20%EC%9E%A5%EC%95%A0%20%EC%82%AC%EA%B1%B4
+  - text: 이 일어날 때
+  - link "운타라":
+    - /url: /w/%EB%B0%95%EC%9D%98%EC%A7%84
+  - text: 가 스트리밍 룸에서 정상적으로 방송을 한 것을 보면 KT 단독회선은 아니고 SK브로드밴드 혹은 타 통신사로 복수 회선을 쓰는 것으로 보인다. 선수들이나 임원 일부도 KT 휴대폰을 쓴다고. 반대로
+  - link "kt 롤스터":
+    - /url: /w/kt%20%EB%A1%A4%EC%8A%A4%ED%84%B0
+  - text: 에서도
+  - link "SK텔레콤":
+    - /url: /w/SK%ED%85%94%EB%A0%88%EC%BD%A4
+  - text: 휴대폰을 쓰는 사람들도 많다.
+- list:
+  - text: T1 체제로 바뀐 2020년과 2021년에는 프로게이머
+  - link "[51]":
+    - /url: "#fn-51"
+    - text: "[51]"
+  - text: 뿐만 아니라
+  - link "파트너 스트리머":
+    - /url: /w/%EC%A7%80%EC%88%98%EC%86%8C%EB%85%80
+  - text: 도 물의를 일으키는 사건이 이전보다 상당히 증가해 팬들은 이런 스트리머들도 거르지 않고 뽑는 프런트의 정상적이지 못한 운영 때문이 아니냐며 프런트를 비판하고 있었으나, 해당 스트리머가 은퇴한 뒤에는 이렇다 할 사건은 생기지 않는 중이라 팬덤은 프런트보단 사람이 문제였다고 생각하는 중이다.
+- list:
+  - text: T1이
+  - link "트위치":
+    - /url: /w/%ED%8A%B8%EC%9C%84%EC%B9%98
+  - text: 와의 독점 스트리밍 계약이 종료되면서 2022년 3월 31일부로 상당수 스트리머들과의 상호 합의 계약 해지가 발표되었다.
+  - link "#":
+    - /url: https://twitter.com/T1/status/1509515862704746499
+  - text: 2023년부터는 LCK 중계 시에만
+  - link "아프리카TV":
+    - /url: /w/SOOP
+  - text: 를 사용하고, 이 외의 방송은
+  - link "트위치":
+    - /url: /w/%ED%8A%B8%EC%9C%84%EC%B9%98
+  - text: 를 활용하는 형태로 스트리머들이 방송을 진행했다. 이후
+  - link "트위치 대한민국 사업 철수 사건":
+    - /url: /w/%ED%8A%B8%EC%9C%84%EC%B9%98%20%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%20%EC%82%AC%EC%97%85%20%EC%B2%A0%EC%88%98%20%EC%82%AC%EA%B1%B4
+  - text: 으로 인해 SOOP과 스트리밍 계약을 맺고 게임단 자체가 SOOP으로 완전히 이적했다.
+  - link "[52]":
+    - /url: "#fn-52"
+    - text: "[52]"
+- list:
+  - text: 2026년 6월에 로그라이크 액션 게임
+  - link "Shape of Dreams":
+    - /url: /w/Shape%20of%20Dreams
+  - text: 는 T1 구단과 협업을 실시했다.
+  - link "#":
+    - /url: https://www.sportsseoul.com/news/read/1621731
+- heading " 11. 둘러보기 [편집]" [level=2]:
+  - text: 
+  - link "11.":
+    - /url: "#toc"
+  - text: 둘러보기
+  - link "[편집]":
+    - /url: /edit/T1?section=18
+- table:
+  - rowgroup:
+    - row "SK스포츠 로고":
+      - cell "SK스포츠 로고":
+        - strong:
+          - link "SK스포츠 로고":
+            - /url: /w/SK%EC%8A%A4%ED%8F%AC%EC%B8%A0
+            - img "SK스포츠 로고"
+            - text: 
+    - row:
+      - cell:
+        - generic "[ 펼치기 · 접기 ]"
+- table:
+  - rowgroup:
+    - row "컴캐스트 스펙타코어 로고":
+      - cell "컴캐스트 스펙타코어 로고":
+        - strong:
+          - img "컴캐스트 스펙타코어 로고"
+          - text: 
+    - row:
+      - cell:
+        - generic "[ 펼치기 · 접기 ]"
+- table:
+  - rowgroup:
+    - row "T1 T1 T1":
+      - cell "T1 T1":
+        - img "T1"
+        - img "T1"
+      - cell "T1":
+        - link "T1":
+          - /url: "#s-11"
+          - img "T1"
+    - row "라이펫 펫보험 lifet.co.kr T1 건강할수록 저렴해지는 라이펫 펫보험! 슬개골/치아/비뇨기 부위별 특화 플랜 강아지 실비보험 마이뱅크 www.mibank.me 월 2~3만원으로 슬개골/피부질환/치과치료까지! 보험료 10%할인 SD애견미용학원 SD애견미용학원 sdgroomingacademy2.imweb.me 원장과 부원장이 직강하는 실견 중심의 1:1 맞춤 애견미용학원":
+      - cell "라이펫 펫보험 lifet.co.kr T1 건강할수록 저렴해지는 라이펫 펫보험! 슬개골/치아/비뇨기 부위별 특화 플랜":
+        - table:
+          - rowgroup:
+            - row "라이펫 펫보험":
+              - cell "라이펫 펫보험":
+                - link "라이펫 펫보험":
+                  - /url: "#s-15"
+            - row "lifet.co.kr T1":
+              - cell "lifet.co.kr T1":
+                - link "lifet.co.kr T1":
+                  - /url: "#s-2"
+                  - text: lifet.co.kr
+                  - img "T1"
+            - row "건강할수록 저렴해지는 라이펫 펫보험! 슬개골/치아/비뇨기 부위별 특화 플랜":
+              - cell "건강할수록 저렴해지는 라이펫 펫보험! 슬개골/치아/비뇨기 부위별 특화 플랜":
+                - link "건강할수록 저렴해지는 라이펫 펫보험! 슬개골/치아/비뇨기 부위별 특화 플랜":
+                  - /url: "#s-6"
+                  - generic: 건강할수록 저렴해지는 라이펫 펫보험! 슬개골/치아/비뇨기 부위별 특화 플랜
+      - cell "강아지 실비보험 마이뱅크 www.mibank.me 월 2~3만원으로 슬개골/피부질환/치과치료까지! 보험료 10%할인":
+        - table:
+          - rowgroup:
+            - row "강아지 실비보험 마이뱅크":
+              - cell "강아지 실비보험 마이뱅크":
+                - link "강아지 실비보험 마이뱅크":
+                  - /url: "#s-8"
+            - row "www.mibank.me":
+              - cell "www.mibank.me":
+                - link "www.mibank.me":
+                  - /url: "#s-11"
+            - row "월 2~3만원으로 슬개골/피부질환/치과치료까지! 보험료 10%할인":
+              - cell "월 2~3만원으로 슬개골/피부질환/치과치료까지! 보험료 10%할인":
+                - link "월 2~3만원으로 슬개골/피부질환/치과치료까지! 보험료 10%할인":
+                  - /url: "#s-10"
+                  - generic: 월 2~3만원으로 슬개골/피부질환/치과치료까지! 보험료 10%할인
+      - cell "SD애견미용학원 SD애견미용학원 sdgroomingacademy2.imweb.me 원장과 부원장이 직강하는 실견 중심의 1:1 맞춤 애견미용학원":
+        - table:
+          - rowgroup:
+            - row "SD애견미용학원 SD애견미용학원":
+              - cell "SD애견미용학원":
+                - link "SD애견미용학원":
+                  - /url: "#s-3"
+                  - img "SD애견미용학원"
+              - cell "SD애견미용학원":
+                - link "SD애견미용학원":
+                  - /url: "#s-7"
+            - row "sdgroomingacademy2.imweb.me":
+              - cell "sdgroomingacademy2.imweb.me":
+                - link "sdgroomingacademy2.imweb.me":
+                  - /url: "#s-14"
+            - row "원장과 부원장이 직강하는 실견 중심의 1:1 맞춤 애견미용학원":
+              - cell "원장과 부원장이 직강하는 실견 중심의 1:1 맞춤 애견미용학원":
+                - link "원장과 부원장이 직강하는 실견 중심의 1:1 맞춤 애견미용학원":
+                  - /url: "#s-10"
+                  - generic: 원장과 부원장이 직강하는 실견 중심의 1:1 맞춤 애견미용학원
+- link "[1]":
+  - /url: "#rfn-1"
+- text: 대외 명칭은 SKT를 떼고
+- strong: T1
+- text: 으로 변경했으나 법적인 기업명에는 여전히 SK텔레콤과 CS(컴캐스트 스펙타코어)가 같이 들어간다. 유튜브 핸들명도 그대로 @SKTT1이다.
+- link "[2]":
+  - /url: "#rfn-2"
+- link "SK텔레콤":
+  - /url: /w/SK%ED%85%94%EB%A0%88%EC%BD%A4
+- text: 이 스타크래프트 프로 팀 4U를 인수하여 프로게임단 SK telecom T1을 창단한 날.
+- link "[3]":
+  - /url: "#rfn-3"
+- text: 전 대표이사였던
+- link "조 마쉬":
+  - /url: /w/%EC%A1%B0%20%EB%A7%88%EC%89%AC
+- text: 는 6월 30일부로 임기만료되어 차기 CEO 선임 협의가 진행 중이다.
+- link "#":
+  - /url: https://m.sports.naver.com/esports/article/468/0001255939?sid3=79b
+- text: "[CS]"
+- link "4.1":
+  - /url: "#rfn-4"
+  - superscript: "4.1"
+- link "4.2":
+  - /url: "#rfn-6"
+  - superscript: "4.2"
+- link "4.3":
+  - /url: "#rfn-32"
+  - superscript: "4.3"
+- link "4.4":
+  - /url: "#rfn-34"
+  - superscript: "4.4"
+- link "컴캐스트":
+  - /url: /w/%EC%BB%B4%EC%BA%90%EC%8A%A4%ED%8A%B8
+- text: 측 이사.
+- text: "[SK]"
+- link "5.1":
+  - /url: "#rfn-5"
+  - superscript: "5.1"
+- link "5.2":
+  - /url: "#rfn-7"
+  - superscript: "5.2"
+- link "5.3":
+  - /url: "#rfn-8"
+  - superscript: "5.3"
+- link "5.4":
+  - /url: "#rfn-9"
+  - superscript: "5.4"
+- link "5.5":
+  - /url: "#rfn-33"
+  - superscript: "5.5"
+- link "5.6":
+  - /url: "#rfn-35"
+  - superscript: "5.6"
+- link "5.7":
+  - /url: "#rfn-36"
+  - superscript: "5.7"
+- link "5.8":
+  - /url: "#rfn-37"
+  - superscript: "5.8"
+- link "SK":
+  - /url: /w/SK
+- text: 측 이사.
+- link "[10]":
+  - /url: "#rfn-10"
+- text: T1 공식 커뮤니티 사이트.
+- link "[11]":
+  - /url: "#rfn-11"
+- text: T1 공식 멤버십 사이트.
+- link "[🍚]":
+  - /url: "#rfn-12"
+- text: 점심, 저녁 식사가 올라오는 T1밥 공식 계정.
+- link "[13]":
+  - /url: "#rfn-13"
+- text: 글로벌 채널.
+- link "[14]":
+  - /url: "#rfn-14"
+- text: 게임단이 스타크래프트 팀을 계승하므로 임요환은 이 게임단의
+- strong: 창립자
+- text: 다. 임요환은
+- link "한 인터뷰":
+  - /url: https://m.inven.co.kr/webzine/wznews.php?idx=238215
+- text: 에서 "본인과 함께 시작한 SKT T1이 이제 세계에서 가장 영향력 있는 e스포츠 게임단이 되었어요. 어떤 기분이 드시나요?"라는 질문에 "제가 전성기에 쏟아 부은 노력이 이렇게 상한가가 되어 돌아올 줄은 몰랐네요, 와우! 물론 지분은 없지만요. 후배들과 T1이 앞으로도 잘 해준다면 저는 계속 기억되겠죠?(웃음)"라고 답했다.
+- link "[15]":
+  - /url: "#rfn-15"
+- text: 4Union이란 뜻이지만 스폰서들에게 우리 팀
+- strong: 사유
+- text: 라는 유머 섞인 표현으로 지은 이름.
+- link "[16]":
+  - /url: "#rfn-16"
+- text: 창단 당시는
+- link "임요환":
+  - /url: /w/%EC%9E%84%EC%9A%94%ED%99%98
+- text: ","
+- link "최연성":
+  - /url: /w/%EC%B5%9C%EC%97%B0%EC%84%B1
+- text: 의 영향력이 강했기에
+- link "Terran":
+  - /url: /w/%ED%85%8C%EB%9E%80
+- text: No. 1이라는 우스갯소리도 돌았었다. 게다가 당시 T1의 선수단 연봉 조정은 전적 데이터만으로 인상/동결/감봉 여부를 결정했는데 임요환과 최연성만은 해당되지 않았을 정도. 그만큼 저 둘이 T1에서 차지하는 입지는 거대했다. 당시 스타리그 중계화면에는 선수 이름 옆에 '종족명 영어 이니셜+본진 위치 X시 방향'을 표기했었기 때문에 T1을 '테란한시'라고 부르기도 했다.
+- link "KTF":
+  - /url: /w/kt%20%EB%A1%A4%EC%8A%A4%ED%84%B0/%EC%8A%A4%ED%83%80%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8
+- text: 와 맞붙은
+- link "SKY 프로리그 2005 전기리그":
+  - /url: /w/SKY%20%ED%94%84%EB%A1%9C%EB%A6%AC%EA%B7%B8%202005%20%EC%A0%84%EA%B8%B0%EB%A6%AC%EA%B7%B8
+- text: 결승전
+- link "강민":
+  - /url: /w/%EA%B0%95%EB%AF%BC
+- text: 과의 경기를 승리하며 우승을 확정 지은
+- link "박용욱":
+  - /url: /w/%EB%B0%95%EC%9A%A9%EC%9A%B1
+- text: 은 인터뷰에서 팀명을 T1이 아닌
+- link "P1":
+  - /url: /w/%ED%94%84%EB%A1%9C%ED%86%A0%EC%8A%A4
+- text: 으로 바꿨으면 좋겠다고 말한 바 있다. 실제로 T1은 프로토스 라인 또한 테란 못지않게 강력하였으며, 박용욱 역시 임요환, 최연성과 함께 초창기 T1의 대표 선수였다. 특히 투싼 팀 리그의 경우는 사실상 박용욱과
+- link "김성제":
+  - /url: /w/%EA%B9%80%EC%84%B1%EC%A0%9C(%ED%94%84%EB%A1%9C%EA%B2%8C%EC%9D%B4%EB%A8%B8)
+- text: ", 즉 프로토스 2명이 T1의 승리 대부분을 책임졌다. 게다가 T1은"
+- link "삼성전자 칸":
+  - /url: /w/%EC%82%BC%EC%84%B1%20%EA%B0%A4%EB%9F%AD%EC%8B%9C(%ED%94%84%EB%A1%9C%EA%B2%8C%EC%9E%84%EB%8B%A8)/%EC%8A%A4%ED%83%80%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8
+- text: ","
+- link "웅진 스타즈":
+  - /url: /w/%EC%9B%85%EC%A7%84%20%EC%8A%A4%ED%83%80%EC%A6%88
+- text: 와 함께
+- strong: 프로토스 우승자만 2명을 보유한 세 팀
+- text: 중 하나다. 이후
+- link "김택용":
+  - /url: /w/%EA%B9%80%ED%83%9D%EC%9A%A9
+- text: 과
+- link "도재욱":
+  - /url: /w/%EB%8F%84%EC%9E%AC%EC%9A%B1
+- text: 이 합류하면서 프로토스 제국으로 변모하였다.
+- link "[17]":
+  - /url: "#rfn-17"
+- text: 다만 SKT 하면 빨간색의 이미지가 강하긴 한데, 2017년부터 검은색 계열의 유니폼도 상당히 선호하는 모습을 보이기 시작했고, 2019년도에 컴캐스트와 합작한 후에는 오히려 빨강의 이미지를 탈피하려는지는 몰라도 계속해서 검은색 유니폼을 선호하는 모습을 보이고 있다. 자세한 것은
+- link "T1/유니폼":
+  - /url: /w/T1/%EC%9C%A0%EB%8B%88%ED%8F%BC
+- text: 문서 참조.
+- link "[18]":
+  - /url: "#rfn-18"
+- text: 여담으로 LoL 팀은
+- link "SK텔레콤":
+  - /url: /w/SK%ED%85%94%EB%A0%88%EC%BD%A4
+- text: 의 로고가 하단에 병기되어 있는 버전을 2023년 월드 챔피언십까지 사용하였다.
+- link "[19]":
+  - /url: "#rfn-19"
+- text: 아티가 깨어난 알은
+- link "대황란":
+  - /url: /w/%EB%8F%84%EB%9E%80
+- text: 이라는 드립도 나오고 있다.
+- link "[20]":
+  - /url: "#rfn-20"
+- text: 롤 팀은 MSI에서 젠지와의 풀세트 혈전 끝에 결국 준우승을 기록했고, EWC에서는 4강에서 탈락하고 3위로 마무리했다. 롤 팀 외에도 발로란트 팀 역시 스테이지 2 개막전에서 PRX에게 2:0으로 패배했으며 이후 TLN에게도 0:2로 패배하는 굴욕을 당했다.
+- link "[21]":
+  - /url: "#rfn-21"
+- text: 참고로 페이커는 치킨에게 아티라고 하는 건 잔인하다고 답변했지만 이내 자신의 것은 물론 오너의 것까지 아랑곳 않고
+- strong: 남김없이 먹어치우는
+- text: 티쪽이 행보를 보여줬다.
+- link "[22]":
+  - /url: "#rfn-22"
+- text: 사실 'e스포츠의 레알 마드리드'는 스타판이 한창일 당시 라이벌 구단이었던 KTF를 부르던 별칭이었다. 당시 영입으로 호화 선수진을 구축한 점이
+- link "갈락티코스":
+  - /url: /w/%EA%B0%88%EB%9D%BD%ED%8B%B0%EC%BD%94%EC%8A%A4
+- text: 를 연상시켰다는 이유.
+- link "[23]":
+  - /url: "#rfn-23"
+- text: 롤드컵을 제외한 스타크래프트 프로리그-LCK 동시 우승은 2014년에 이룬 kt에 이어 2번째다.
+- link "[24]":
+  - /url: "#rfn-24"
+- text: 「2024 이스포츠 실태조사」,
+- link "한국콘텐츠진흥원":
+  - /url: /w/%ED%95%9C%EA%B5%AD%EC%BD%98%ED%85%90%EC%B8%A0%EC%A7%84%ED%9D%A5%EC%9B%90
+- text: ", 2024, p. 285."
+- link "[25]":
+  - /url: "#rfn-25"
+- link "수원 삼성 블루윙즈":
+  - /url: /w/%EC%88%98%EC%9B%90%20%EC%82%BC%EC%84%B1%20%EB%B8%94%EB%A3%A8%EC%9C%99%EC%A6%88
+- text: 와
+- link "서울 삼성 썬더스":
+  - /url: /w/%EC%84%9C%EC%9A%B8%20%EC%82%BC%EC%84%B1%20%EC%8D%AC%EB%8D%94%EC%8A%A4
+- text: 는 BMW 본사가 아닌 공식 수입사 도이치모터스의 후원이다. 그 밖에도 BMW는 동시에 기존에 후원하고 있던
+- link "Cloud9":
+  - /url: /w/Cloud9/%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EB%A0%88%EC%A0%84%EB%93%9C
+- text: 을 비롯한
+- link "G2 Esports":
+  - /url: /w/G2%20Esports/%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EB%A0%88%EC%A0%84%EB%93%9C
+- text: ","
+- link "Fnatic":
+  - /url: /w/Fnatic/%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EB%A0%88%EC%A0%84%EB%93%9C
+- text: ","
+- link "FunPlus Phoenix":
+  - /url: /w/FPX/%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EB%A0%88%EC%A0%84%EB%93%9C
+- text: 와도 후원 계약을 맺었다.
+- link "[26]":
+  - /url: "#rfn-26"
+- text: 하지만 후원 체결 당시 T1 롤 팀 선수들은
+- link "운전면허":
+  - /url: /w/%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88
+- text: 가 아무도 없었다. 추후 페이커가 방송에서 면허를 따겠다고 했으며 본인 인스타그램에 면허 합격을 인증했다.
+- link "[27]":
+  - /url: "#rfn-27"
+- text: "· 2019년 10월 11일 공시, 유상증자 결정:"
+- link "SK텔레콤":
+  - /url: /w/SK%ED%85%94%EB%A0%88%EC%BD%A4
+- text: 의 지분율 100.0%→54.95%,
+- link "컴캐스트":
+  - /url: /w/%EC%BB%B4%EC%BA%90%EC%8A%A4%ED%8A%B8
+- text: 와 US Gaming, LLC에 제3자배정 유상증자
+- text: "· 2021년 11월 5일 공시, 최대주주 등의 주식 보유 변동:"
+- link "SK텔레콤":
+  - /url: /w/SK%ED%85%94%EB%A0%88%EC%BD%A4
+- text: →
+- link "SK스퀘어":
+  - /url: /w/SK%EC%8A%A4%ED%80%98%EC%96%B4
+- text: ","
+- link "SK텔레콤":
+  - /url: /w/SK%ED%85%94%EB%A0%88%EC%BD%A4
+- text: 의 지분 54.95%이
+- link "SK스퀘어":
+  - /url: /w/SK%EC%8A%A4%ED%80%98%EC%96%B4
+- text: 에 이전
+- text: "· 2022년 11월 29일 공시, 유상증자 결정: 지분율 54.95%→55.37%,"
+- link "SK스퀘어":
+  - /url: /w/SK%EC%8A%A4%ED%80%98%EC%96%B4
+- text: 에 제3자배정 유상증자
+- link "[28]":
+  - /url: "#rfn-28"
+- text: "· 2019년 10월 11일 공시, 유상증자 결정: 지분율 0.0%→34.1%,"
+- link "컴캐스트":
+  - /url: /w/%EC%BB%B4%EC%BA%90%EC%8A%A4%ED%8A%B8
+- text: 에 제3자배정 유상증자
+- text: "· 2022년 11월 29일 공시, 유상증자 결정: 지분율 34.1%→34.33%,"
+- link "컴캐스트":
+  - /url: /w/%EC%BB%B4%EC%BA%90%EC%8A%A4%ED%8A%B8
+- text: 에 제3자배정 유상증자
+- link "[29]":
+  - /url: "#rfn-29"
+- text: "· 2019년 10월 11일 공시, 유상증자 결정: 지분율 0.0%→10.95%, US Gaming, LLC에 제3자배정 유상증자"
+- text: "· 2021년 5월 7일 공시, 유상증자 결정: 지분율 10.95%→10.37%, US Gaming, LLC의 실권주 발생"
+- text: "· 2022년 11월 29일 공시, 유상증자 결정: 지분율 10.37%→9.75%,"
+- link "SK스퀘어":
+  - /url: /w/SK%EC%8A%A4%ED%80%98%EC%96%B4
+- text: 와
+- link "컴캐스트":
+  - /url: /w/%EC%BB%B4%EC%BA%90%EC%8A%A4%ED%8A%B8
+- text: 에 제3자배정 유상증자
+- link "[30]":
+  - /url: "#rfn-30"
+- text: 브라이언 L. 로버츠
+- link "컴캐스트":
+  - /url: /w/%EC%BB%B4%EC%BA%90%EC%8A%A4%ED%8A%B8
+- text: 최고경영자의 아들이며, 현재 컴캐스트 스펙타코어 게이밍의 대표를 맡고 있다.
+- link "[31]":
+  - /url: "#rfn-31"
+- text: "· 2021년 6월 7일 공시, 유상증자 결정: 지분율 0.0%→0.58%, US Gaming, LLC의 실권주를 제3자배정"
+- text: "· 2022년 11월 29일 공시, 유상증자 결정: 지분율 0.58%→0.55%,"
+- link "SK스퀘어":
+  - /url: /w/SK%EC%8A%A4%ED%80%98%EC%96%B4
+- text: 와
+- link "컴캐스트":
+  - /url: /w/%EC%BB%B4%EC%BA%90%EC%8A%A4%ED%8A%B8
+- text: 에 제3자배정 유상증자
+- link "[38]":
+  - /url: "#rfn-38"
+- link "사우디아라비아":
+  - /url: /w/%EC%82%AC%EC%9A%B0%EB%94%94%EC%95%84%EB%9D%BC%EB%B9%84%EC%95%84
+- text: 의
+- link "공공투자기금":
+  - /url: /w/%EA%B3%B5%EA%B3%B5%ED%88%AC%EC%9E%90%EA%B8%B0%EA%B8%88
+- text: 산하 지속가능관광개발사
+- link "[39]":
+  - /url: "#rfn-39"
+- link "SK텔레콤":
+  - /url: /w/SK%ED%85%94%EB%A0%88%EC%BD%A4
+- text: 의 구독 서비스.
+- link "[40]":
+  - /url: "#rfn-40"
+- text: 발로란트 팀 후원
+- link "[41]":
+  - /url: "#rfn-41"
+- text: 리그 오브 레전드 팀 후원
+- link "[42]":
+  - /url: "#rfn-42"
+- text: EWC 포트나이트 종목에 참가하기 위해 재창단되었다.
+- link "[43]":
+  - /url: "#rfn-43"
+- text: 포켓몬 유나이트 종목에 참가하기 위해 재창단되었다.
+- link "[44]":
+  - /url: "#rfn-44"
+- text: 그러나 백현은
+- link "배틀그라운드":
+  - /url: /w/%EB%B0%B0%ED%8B%80%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C
+- text: 는 T1이 아닌
+- link "젠지":
+  - /url: /w/%EC%A0%A0%EC%A7%80%20%EB%B0%B0%EA%B7%B8
+- text: 팬이다.
+- link "[45]":
+  - /url: "#rfn-45"
+- text: 현재 시점으로 봐도 선수가 개인적으로 운동할 수 있도록 운동기구를 마련해 주고, 개인 연습용 부스까지 마련했으며, 밥까지 잘 나오는 편이다.
+- link "[46]":
+  - /url: "#rfn-46"
+- text: 스타 2로 넘어가면서 대우가 대부분 열악해졌다는데 T1은 그런 게 없었다고.
+- link "[47]":
+  - /url: "#rfn-47"
+- text: 애초에 T1은 타 팀 선수들과는 연습 경기도 가지지 않았다고 할 정도로 폐쇄적인 기조를 보였는데, 이는 임요환이 그렇게 했기 때문에 팀 전체가 그렇게 정착한 것이라고 한다. 그로 인해 아예 외부에서 승부조작 제의조차도 들어오지 않았다고. T1 이외에 스1/스2 조작범이 나오지 않은 팀은
+- strong:
+  - link "웅진":
+    - /url: /w/%EC%9B%85%EC%A7%84%20%EC%8A%A4%ED%83%80%EC%A6%88
+- text: 과
+- strong:
+  - link "삼성":
+    - /url: /w/%EC%82%BC%EC%84%B1%20%EA%B0%A4%EB%9F%AD%EC%8B%9C(%ED%94%84%EB%A1%9C%EA%B2%8C%EC%9E%84%EB%8B%A8)/%EC%8A%A4%ED%83%80%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8
+- text: 뿐이다. 다만 이 중 김택용은 2021년
+- strong:
+  - link "코인게이트":
+    - /url: /w/%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4TV%20%EC%BD%94%EC%9D%B8%20%EA%B2%8C%EC%9D%B4%ED%8A%B8
+- text: 의 주범 중 한 명으로 밝혀지며 팬들 사이에서 금지어가 되었다. 물론 공식 리그는 진작에 종료되었고 스타판이 아프리카로 넘어간 지 오래인 만큼 T1의 책임은 없지만, 이후 2024년
+- link "창단 20주년 다큐멘터리":
+  - /url: https://youtu.be/MviIDKKvex0
+- text: 를 만들었을 때도
+- link "김택용의 커리어":
+  - /url: /w/Clubday%20Online%20MSL%202008
+- text: 는 일절 언급하지 않는 등 T1 역시 그를
+- link "흑역사":
+  - /url: /w/%ED%9D%91%EC%97%AD%EC%82%AC
+- text: 취급하는 모양새다. 단순히 김택용이 이적생 출신이라서 팀 연혁에서 빼지 않았겠느냐고 반문할 수도 없는 것이 마찬가지로 이적생 출신인
+- link "정윤종":
+  - /url: /w/%EC%A0%95%EC%9C%A4%EC%A2%85
+- text: 과
+- link "이신형":
+  - /url: /w/%EC%9D%B4%EC%8B%A0%ED%98%95
+- text: 의 스타2 대회 우승 기록은 그대로 나온다. 즉 코인게이트 때문에 흑역사 취급하는 것이 맞다고 봐야 하며,
+- link "유튜브":
+  - /url: /w/%EC%9C%A0%ED%8A%9C%EB%B8%8C
+- text: 에서의 민심은
+- link "SOOP":
+  - /url: /w/SOOP
+- text: 과 달리 여전히 싸늘해서 이를 의식한 것일 수도 있다. 그래도
+- link "SK플래닛 스타크래프트 프로리그 시즌 1":
+  - /url: /w/SK%ED%94%8C%EB%9E%98%EB%8B%9B%20%EC%8A%A4%ED%83%80%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8%20%ED%94%84%EB%A1%9C%EB%A6%AC%EA%B7%B8%20%EC%8B%9C%EC%A6%8C%201
+- text: 마지막에 김택용이
+- link "이영호":
+  - /url: /w/%EC%9D%B4%EC%98%81%ED%98%B8
+- text: 를 꺾고 프로리그 우승을 차지한 경기를 짤막하게 보여주면서 잠시 동안 간접적으로 언급되기는 했으며,
+- link "스타크래프트 프로리그":
+  - /url: /w/%EC%8A%A4%ED%83%80%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8%20%ED%94%84%EB%A1%9C%EB%A6%AC%EA%B7%B8
+- text: 우승 기록에서도 그의 아이디가 나오기는 한다.
+- link "[48]":
+  - /url: "#rfn-48"
+- text: 임요환 26세, 이상혁 27세.
+- link "[49]":
+  - /url: "#rfn-49"
+- text: 게다가 이 골든 마우스는 팀 전체를 통틀어도 수상자가 없다.
+- link "이 팀을 거친 선수":
+  - /url: /w/%EB%B0%95%EC%84%B1%EC%A4%80(1986)
+- text: 가 따기는 했으나
+- link "다른 팀":
+  - /url: /w/STX%20SouL
+- text: 으로 이적한 뒤인 데다가 하필 결승전
+- link "상대":
+  - /url: /w/%EB%8F%84%EC%9E%AC%EC%9A%B1
+- text: 가 T1 선수인지라... 그나마 옆 동네
+- link "금배지":
+  - /url: /w/%EA%B8%88%EB%B0%B0%EC%A7%80#s-2
+- text: 는
+- link "한 명":
+  - /url: /w/%EC%B5%9C%EC%97%B0%EC%84%B1
+- text: 을 배출하였다.
+- link "[50]":
+  - /url: "#rfn-50"
+- text: 공교롭게도 임요환과 이상혁 둘 다 해당 경기에서 2:3으로 패배하였다. 차이가 있다면 임요환은 같은 SKT T1 소속이자 자신의 제자인 최연성에게 패배했으나, 이상혁의 상대 팀
+- link "DRX":
+  - /url: /w/DRX/%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EB%A0%88%EC%A0%84%EB%93%9C
+- text: 의 선수들은 T1 소속이었던 선수가 없다.
+- link "[51]":
+  - /url: "#rfn-51"
+- link "칸":
+  - /url: /w/%EA%B9%80%EB%8F%99%ED%95%98(%ED%94%84%EB%A1%9C%EA%B2%8C%EC%9D%B4%EB%A8%B8)
+- text: ","
+- link "클리드":
+  - /url: /w/%EA%B9%80%ED%83%9C%EB%AF%BC
+- text: ","
+- link "서렌더":
+  - /url: /w/%EA%B9%80%EC%A0%95%EC%88%98(%ED%94%84%EB%A1%9C%EA%B2%8C%EC%9D%B4%EB%A8%B8)
+- text: 가 개인 방송으로 각각 프로게이머와 스트리머를
+- link "조리돌림":
+  - /url: /w/%EC%A1%B0%EB%A6%AC%EB%8F%8C%EB%A6%BC
+- text: 하여 물의를 일으켰다.
+- link "[52]":
+  - /url: "#rfn-52"
+- text: 다만 뱅, 울프 등 팀 레전드 출신 스트리머들과 플레임처럼 트위치 시절 파트너가 된 전 프로들이 모두
+- link "치지직":
+  - /url: /w/%EC%B9%98%EC%A7%80%EC%A7%81
+- text: 으로 이적하고, 운타라, 갱맘처럼 T1 감코진 인연으로 파트너 스트리머 계약을 맺은 스트리머들이 모두
+- link "치지직":
+  - /url: /w/%EC%B9%98%EC%A7%80%EC%A7%81
+- text: 으로 이적하면서 T1 인플루언서는 여전히 치지직 스트리머들이 다수를 차지하고 있다.
+- paragraph:
+  - img "크리에이티브 커먼즈 라이선스"
+  - text: 이 저작물은
+  - link "CC BY-NC-SA 2.0 KR":
+    - /url: //creativecommons.org/licenses/by-nc-sa/2.0/kr/
+  - text: 에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)
+  - text: 기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+  - text: 나무위키는 백과사전이 아니며 검증되지 않았거나, 편향적이거나, 잘못된 서술이 있을 수 있습니다.
+  - text: 나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+- list:
+  - link "닛몰캐쉬":
+    - /url: /Go?q=%EB%8B%9B%EB%AA%B0%EC%BA%90%EC%89%AC
+    - generic: 닛몰캐쉬
+  - link "사망여우":
+    - /url: /Go?q=%EC%82%AC%EB%A7%9D%EC%97%AC%EC%9A%B0
+    - generic: 사망여우
+  - link "맨시티":
+    - /url: /Go?q=%EB%A7%A8%EC%8B%9C%ED%8B%B0
+    - generic: 맨시티
+  - link "암살자(들)":
+    - /url: /Go?q=%EC%95%94%EC%82%B4%EC%9E%90%28%EB%93%A4%29
+    - generic: 암살자(들)
+  - link "부캉이":
+    - /url: /Go?q=%EB%B6%80%EC%BA%89%EC%9D%B4
+    - generic: 부캉이
+  - link "신병4":
+    - /url: /Go?q=%EC%8B%A0%EB%B3%914
+    - generic: 신병4
+  - link "봉누도2":
+    - /url: /Go?q=%EB%B4%89%EB%88%84%EB%8F%842
+    - generic: 봉누도2
+  - link "안세영":
+    - /url: /Go?q=%EC%95%88%EC%84%B8%EC%98%81
+    - generic: 안세영
+  - link "댱이":
+    - /url: /Go?q=%EB%8C%B1%EC%9D%B4
+    - generic: 댱이
+  - link "지뢰":
+    - /url: /Go?q=%EC%A7%80%EB%A2%B0
+    - generic: 지뢰
+  - link "닛몰캐쉬":
+    - /url: /Go?q=%EB%8B%9B%EB%AA%B0%EC%BA%90%EC%89%AC
+    - generic: 닛몰캐쉬
+- link:
+  - /url: /RecentChanges
+- list:
+  - link "시진핑(식당) 27초 전":
+    - /url: /w/%EC%8B%9C%EC%A7%84%ED%95%91(%EC%8B%9D%EB%8B%B9)
+    - generic: 시진핑(식당)
+    - time: 27초 전
+  - link "볼프강 아마데우스 모차르트/여담 28초 전":
+    - /url: /w/%EB%B3%BC%ED%94%84%EA%B0%95%20%EC%95%84%EB%A7%88%EB%8D%B0%EC%9A%B0%EC%8A%A4%20%EB%AA%A8%EC%B0%A8%EB%A5%B4%ED%8A%B8/%EC%97%AC%EB%8B%B4
+    - generic: 볼프강 아마데우스 모차르트/여담
+    - time: 28초 전
+  - link "나는 자연인이다 31초 전":
+    - /url: /w/%EB%82%98%EB%8A%94%20%EC%9E%90%EC%97%B0%EC%9D%B8%EC%9D%B4%EB%8B%A4
+    - generic: 나는 자연인이다
+    - time: 31초 전
+  - link "석현로(경주) 32초 전":
+    - /url: /w/%EC%84%9D%ED%98%84%EB%A1%9C(%EA%B2%BD%EC%A3%BC)
+    - generic: 석현로(경주)
+    - time: 32초 전
+  - link "의선당 33초 전":
+    - /url: /w/%EC%9D%98%EC%84%A0%EB%8B%B9
+    - generic: 의선당
+    - time: 33초 전
+  - link "주진우(1975)/비판 및 논란 33초 전":
+    - /url: /w/%EC%A3%BC%EC%A7%84%EC%9A%B0(1975)/%EB%B9%84%ED%8C%90%20%EB%B0%8F%20%EB%85%BC%EB%9E%80
+    - generic: 주진우(1975)/비판 및 논란
+    - time: 33초 전
+  - link "투명드래곤 43초 전":
+    - /url: /w/%ED%88%AC%EB%AA%85%EB%93%9C%EB%9E%98%EA%B3%A4
+    - generic: 투명드래곤
+    - time: 43초 전
+  - link "신현빈 54초 전":
+    - /url: /w/%EC%8B%A0%ED%98%84%EB%B9%88
+    - generic: 신현빈
+    - time: 54초 전
+  - link "불리(게임)/등장인물 55초 전":
+    - /url: /w/%EB%B6%88%EB%A6%AC(%EA%B2%8C%EC%9E%84)/%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC
+    - generic: 불리(게임)/등장인물
+    - time: 55초 전
+  - link "문무(드라마)/등장인물 1분 전":
+    - /url: /w/%EB%AC%B8%EB%AC%B4(%EB%93%9C%EB%9D%BC%EB%A7%88)/%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC
+    - generic: 문무(드라마)/등장인물
+    - time: 1분 전
+- iframe
+- link "나무위키 뷰어 - Play Store":
+  - /url: https://play.google.com/store/apps/details?id=net.umanle.namuwiki
+- link "나무위키 뷰어 - App Store":
+  - /url: https://apps.apple.com/app/id1623510780
+- list:
+  - listitem: namu.wiki
+  - link "Contáctenos":
+    - /url: mailto:support@namu.wiki
+  - link "Términos de uso":
+    - /url: /Policy
+- list:
+  - listitem: Operado por umanle S.R.L.
+  - listitem: Hecho con ❤️ en Asunción, República del Paraguay
+- list:
+  - listitem: Su zona horaria es Europe/Moscow
+  - listitem: Impulsado por the seed engine
+- paragraph:
+  - text: This site is protected by reCAPTCHA and the Google
+  - link "Privacy Policy":
+    - /url: https://policies.google.com/privacy
+  - text: and
+  - link "Terms of Service":
+    - /url: https://policies.google.com/terms
+  - text: apply. This site is protected by hCaptcha and its
+  - link "Privacy Policy":
+    - /url: https://www.hcaptcha.com/privacy
+  - text: and
+  - link "Terms of Service":
+    - /url: https://www.hcaptcha.com/terms
+  - text: apply.
+- list:
+  - link:
+    - /url: "#toc"
+- list:
+  - link:
+    - /url: "#"
+  - link:
+    - /url: "#"
+- iframe

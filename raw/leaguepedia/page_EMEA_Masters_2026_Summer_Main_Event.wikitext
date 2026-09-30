@@ -1,0 +1,2037 @@
+{{DataTabs|fl=EMEA/EMEA Masters|extra_purges=EMEA Masters/2026 Season,EMEA Masters/2026 Season/Summer,EMEA Masters/2026 Season/Summer/Champion Statistics,EMEA Masters/2026 Season/Summer/Player Statistics}}
+
+== Round 1 ==
+{{SetPatch|patch=26.18 |disabled= |hotfix= |footnote=}}
+{{MatchSchedule/Start|tab=Round 1 |bestof=1 |shownname=EM 2026 Summer Main Event }}
+{{MatchSchedule|bestof=1 |initialorder=1|team1=BIG |team2=FEC |team1score=1 |team2score=0 |winner=1
+|date=2026-09-26 |time=09:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/primeleague
+|game1={{MatchSchedule/Game
+|blue=BIG |red=FEC |winner=1 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_223266
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=2|team1=JSK Esports |team2=Barca |team1score=1 |team2score=0 |winner=1
+|date=2026-09-26 |time=09:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/fcbarcelona
+|game1={{MatchSchedule/Game
+|blue=JSK Esports |red=Barca |winner=1 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_223267
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=3|team1=Valerion |team2=LODIS PL |team1score=1 |team2score=0 |winner=1
+|date=2026-09-26 |time=09:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/helleniclegends
+|game1={{MatchSchedule/Game
+|blue=Valerion |red=LODIS PL |winner=1 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_225263
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=4|team1=Skillcamp |team2=Colossal Gaming |team1score=1 |team2score=0 |winner=1
+|date=2026-09-26 |time=09:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/otplol_
+|game1={{MatchSchedule/Game
+|blue=Colossal Gaming |red=Skillcamp |winner=2 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_225262
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=5|team1=TLN Pirates |team2=Magaza Esports |team1score=1 |team2score=0 |winner=1
+|date=2026-09-26 |time=10:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/otplol_
+|game1={{MatchSchedule/Game
+|blue=TLN Pirates |red=Magaza Esports |winner=1 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_223269
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=6|team1=Ruddy Corporation |team2=KHK |team1score=0 |team2score=1 |winner=2
+|date=2026-09-26 |time=10:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/primeleague
+|game1={{MatchSchedule/Game
+|blue=Ruddy Corporation |red=KHK |winner=2 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_225270
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=7|team1=UCAM Esports |team2=HMBLE |team1score=1 |team2score=0 |winner=1
+|date=2026-09-26 |time=10:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/esport2tv
+|game1={{MatchSchedule/Game
+|blue=UCAM Esports |red=HMBLE |winner=1 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_225271
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=8|team1=SNSH |team2=Bushido Wildcats |team1score=1 |team2score=0 |winner=1
+|date=2026-09-26 |time=10:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/ouat_tv
+|game1={{MatchSchedule/Game
+|blue=SNSH |red=Bushido Wildcats |winner=1 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_225273
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=9|team1=KCB |team2=White Dragons |team1score=1 |team2score=0 |winner=1 |ff=2 |team2footnote=[[White Dragons]] failed to show up.{{cargoref|name=EMEA Masters Swiss Round 1 KCB vs WD|ref=[https://x.com/KarmineCorp/status/2103908303260811306 Karmine Corp's X Post] ''x.com''}}
+|date=2026-09-26 |time=11:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/otplol_
+}}
+{{MatchSchedule|bestof=1 |initialorder=10|team1=Phantasma |team2=SU Esports |team1score=0 |team2score=1 |winner=2
+|date=2026-09-26 |time=11:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/helleniclegends
+|game1={{MatchSchedule/Game
+|blue=Phantasma |red=SU Esports |winner=2 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_225307
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=11|team1=FSK |team2=G2 NORD |team1score=0 |team2score=1 |winner=2
+|date=2026-09-26 |time=11:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/primeleague
+|game1={{MatchSchedule/Game
+|blue=FSK |red=G2 NORD |winner=2 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_223276
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=12|team1=HRTS.A |team2=ESB |team1score=1 |team2score=0 |winner=1
+|date=2026-09-26 |time=11:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/hitpointcz
+|game1={{MatchSchedule/Game
+|blue=ESB |red=HRTS.A |winner=2 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_225304
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=13|team1=Bomba Team |team2=GMCE |team1score=1 |team2score=0 |winner=1
+|date=2026-09-26 |time=12:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/helleniclegends
+|game1={{MatchSchedule/Game
+|blue=GMCE |red=Bomba Team |winner=2 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_223285
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=14|team1=Nightbirds |team2=Otter Side |team1score=1 |team2score=0 |winner=1
+|date=2026-09-26 |time=12:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/hitpointcz
+|game1={{MatchSchedule/Game
+|blue=Nightbirds |red=Otter Side |winner=1 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_223279
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=15|team1=Anubis Gaming |team2=The Secret Club |team1score=1 |team2score=0 |winner=1
+|date=2026-09-26 |time=12:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/fortuna
+|game1={{MatchSchedule/Game
+|blue=The Secret Club |red=Anubis Gaming |winner=2 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_223284
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=16|team1=UOL.SE |team2=PCIFIC Esports |team1score=1 |team2score=0 |winner=1
+|date=2026-09-26 |time=12:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/primeleague
+|game1={{MatchSchedule/Game
+|blue=UOL.SE |red=PCIFIC Esports |winner=1 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_225313
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule/End}}
+
+== Round 2 ==
+{{MatchSchedule/Start|tab=Round 2 |bestof=1 |shownname=EM 2026 Summer Main Event }}
+{{MatchSchedule|bestof=1 |initialorder=1|team1=TLN Pirates|team2=Bomba Team|team1score=1 |team2score=0 |winner=1
+|date=2026-09-27 |time=09:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/otplol_
+|game1={{MatchSchedule/Game
+|blue=Bomba Team |red=TLN Pirates |winner=2 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_223358
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=2|team1=G2 NORD|team2=Nightbirds|team1score=0 |team2score=1 |winner=2
+|date=2026-09-27 |time=09:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/primeleague
+|game1={{MatchSchedule/Game
+|blue=G2 NORD |red=Nightbirds |winner=2 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_223360
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=3|team1=Team Heretics Academy|team2=Senshi eSports (Benelux Team)|team1score=1 |team2score=0 |winner=1
+|date=2026-09-27 |time=09:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/ouat_tv
+|game1={{MatchSchedule/Game
+|blue=Senshi eSports (Benelux Team) |red=Team Heretics Academy |winner=2 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_225369
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=4|team1=Colossal Gaming|team2=Ruddy Corporation|team1score=0 |team2score=1 |winner=2
+|date=2026-09-27 |time=09:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/donjake1
+|game1={{MatchSchedule/Game
+|blue=Ruddy Corporation |red=Colossal Gaming |winner=1 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_225368
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=5|team1=Kaufland Hangry Knights|team2=Skillcamp|team1score=0 |team2score=1 |winner=2
+|date=2026-09-27 |time=10:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/otplol_
+|game1={{MatchSchedule/Game
+|blue=Kaufland Hangry Knights |red=Skillcamp |winner=2 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_225373
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=6|team1=JSK Esports|team2=SU Esports|team1score=1 |team2score=0 |winner=1
+|date=2026-09-27 |time=10:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/riotgamesturkish
+|game1={{MatchSchedule/Game
+|blue=JSK Esports |red=SU Esports |winner=1 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_225376
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=7|team1=Team Phantasma|team2=Barça eSports|team1score=1 |team2score=0 |winner=1
+|date=2026-09-27 |time=10:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/helleniclegends
+|game1={{MatchSchedule/Game
+|blue=Team Phantasma |red=Barça eSports |winner=1 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_225372
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=8|team1=Frites Esports Club|team2=LODIS (Polish Team)|team1score=1 |team2score=0 |winner=1
+|date=2026-09-27 |time=10:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/ouat_tv
+|game1={{MatchSchedule/Game
+|blue=LODIS (Polish Team) |red=Frites Esports Club |winner=2 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_223370
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=9|team1=Berlin International Gaming|team2=Valerion|team1score=0 |team2score=1 |winner=2
+|date=2026-09-27 |time=11:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/primeleague
+|game1={{MatchSchedule/Game
+|blue=Valerion |red=Berlin International Gaming |winner=1 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_223385
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=10|team1=Karmine Corp Blue|team2=UCAM Esports|team1score=1 |team2score=0 |winner=1
+|date=2026-09-27 |time=11:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/otplol_
+|game1={{MatchSchedule/Game
+|blue=UCAM Esports |red=Karmine Corp Blue |winner=2 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_223377
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=11|team1=PCIFIC Esports|team2=The Secret Club|team1score=1 |team2score=0 |winner=1
+|date=2026-09-27 |time=11:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/ouat_tv
+|game1={{MatchSchedule/Game
+|blue=The Secret Club |red=PCIFIC Esports |winner=2 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_225380
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=12|team1=Forsaken (Polish Team)|team2=Otter Side|team1score=0 |team2score=1 |winner=2
+|date=2026-09-27 |time=11:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/rtparenalol
+|game1={{MatchSchedule/Game
+|blue=Forsaken (Polish Team) |red=Otter Side |winner=2 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_225383
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=13|team1=Anubis Gaming|team2=Unicorns of Love Sexy Edition|team1score=1 |team2score=0 |winner=1
+|date=2026-09-27 |time=12:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/primeleague
+|game1={{MatchSchedule/Game
+|blue=Unicorns of Love Sexy Edition |red=Anubis Gaming |winner=2 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_225389
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=14|team1=Bushido Wildcats|team2=eSuba|team1score=1 |team2score=0 |winner=1
+|date=2026-09-27 |time=12:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/riotgamesturkish
+|game1={{MatchSchedule/Game
+|blue=Bushido Wildcats |red=eSuba |winner=1 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_223394
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=15|team1=HMBLE|team2=White Dragons|team1score=1 |team2score=0 |winner=1
+|date=2026-09-27 |time=12:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/rtparenalol
+|game1={{MatchSchedule/Game
+|blue=White Dragons |red=HMBLE |winner=2 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_223396
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=16|team1=Magaza Esports|team2=Gamespace Mediterranean College Esports |team1score=1 |team2score=0 |winner=1
+|date=2026-09-27 |time=12:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/otplol_
+|game1={{MatchSchedule/Game
+|blue=Gamespace Mediterranean College Esports |red=Magaza Esports |winner=2 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_223390
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule/End}}
+
+== Round 3 ==
+{{MatchSchedule/Start|tab=Round 3 |bestof=1 |shownname=EM 2026 Summer Main Event }}
+{{MatchSchedule|bestof=1 |initialorder=1|team1=Anubis Gaming |team2=Skillcamp |team1score=1 |team2score=0 |winner=1
+|date=2026-09-28 |time=09:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/otplol_
+|game1={{MatchSchedule/Game
+|blue=Anubis Gaming |red=Skillcamp |winner=1 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_225423
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=2|team1=G2 NORD |team2=Frites Esports Club |team1score=1 |team2score=0 |winner=1
+|date=2026-09-28 |time=09:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/primeleague
+|game1={{MatchSchedule/Game
+|blue=G2 NORD |red=Frites Esports Club |winner=1 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_223442
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=3|team1=PCIFIC Esports |team2=UCAM Esports |team1score=1 |team2score=0 |winner=1
+|date=2026-09-28 |time=09:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/riotgamesturkish
+|game1={{MatchSchedule/Game
+|blue=UCAM Esports |red=PCIFIC Esports |winner=2 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_223441
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=4|team1=eSuba |team2=LODIS (Polish Team) |team1score=0 |team2score=1 |winner=2
+|date=2026-09-28 |time=09:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/nervarien
+|game1={{MatchSchedule/Game
+|blue=LODIS (Polish Team) |red=eSuba |winner=1 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_225424
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=5|team1=TLN Pirates |team2=JSK Esports |team1score=1 |team2score=0 |winner=1
+|date=2026-09-28 |time=10:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/otplol_
+|game1={{MatchSchedule/Game
+|blue=JSK Esports |red=TLN Pirates |winner=2 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_223449
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=6|team1=Kaufland Hangry Knights |team2=Senshi eSports (Benelux Team) |team1score=1 |team2score=0 |winner=1
+|date=2026-09-28 |time=10:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/primeleague
+|game1={{MatchSchedule/Game
+|blue=Senshi eSports (Benelux Team) |red=Kaufland Hangry Knights |winner=2 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_223446
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=7|team1=Bomba Team |team2=SU Esports |team1score=1 |team2score=0 |winner=1
+|date=2026-09-28 |time=10:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/riotgamesturkish
+|game1={{MatchSchedule/Game
+|blue=Bomba Team |red=SU Esports |winner=1 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_225430
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=8|team1=Team Phantasma |team2=Otter Side |team1score=0 |team2score=1 |winner=2
+|date=2026-09-28 |time=10:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/helleniclegends
+|game1={{MatchSchedule/Game
+|blue=Team Phantasma |red=Otter Side |winner=2 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_223452
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=9|team1=Team Heretics Academy |team2=Valerion |team1score=1 |team2score=0 |winner=1
+|date=2026-09-28 |time=11:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/esport2tv
+|game1={{MatchSchedule/Game
+|blue=Valerion |red=Team Heretics Academy |winner=2 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_225449
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=10|team1=Karmine Corp Blue |team2=Nightbirds |team1score=1 |team2score=0 |winner=1
+|date=2026-09-28 |time=11:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/otplol_
+|game1={{MatchSchedule/Game
+|blue=Karmine Corp Blue |red=Nightbirds |winner=1 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_223464
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=11|team1=Berlin International Gaming |team2=Magaza Esports |team1score=1 |team2score=0 |winner=1
+|date=2026-09-28 |time=11:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/primeleague
+|game1={{MatchSchedule/Game
+|blue=Berlin International Gaming |red=Magaza Esports |winner=1 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_223461
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=12|team1=Colossal Gaming |team2=White Dragons |team1score=1 |team2score=0 |winner=1
+|date=2026-09-28 |time=11:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/rtparenalol
+|game1={{MatchSchedule/Game
+|blue=Colossal Gaming |red=White Dragons |winner=1 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_223470
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=13|team1=Bushido Wildcats |team2=Ruddy Corporation |team1score=0 |team2score=1 |winner=2
+|date=2026-09-28 |time=12:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/riotgamesturkish
+|game1={{MatchSchedule/Game
+|blue=Ruddy Corporation |red=Bushido Wildcats |winner=1 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_225454
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=14|team1=HMBLE |team2=Unicorns of Love Sexy Edition |team1score=0 |team2score=1 |winner=2
+|date=2026-09-28 |time=12:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/primeleague
+|game1={{MatchSchedule/Game
+|blue=Unicorns of Love Sexy Edition |red=HMBLE |winner=1 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_223472
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=15|team1=Forsaken (Polish Team) |team2=Barça eSports |team1score=0 |team2score=1 |winner=2
+|date=2026-09-28 |time=12:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/esport2tv
+|game1={{MatchSchedule/Game
+|blue=Forsaken (Polish Team) |red=Barça eSports |winner=2 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_223481
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=16|team1=The Secret Club |team2=Gamespace Mediterranean College Esports |team1score=0 |team2score=1 |winner=2
+|date=2026-09-28 |time=12:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/helleniclegends
+|game1={{MatchSchedule/Game
+|blue=Gamespace Mediterranean College Esports |red=The Secret Club |winner=1 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_225455
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule/End}}
+
+== Round 4 ==
+{{MatchSchedule/Start|tab=Round 4 |bestof=1 |shownname=EM 2026 Summer Main Event }}
+{{MatchSchedule|bestof=1 |initialorder=3|team1=G2 NORD |team2=Ruddy Corporation |team1score=1 |team2score=0 |winner=1
+|date=2026-09-29 |time=08:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/primeleague
+|game1={{MatchSchedule/Game
+|blue=Ruddy Corporation |red=G2 NORD |winner=2 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_226015
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=4|team1=Valerion |team2=Skillcamp |team1score=1 |team2score=0 |winner=1
+|date=2026-09-29 |time=08:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/otplol_
+|game1={{MatchSchedule/Game
+|blue=Valerion |red=Skillcamp |winner=1 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_227031
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=5|team1=Colossal Gaming |team2=SU Esports |team1score=1 |team2score=0 |winner=1
+|date=2026-09-29 |time=08:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/riotgamesturkish
+|game1={{MatchSchedule/Game
+|blue=Colossal Gaming |red=SU Esports |winner=1 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_226016
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=6|team1=Magaza |team2=Barca |team1score=1 |team2score=0 |winner=1
+|date=2026-09-29 |time=08:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/fortuna
+|game1={{MatchSchedule/Game
+|blue=Magaza |red=Barca |winner=1 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_227030
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=7|team1=BIG |team2=Bomba Team |team1score=0 |team2score=1 |winner=2
+|date=2026-09-29 |time=09:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/nervarien
+|game1={{MatchSchedule/Game
+|blue=Bomba Team |red=BIG |winner=1 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_227037
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=8|team1=PCIFIC Esports |team2=Nightbirds |team1score=0 |team2score=1 |winner=2
+|date=2026-09-29 |time=09:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/riotgamesturkish
+|game1={{MatchSchedule/Game
+|blue=PCIFIC Esports |red=Nightbirds |winner=2 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_227041
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=9|team1=JSK Esports |team2=UOL.SE |team1score=0 |team2score=1 |winner=2
+|date=2026-09-29 |time=09:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/otplol_
+|game1={{MatchSchedule/Game
+|blue=UOL.SE |red=JSK Esports |winner=1 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_227036
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=10|team1=FEC |team2=GMCE |team1score=1 |team2score=0 |winner=1
+|date=2026-09-29 |time=09:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/helleniclegends
+|game1={{MatchSchedule/Game
+|blue=GMCE |red=FEC |winner=2 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_226017
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=11|team1=KHK |team2=Otter Side |team1score=1 |team2score=0 |winner=1
+|date=2026-09-29 |time=10:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/otplol_
+|game1={{MatchSchedule/Game
+|blue=Otter Side |red=KHK |winner=2 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_227043
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=12|team1=Bushido Wildcats |team2=UCAM Esports |team1score=1 |team2score=0 |winner=1
+|date=2026-09-29 |time=10:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/riotgamesturkish
+|game1={{MatchSchedule/Game
+|blue=Bushido Wildcats |red=UCAM Esports |winner=1 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_227045
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=13|team1=HMBLE |team2=SNSH |team1score=0 |team2score=1 |winner=2
+|date=2026-09-29 |time=10:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/ouat_tv
+|game1={{MatchSchedule/Game
+|blue=SNSH |red=HMBLE |winner=1 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_227044
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=14|team1=Phantasma |team2=LODIS PL |team1score=0 |team2score=1 |winner=2
+|date=2026-09-29 |time=10:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/nervarien
+|game1={{MatchSchedule/Game
+|blue=Phantasma |red=LODIS PL |winner=2 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_226026
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=3 |initialorder=1|team1=TLN Pirates |team2=Anubis Gaming |team1score=0 |team2score=2 |winner=2
+|date=2026-09-29 |time=11:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/esport2tv
+|game1={{MatchSchedule/Game
+|blue=Anubis Gaming |red=TLN Pirates |winner=1 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_226041
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue=Anubis Gaming |red=TLN Pirates |winner=1 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_227058
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=3 |initialorder=2|team1=HRTS.A |team2=KCB |team1score=1 |team2score=2 |winner=2
+|date=2026-09-29 |time=11:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/toadamarillo
+|game1={{MatchSchedule/Game
+|blue=HRTS.A |red=KCB |winner=1 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_226042
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue=HRTS.A |red=KCB |winner=2 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_227059
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue=HRTS.A |red=KCB |winner=2 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_227061
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=3 |initialorder=15|team1=FSK |team2=TSC HR |team1score=1 |team2score=2 |winner=2
+|date=2026-09-29 |time=11:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/fortuna
+|game1={{MatchSchedule/Game
+|blue=TSC HR |red=FSK |winner=2 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_227056
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue=TSC HR |red=FSK |winner=1 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_226043
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue=FSK |red=TSC HR |winner=2 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_226045
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=3 |initialorder=16|team1=ESB |team2=White Dragons |team1score=2 |team2score=0 |winner=1
+|date=2026-09-29 |time=11:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/rtparenalol
+|game1={{MatchSchedule/Game
+|blue=ESB |red=White Dragons |winner=1 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_226040
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue=ESB |red=White Dragons |winner=1 |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=LOLTMNT05_227057
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule/End}}
+
+== Round 5 ==
+{{MatchSchedule/Start|tab=Round 5 |bestof=1 |shownname=EM 2026 Summer Main Event }}
+{{MatchSchedule|bestof=1 |initialorder=5|team1=BIG |team2=SNSH |team1score= |team2score= |winner=
+|date=2026-09-30 |time=06:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/primeleague
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=6|team1=Bushido Wildcats |team2=Magaza |team1score= |team2score= |winner=
+|date=2026-09-30 |time=06:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/riotgamesturkish
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=7|team1=FEC |team2=Otter Side |team1score= |team2score= |winner=
+|date=2026-09-30 |time=06:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/rtparenalol
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=8|team1=PCIFIC Esports |team2=Ruddy Corporation |team1score= |team2score= |winner=
+|date=2026-09-30 |time=07:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/riotgamesturkish
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=9|team1=JSK Esports |team2=Skillcamp |team1score= |team2score= |winner=
+|date=2026-09-30 |time=07:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/otplol_
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=1 |initialorder=10|team1=Colossal Gaming |team2=LODIS PL |team1score= |team2score= |winner=
+|date=2026-09-30 |time=07:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=3 |initialorder=1|team1=TLN Pirates |team2=Valerion |team1score= |team2score= |winner=
+|date=2026-09-30 |time=08:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/otplol_
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=3 |initialorder=2|team1=KHK |team2=UOL.SE |team1score= |team2score= |winner=
+|date=2026-09-30 |time=08:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/primeleague
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=3 |initialorder=3|team1=HMBLE |team2=Barca |team1score= |team2score= |winner=
+|date=2026-09-30 |time=08:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=3 |initialorder=4|team1=ESB |team2=UCAM Esports |team1score= |team2score= |winner=
+|date=2026-09-30 |time=08:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/hitpointcz
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=3 |initialorder=11|team1=G2 NORD |team2=Bomba Team |team1score= |team2score= |winner=
+|date=2026-09-30 |time=11:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/primeleague
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=3 |initialorder=12|team1=HRTS.A |team2=Nightbirds |team1score= |team2score= |winner=
+|date=2026-09-30 |time=11:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/hitpointcz
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=3 |initialorder=13|team1=Phantasma |team2=GMCE |team1score= |team2score= |winner=
+|date=2026-09-30 |time=11:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/helleniclegends
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=3 |initialorder=14|team1=TSC HR |team2=SU Esports |team1score= |team2score= |winner=
+|date=2026-09-30 |time=11:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=https://www.twitch.tv/riotgamesturkish
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule/End}}
+
+== Round 6 ==
+{{MatchSchedule/Start|tab=Round 6 |bestof=1 |shownname=EM 2026 Summer Main Event }}
+{{MatchSchedule|bestof=3 |initialorder=1|team1=TBD |team2=TBD |team1score= |team2score= |winner=
+|date=2026-10-01 |time=08:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=3 |initialorder=2|team1=TBD |team2=TBD |team1score= |team2score= |winner=
+|date=2026-10-01 |time=08:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=3 |initialorder=3|team1=TBD |team2=TBD |team1score= |team2score= |winner=
+|date=2026-10-01 |time=08:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=3 |initialorder=4|team1=TBD |team2=TBD |team1score= |team2score= |winner=
+|date=2026-10-01 |time=08:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=3 |initialorder=5|team1=TBD |team2=TBD |team1score= |team2score= |winner=
+|date=2026-10-01 |time=08:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=3 |initialorder=6|team1=TBD |team2=TBD |team1score= |team2score= |winner=
+|date=2026-10-01 |time=09:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=3 |initialorder=7|team1=TBD |team2=TBD |team1score= |team2score= |winner=
+|date=2026-10-01 |time=09:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=3 |initialorder=8|team1=TBD |team2=TBD |team1score= |team2score= |winner=
+|date=2026-10-01 |time=09:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=3 |initialorder=9|team1=TBD |team2=TBD |team1score= |team2score= |winner=
+|date=2026-10-01 |time=09:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=3 |initialorder=10|team1=TBD |team2=TBD |team1score= |team2score= |winner=
+|date=2026-10-01 |time=09:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule/End}}
+
+== Round 7 ==
+{{MatchSchedule/Start|tab=Round 7 |bestof=1 |shownname=EM 2026 Summer Main Event }}
+{{MatchSchedule|bestof=3 |initialorder=1|team1=TBD |team2=TBD |team1score= |team2score= |winner=
+|date=2026-10-02 |time=08:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=3 |initialorder=2|team1=TBD |team2=TBD |team1score= |team2score= |winner=
+|date=2026-10-02 |time=08:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=3 |initialorder=3|team1=TBD |team2=TBD |team1score= |team2score= |winner=
+|date=2026-10-02 |time=08:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=3 |initialorder=4|team1=TBD |team2=TBD |team1score= |team2score= |winner=
+|date=2026-10-02 |time=09:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|bestof=3 |initialorder=5|team1=TBD |team2=TBD |team1score= |team2score= |winner=
+|date=2026-10-02 |time=09:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |stream=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule/End}}

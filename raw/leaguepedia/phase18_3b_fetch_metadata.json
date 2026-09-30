@@ -1,0 +1,84 @@
+{
+  "phase": "PHASE 18-3-B",
+  "observationDateUtc": "2026-09-30",
+  "observationTimestampUtc": "2026-09-30T07:21:56Z (analysis run; page fetches occurred minutes earlier in the same window)",
+  "networkRequestCount": 12,
+  "retries": 0,
+  "rateLimitsEncountered": 0,
+  "requests": [
+    {
+      "n": 1,
+      "purpose": "page discovery: main-namespace pages under LCK/2026 Season/",
+      "params": "action=query&list=allpages&apprefix=LCK/2026 Season/&apnamespace=0&aplimit=100",
+      "outcome": "HTTP 200, 98 pages"
+    },
+    {
+      "n": 2,
+      "purpose": "page discovery attempt with guessed Data namespace id 104",
+      "params": "action=query&meta=siteinfo&list=allpages&apprefix=LCK/&apnamespace=104",
+      "outcome": "API error badvalue (invalid apnamespace) — no data returned"
+    },
+    {
+      "n": 3,
+      "purpose": "page discovery attempt with guessed Data namespace id 100",
+      "params": "action=query&meta=siteinfo&list=allpages&apprefix=LCK/&apnamespace=100",
+      "outcome": "API error badvalue (invalid apnamespace) — no data returned"
+    },
+    {
+      "n": 4,
+      "purpose": "namespace id discovery (stop guessing: read actual ids)",
+      "params": "action=query&meta=siteinfo&siprop=namespaces",
+      "outcome": "HTTP 200 — Data namespace = 10008"
+    },
+    {
+      "n": 5,
+      "purpose": "list all Data-namespace pages under LCK/",
+      "params": "action=query&list=allpages&apprefix=LCK/&apnamespace=10008&aplimit=500",
+      "outcome": "HTTP 200, 169 pages; LCK/2026 Season has 8 Data pages"
+    },
+    {
+      "n": 6,
+      "purpose": "PHASE 18-3-B evidence acquisition #1: last LCK 2026 stage without a captured Data page",
+      "params": "action=query&titles=Data:LCK/2026 Season/Season Play-In&prop=revisions&rvprop=content&rvslots=main",
+      "outcome": "HTTP 200, saved page_Data_LCK_2026 Season_Season Play-In_wikitext.json + .wikitext; contains only 3 completed series (2026-08-26..28), 0 scheduled"
+    },
+    {
+      "n": 7,
+      "purpose": "page discovery: Data pages prefixed 'Worlds 2026' (LCK fixtures carry worlds2026qual/worlds2026elim tags)",
+      "params": "action=query&list=allpages&apprefix=Worlds 2026&apnamespace=10008",
+      "outcome": "HTTP 200, 0 pages (prefix does not exist)"
+    },
+    {
+      "n": 8,
+      "purpose": "page discovery: main-namespace pages prefixed 'Worlds/2026'",
+      "params": "action=query&list=allpages&apprefix=Worlds/2026&apnamespace=0",
+      "outcome": "HTTP 200, 0 pages (prefix does not exist)"
+    },
+    {
+      "n": 9,
+      "purpose": "page name discovery via suggestion endpoint",
+      "params": "action=opensearch&search=Worlds 2026&limit=10",
+      "outcome": "HTTP 200 — actual name: '2026 Season World Championship'"
+    },
+    {
+      "n": 10,
+      "purpose": "page fetch attempt: Data:2026 Season World Championship (root)",
+      "params": "action=query&titles=Data:2026 Season World Championship&prop=revisions&rvprop=content&rvslots=main",
+      "outcome": "HTTP 200, page exists but has no revisions (empty) — nothing saved"
+    },
+    {
+      "n": 11,
+      "purpose": "page discovery: Data pages under 2026 Season World Championship",
+      "params": "action=query&list=allpages&apprefix=2026 Season World Championship&apnamespace=10008",
+      "outcome": "HTTP 200, 2 pages: /Main Event, /Play-In"
+    },
+    {
+      "n": 12,
+      "purpose": "PHASE 18-3-B evidence acquisition #2 (final): scheduled rows for Worlds 2026 Play-In",
+      "params": "action=query&titles=Data:2026 Season World Championship/Play-In&prop=revisions&rvprop=content&rvslots=main",
+      "outcome": "HTTP 200, saved page_Data_2026 Season World Championship_Play-In_wikitext.json + .wikitext; 6 scheduled MatchSchedule rows dated 2026-10-15..2026-10-18 (all future vs observation)"
+    }
+  ],
+  "stopCondition": "Network exploration stopped after the first genuine scheduled example was captured (handoff section 22). No further requests.",
+  "userAgent": "LoLEsportsFanDataCollector/0.1 (unofficial fan project; personal non-commercial)"
+}

@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "purpose": "Curated timezone abbreviation offsets for normalizing Leaguepedia local times. Only entries whose offset can be verified against the IANA database are allowed here. Entries are added one at a time as real fixture data requires them; unknown abbreviations must stay UNKNOWN, never guessed.",
+    "offsetUnits": "minutes east of UTC",
+    "sources": [
+      "IANA tz database (tzdata): Asia/Seoul is a fixed +09:00 zone with no DST (last DST use ended 1988)."
+    ]
+  },
+  "KST": {
+    "standardOffsetMinutes": 540,
+    "dstOffsetMinutes": null,
+    "ianaCandidates": ["Asia/Seoul"],
+    "notes": "South Korea does not observe DST; the fixture's dst=yes flag on KST rows is a data anomaly recorded as a warning, not used for offsets."
+  }
+}

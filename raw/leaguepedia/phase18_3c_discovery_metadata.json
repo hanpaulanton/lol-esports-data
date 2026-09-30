@@ -1,0 +1,12 @@
+{
+  "phase": "PHASE 18-3-C",
+  "fetchedAt": "2026-09-30T11:00:46Z",
+  "sourceUrl": "https://lol.fandom.com/api.php?action=query&list=allpages&apprefix=2026%20Season&apnamespace=10008&aplimit=500&format=json&formatversion=2",
+  "pageTitle": null,
+  "requestPurpose": "PHASE 18-3-C request #2 (discovery): enumerate Data pages prefixed '2026 Season' to check for any event page beyond World Championship/{Play-In,Main Event} that could hold a known-team scheduled match",
+  "userAgent": "LoLEsportsFanDataCollector/0.1 (unofficial fan project; personal non-commercial)",
+  "networkRequestCount": 1,
+  "retries": 0,
+  "httpStatus": 200,
+  "outcome": "HTTP 200, 2 Data pages found; raw response saved to allpages_2026_season_data_namespace.json"
+}

@@ -1,0 +1,1282 @@
+{{DataTabs|fl=Worlds/Stage 2: Swiss|extra_purges=2026 Season World Championship,2026 Season World Championship/Cumulative Champion Statistics,2026 Season World Championship/Cumulative Player Statistics,World Championship/Champion Statistics}}
+{{SetPatch|patch=26.20 |disabled= |hotfix= |footnote=}}
+
+==Round 1==
+{{MatchSchedule/Start|tab=Round 1 |bestof=1 |shownname=Worlds 2026 Main Event }}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder= 1|team1= |team2= |team1score= |team2score= |winner=
+|date=2026-10-23 |time=10:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |mvp= |vodhl= |stream=https://www.twitch.tv/riotgames |reddit= |qq=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder= 2|team1= |team2= |team1score= |team2score= |winner=
+|date=2026-10-23 |time=11:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |mvp= |vodhl= |stream=https://www.twitch.tv/riotgames |reddit= |qq=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder= 3|team1= |team2= |team1score= |team2score= |winner=
+|date=2026-10-23 |time=12:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |mvp= |vodhl= |stream=https://www.twitch.tv/riotgames |reddit= |qq=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder= 4|team1= |team2= |team1score= |team2score= |winner=
+|date=2026-10-23 |time=13:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |mvp= |vodhl= |stream=https://www.twitch.tv/riotgames |reddit= |qq=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder= 5|team1= |team2= |team1score= |team2score= |winner=
+|date=2026-10-23 |time=14:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |mvp= |vodhl= |stream=https://www.twitch.tv/riotgames |reddit= |qq=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder= 6|team1= |team2= |team1score= |team2score= |winner=
+|date=2026-10-23 |time=15:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |mvp= |vodhl= |stream=https://www.twitch.tv/riotgames |reddit= |qq=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder= 7|team1= |team2= |team1score= |team2score= |winner=
+|date=2026-10-23 |time=16:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |mvp= |vodhl= |stream=https://www.twitch.tv/riotgames |reddit= |qq=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder= 8|team1= |team2= |team1score= |team2score= |winner=
+|date=2026-10-23 |time=17:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |mvp= |vodhl= |stream=https://www.twitch.tv/riotgames |reddit= |qq=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule/End}}
+
+==Round 2==
+{{MatchSchedule/Start|tab=Round 2 |bestof=1 |shownname=Worlds 2026 Main Event }}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder= 1|team1= |team2= |team1score= |team2score= |winner=
+|date=2026-10-24 |time=10:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |mvp= |vodhl= |stream=https://www.twitch.tv/riotgames |reddit= |qq=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder= 2|team1= |team2= |team1score= |team2score= |winner=
+|date=2026-10-24 |time=11:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |mvp= |vodhl= |stream=https://www.twitch.tv/riotgames |reddit= |qq=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder= 3|team1= |team2= |team1score= |team2score= |winner=
+|date=2026-10-24 |time=12:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |mvp= |vodhl= |stream=https://www.twitch.tv/riotgames |reddit= |qq=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder= 4|team1= |team2= |team1score= |team2score= |winner=
+|date=2026-10-24 |time=13:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |mvp= |vodhl= |stream=https://www.twitch.tv/riotgames |reddit= |qq=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder= 5|team1= |team2= |team1score= |team2score= |winner=
+|date=2026-10-24 |time=14:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |mvp= |vodhl= |stream=https://www.twitch.tv/riotgames |reddit= |qq=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder= 6|team1= |team2= |team1score= |team2score= |winner=
+|date=2026-10-24 |time=15:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |mvp= |vodhl= |stream=https://www.twitch.tv/riotgames |reddit= |qq=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder= 7|team1= |team2= |team1score= |team2score= |winner=
+|date=2026-10-24 |time=16:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |mvp= |vodhl= |stream=https://www.twitch.tv/riotgames |reddit= |qq=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder= 8|team1= |team2= |team1score= |team2score= |winner=
+|date=2026-10-24 |time=17:00 |timezone=PST |dst=yes |pbp= |color= |vodinterview= |with= |mvp= |vodhl= |stream=https://www.twitch.tv/riotgames |reddit= |qq=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule/End}}
+
+==Round 3==
+{{MatchSchedule/Start|tab=Round 3 |bestof=3 |shownname=Worlds 2026 Main Event }}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|bestof=1|initialorder= 3|team1= |team2= |team1score= |team2score= |winner=
+|date=2026-10-25 |time=10:00 |timezone=PST |dst=spring |pbp= |color= |vodinterview= |with= |mvp= |vodhl= |stream=https://www.twitch.tv/riotgames |reddit= |qq=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|bestof=1|initialorder= 4|team1= |team2= |team1score= |team2score= |winner=
+|date=2026-10-25 |time=11:00 |timezone=PST |dst=spring |pbp= |color= |vodinterview= |with= |mvp= |vodhl= |stream=https://www.twitch.tv/riotgames |reddit= |qq=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder= 1|team1= |team2= |team1score= |team2score= |winner=
+|date=2026-10-25 |time=12:00 |timezone=PST |dst=spring |pbp= |color= |vodinterview= |with= |mvp= |vodhl= |stream=https://www.twitch.tv/riotgames |reddit= |qq=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder= 2|team1= |team2= |team1score= |team2score= |winner=
+|date=2026-10-25 |time=15:00 |timezone=PST |dst=spring |pbp= |color= |vodinterview= |with= |mvp= |vodhl= |stream=https://www.twitch.tv/riotgames |reddit= |qq=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|bestof=1|initialorder= 5|team1= |team2= |team1score= |team2score= |winner=
+|date=2026-10-26 |time=10:00 |timezone=PST |dst=spring |pbp= |color= |vodinterview= |with= |mvp= |vodhl= |stream=https://www.twitch.tv/riotgames |reddit= |qq=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|bestof=1|initialorder= 6|team1= |team2= |team1score= |team2score= |winner=
+|date=2026-10-26 |time=11:00 |timezone=PST |dst=spring |pbp= |color= |vodinterview= |with= |mvp= |vodhl= |stream=https://www.twitch.tv/riotgames |reddit= |qq=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder= 7|team1= |team2= |team1score= |team2score= |winner=
+|date=2026-10-26 |time=12:00 |timezone=PST |dst=spring |pbp= |color= |vodinterview= |with= |mvp= |vodhl= |stream=https://www.twitch.tv/riotgames |reddit= |qq=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder= 8|team1= |team2= |team1score= |team2score= |winner=
+|date=2026-10-26 |time=15:00 |timezone=PST |dst=spring |pbp= |color= |vodinterview= |with= |mvp= |vodhl= |stream=https://www.twitch.tv/riotgames |reddit= |qq=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule/End}}
+
+==Round 4==
+{{MatchSchedule/Start|tab=Round 4 |bestof=3 |shownname=Worlds 2026 Main Event }}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder= 1|team1= |team2= |team1score= |team2score= |winner=
+|date=2026-10-28 |time=13:00 |timezone=PST |dst=spring |pbp= |color= |vodinterview= |with= |mvp= |vodhl= |stream=https://www.twitch.tv/riotgames |reddit= |qq=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder= 2|team1= |team2= |team1score= |team2score= |winner=
+|date=2026-10-28 |time=16:00 |timezone=PST |dst=spring |pbp= |color= |vodinterview= |with= |mvp= |vodhl= |stream=https://www.twitch.tv/riotgames |reddit= |qq=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder= 3|team1= |team2= |team1score= |team2score= |winner=
+|date=2026-10-29 |time=13:00 |timezone=PST |dst=spring |pbp= |color= |vodinterview= |with= |mvp= |vodhl= |stream=https://www.twitch.tv/riotgames |reddit= |qq=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder= 4|team1= |team2= |team1score= |team2score= |winner=
+|date=2026-10-29 |time=16:00 |timezone=PST |dst=spring |pbp= |color= |vodinterview= |with= |mvp= |vodhl= |stream=https://www.twitch.tv/riotgames |reddit= |qq=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder= 5|team1= |team2= |team1score= |team2score= |winner=
+|date=2026-10-30 |time=13:00 |timezone=PST |dst=spring |pbp= |color= |vodinterview= |with= |mvp= |vodhl= |stream=https://www.twitch.tv/riotgames |reddit= |qq=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder= 6|team1= |team2= |team1score= |team2score= |winner=
+|date=2026-10-30 |time=16:00 |timezone=PST |dst=spring |pbp= |color= |vodinterview= |with= |mvp= |vodhl= |stream=https://www.twitch.tv/riotgames |reddit= |qq=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule/End}}
+
+==Round 5==
+{{MatchSchedule/Start|tab=Round 5 |bestof=3 |shownname=Worlds 2026 Main Event }}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder= 1|team1= |team2= |team1score= |team2score= |winner=
+|date=2026-10-31 |time=10:00 |timezone=PST |dst=spring |pbp= |color= |vodinterview= |with= |mvp= |vodhl= |stream=https://www.twitch.tv/riotgames |reddit= |qq=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder= 2|team1= |team2= |team1score= |team2score= |winner=
+|date=2026-10-31 |time=13:00 |timezone=PST |dst=spring |pbp= |color= |vodinterview= |with= |mvp= |vodhl= |stream=https://www.twitch.tv/riotgames |reddit= |qq=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder= 3|team1= |team2= |team1score= |team2score= |winner=
+|date=2026-10-31 |time=16:00 |timezone=PST |dst=spring |pbp= |color= |vodinterview= |with= |mvp= |vodhl= |stream=https://www.twitch.tv/riotgames |reddit= |qq=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule/End}}
+
+==Quarterfinals==
+{{MatchSchedule/Start|tab=Quarterfinals |bestof=5 |shownname=Worlds 2026 Main Event }}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder=1|team1= |team2= |team1score= |team2score= |winner=
+|date=2026-11-03 |time=14:00 |timezone=PST |dst=no |pbp= |color= |vodinterview= |with= |mvp= |vodhl= |stream=https://www.twitch.tv/riotgames |reddit= |qq=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game4={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game5={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder= 2|team1= |team2= |team1score= |team2score= |winner=
+|date=2026-11-04 |time=14:00 |timezone=PST |dst=no |pbp= |color= |vodinterview= |with= |mvp= |vodhl= |stream=https://www.twitch.tv/riotgames |reddit= |qq=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game4={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game5={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder= 3|team1= |team2= |team1score= |team2score= |winner=
+|date=2026-11-05 |time=14:00 |timezone=PST |dst=no |pbp= |color= |vodinterview= |with= |mvp= |vodhl= |stream=https://www.twitch.tv/riotgames |reddit= |qq=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game4={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game5={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder= 4|team1= |team2= |team1score= |team2score= |winner=
+|date=2026-11-06 |time=14:00 |timezone=PST |dst=no |pbp= |color= |vodinterview= |with= |mvp= |vodhl= |stream=https://www.twitch.tv/riotgames |reddit= |qq=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game4={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game5={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule/End}}
+
+==Semifinals==
+{{MatchSchedule/Start|tab=Semifinals |bestof=5 |shownname=Worlds 2026 Main Event }}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder= 1|team1= |team2= |team1score= |team2score= |winner=
+|date=2026-11-07 |time=14:00 |timezone=PST |dst=no |pbp= |color= |vodinterview= |with= |mvp= |vodhl= |stream=https://www.twitch.tv/riotgames |reddit= |qq=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game4={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game5={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder= 2|team1= |team2= |team1score= |team2score= |winner=
+|date=2026-11-08 |time=14:00 |timezone=PST |dst=no |pbp= |color= |vodinterview= |with= |mvp= |vodhl= |stream=https://www.twitch.tv/riotgames |reddit= |qq=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game4={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game5={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule/End}}
+
+==Finals==
+{{MatchSchedule/Start|tab=Finals |bestof=5 |shownname=Worlds 2026 Main Event }}
+{{MatchSchedule|<!-- Do not change the order of team1 and team2!! -->|initialorder= 1|team1= |team2= |team1score= |team2score= |winner=
+|date=2026-11-14 |time=11:00 |timezone=PST |dst=no |pbp= |color= |vodinterview= |with= |mvp= |vodhl= |stream=https://www.twitch.tv/riotgames |reddit= |qq=
+|game1={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game2={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game3={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game4={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+|game5={{MatchSchedule/Game
+|blue= |red= |winner= |first_sel= |ssel= |pick_sel= |first_pick= |ff=
+|riot_platform_game_id=
+|recap=
+|vodpb=
+|vodstart=
+|vodpost=
+|vodhl=
+|vodinterview=
+|with=
+|mvp=
+}}
+}}
+{{MatchSchedule/End}}

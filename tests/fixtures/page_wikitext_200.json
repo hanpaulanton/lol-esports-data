@@ -1,0 +1,22 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": [
+      {
+        "pageid": 1029053,
+        "ns": 10008,
+        "title": "Data:LCK/2026 Season/Rounds 1-2/2",
+        "revisions": [
+          {
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "content": "{{DataTabs|fl=KR/LCK}}\n{{MatchSchedule/Start|tab=Week 1 |bestof=3}}\n{{MatchSchedule|team1=T1 |team2=GEN |team1score=2 |team2score=0 |winner=1\n|date=2026-01-07 |time=17:00 |timezone=KST |dst=yes\n|game1={{MatchSchedule/Game|blue=T1 |red=GEN |winner=1 |riot_platform_game_id=LOLTMNT02_000001}}}}"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1642 @@
+[
+  {
+    "id": "lp:LCK 2026 Rounds 3-4:2026-07-29:KRX:NS",
+    "league": {
+      "id": "LCK21",
+      "name": "LCK",
+      "region": "KR"
+    },
+    "tournament": {
+      "id": "LCK 2026 Rounds 3-4",
+      "name": "LCK 2026 Rounds 3-4"
+    },
+    "stage": {
+      "id": "Rounds 3-4",
+      "name": "Rounds 3-4"
+    },
+    "team1Id": "KRX",
+    "team2Id": "NS",
+    "scheduledAt": "2026-07-29T08:00:00Z",
+    "status": "completed",
+    "bestOf": 3,
+    "score": {
+      "team1": 0,
+      "team2": 2
+    },
+    "sources": [
+      {
+        "source": "leaguepedia",
+        "kind": "raw_fixture",
+        "ref": "raw/leaguepedia/page_data_lck_rounds34.wikitext"
+      }
+    ],
+    "lastUpdatedAt": "2026-09-29",
+    "_warnings": [
+      "dst flag is 'yes' but KST is a fixed-offset zone in the curated mapping; the flag was ignored for the offset computation"
+    ],
+    "_provisional": {
+      "teamIdSource": "leaguepedia-team-code (canonical team IDs unresolved)",
+      "bestOfSource": "MatchSchedule/Start tab context (verified by played-game count)",
+      "idType": "deterministic synthetic series id"
+    }
+  },
+  {
+    "id": "lp:LCK 2026 Rounds 3-4:2026-07-29:T1:KT",
+    "league": {
+      "id": "LCK21",
+      "name": "LCK",
+      "region": "KR"
+    },
+    "tournament": {
+      "id": "LCK 2026 Rounds 3-4",
+      "name": "LCK 2026 Rounds 3-4"
+    },
+    "stage": {
+      "id": "Rounds 3-4",
+      "name": "Rounds 3-4"
+    },
+    "team1Id": "T1",
+    "team2Id": "KT",
+    "scheduledAt": "2026-07-29T10:00:00Z",
+    "status": "completed",
+    "bestOf": 3,
+    "score": {
+      "team1": 0,
+      "team2": 2
+    },
+    "sources": [
+      {
+        "source": "leaguepedia",
+        "kind": "raw_fixture",
+        "ref": "raw/leaguepedia/page_data_lck_rounds34.wikitext"
+      }
+    ],
+    "lastUpdatedAt": "2026-09-29",
+    "_warnings": [
+      "dst flag is 'yes' but KST is a fixed-offset zone in the curated mapping; the flag was ignored for the offset computation"
+    ],
+    "_provisional": {
+      "teamIdSource": "leaguepedia-team-code (canonical team IDs unresolved)",
+      "bestOfSource": "MatchSchedule/Start tab context (verified by played-game count)",
+      "idType": "deterministic synthetic series id"
+    }
+  },
+  {
+    "id": "lp:LCK 2026 Rounds 3-4:2026-07-30:DN SOOPers:BNK FEARX",
+    "league": {
+      "id": "LCK21",
+      "name": "LCK",
+      "region": "KR"
+    },
+    "tournament": {
+      "id": "LCK 2026 Rounds 3-4",
+      "name": "LCK 2026 Rounds 3-4"
+    },
+    "stage": {
+      "id": "Rounds 3-4",
+      "name": "Rounds 3-4"
+    },
+    "team1Id": "DN SOOPers",
+    "team2Id": "BNK FEARX",
+    "scheduledAt": "2026-07-30T08:00:00Z",
+    "status": "completed",
+    "bestOf": 3,
+    "score": {
+      "team1": 0,
+      "team2": 2
+    },
+    "sources": [
+      {
+        "source": "leaguepedia",
+        "kind": "raw_fixture",
+        "ref": "raw/leaguepedia/page_data_lck_rounds34.wikitext"
+      }
+    ],
+    "lastUpdatedAt": "2026-09-29",
+    "_warnings": [
+      "dst flag is 'yes' but KST is a fixed-offset zone in the curated mapping; the flag was ignored for the offset computation"
+    ],
+    "_provisional": {
+      "teamIdSource": "leaguepedia-team-code (canonical team IDs unresolved)",
+      "bestOfSource": "MatchSchedule/Start tab context (verified by played-game count)",
+      "idType": "deterministic synthetic series id"
+    }
+  },
+  {
+    "id": "lp:LCK 2026 Rounds 3-4:2026-07-30:HLE:DPLUS",
+    "league": {
+      "id": "LCK21",
+      "name": "LCK",
+      "region": "KR"
+    },
+    "tournament": {
+      "id": "LCK 2026 Rounds 3-4",
+      "name": "LCK 2026 Rounds 3-4"
+    },
+    "stage": {
+      "id": "Rounds 3-4",
+      "name": "Rounds 3-4"
+    },
+    "team1Id": "HLE",
+    "team2Id": "DPLUS",
+    "scheduledAt": "2026-07-30T10:00:00Z",
+    "status": "completed",
+    "bestOf": 3,
+    "score": {
+      "team1": 1,
+      "team2": 2
+    },
+    "sources": [
+      {
+        "source": "leaguepedia",
+        "kind": "raw_fixture",
+        "ref": "raw/leaguepedia/page_data_lck_rounds34.wikitext"
+      }
+    ],
+    "lastUpdatedAt": "2026-09-29",
+    "_warnings": [
+      "dst flag is 'yes' but KST is a fixed-offset zone in the curated mapping; the flag was ignored for the offset computation"
+    ],
+    "_provisional": {
+      "teamIdSource": "leaguepedia-team-code (canonical team IDs unresolved)",
+      "bestOfSource": "MatchSchedule/Start tab context (verified by played-game count)",
+      "idType": "deterministic synthetic series id"
+    }
+  },
+  {
+    "id": "lp:LCK 2026 Rounds 3-4:2026-07-31:GEN:T1",
+    "league": {
+      "id": "LCK21",
+      "name": "LCK",
+      "region": "KR"
+    },
+    "tournament": {
+      "id": "LCK 2026 Rounds 3-4",
+      "name": "LCK 2026 Rounds 3-4"
+    },
+    "stage": {
+      "id": "Rounds 3-4",
+      "name": "Rounds 3-4"
+    },
+    "team1Id": "GEN",
+    "team2Id": "T1",
+    "scheduledAt": "2026-07-31T08:00:00Z",
+    "status": "completed",
+    "bestOf": 3,
+    "score": {
+      "team1": 0,
+      "team2": 2
+    },
+    "sources": [
+      {
+        "source": "leaguepedia",
+        "kind": "raw_fixture",
+        "ref": "raw/leaguepedia/page_data_lck_rounds34.wikitext"
+      }
+    ],
+    "lastUpdatedAt": "2026-09-29",
+    "_warnings": [
+      "dst flag is 'yes' but KST is a fixed-offset zone in the curated mapping; the flag was ignored for the offset computation"
+    ],
+    "_provisional": {
+      "teamIdSource": "leaguepedia-team-code (canonical team IDs unresolved)",
+      "bestOfSource": "MatchSchedule/Start tab context (verified by played-game count)",
+      "idType": "deterministic synthetic series id"
+    }
+  },
+  {
+    "id": "lp:LCK 2026 Rounds 3-4:2026-07-31:HANJIN BRION:KRX",
+    "league": {
+      "id": "LCK21",
+      "name": "LCK",
+      "region": "KR"
+    },
+    "tournament": {
+      "id": "LCK 2026 Rounds 3-4",
+      "name": "LCK 2026 Rounds 3-4"
+    },
+    "stage": {
+      "id": "Rounds 3-4",
+      "name": "Rounds 3-4"
+    },
+    "team1Id": "HANJIN BRION",
+    "team2Id": "KRX",
+    "scheduledAt": "2026-07-31T10:00:00Z",
+    "status": "completed",
+    "bestOf": 3,
+    "score": {
+      "team1": 1,
+      "team2": 2
+    },
+    "sources": [
+      {
+        "source": "leaguepedia",
+        "kind": "raw_fixture",
+        "ref": "raw/leaguepedia/page_data_lck_rounds34.wikitext"
+      }
+    ],
+    "lastUpdatedAt": "2026-09-29",
+    "_warnings": [
+      "dst flag is 'yes' but KST is a fixed-offset zone in the curated mapping; the flag was ignored for the offset computation"
+    ],
+    "_provisional": {
+      "teamIdSource": "leaguepedia-team-code (canonical team IDs unresolved)",
+      "bestOfSource": "MatchSchedule/Start tab context (verified by played-game count)",
+      "idType": "deterministic synthetic series id"
+    }
+  },
+  {
+    "id": "lp:LCK 2026 Rounds 3-4:2026-08-01:NS:BNK FEARX",
+    "league": {
+      "id": "LCK21",
+      "name": "LCK",
+      "region": "KR"
+    },
+    "tournament": {
+      "id": "LCK 2026 Rounds 3-4",
+      "name": "LCK 2026 Rounds 3-4"
+    },
+    "stage": {
+      "id": "Rounds 3-4",
+      "name": "Rounds 3-4"
+    },
+    "team1Id": "NS",
+    "team2Id": "BNK FEARX",
+    "scheduledAt": "2026-08-01T08:00:00Z",
+    "status": "completed",
+    "bestOf": 3,
+    "score": {
+      "team1": 2,
+      "team2": 1
+    },
+    "sources": [
+      {
+        "source": "leaguepedia",
+        "kind": "raw_fixture",
+        "ref": "raw/leaguepedia/page_data_lck_rounds34.wikitext"
+      }
+    ],
+    "lastUpdatedAt": "2026-09-29",
+    "_warnings": [
+      "dst flag is 'yes' but KST is a fixed-offset zone in the curated mapping; the flag was ignored for the offset computation"
+    ],
+    "_provisional": {
+      "teamIdSource": "leaguepedia-team-code (canonical team IDs unresolved)",
+      "bestOfSource": "MatchSchedule/Start tab context (verified by played-game count)",
+      "idType": "deterministic synthetic series id"
+    }
+  },
+  {
+    "id": "lp:LCK 2026 Rounds 3-4:2026-08-01:GEN:DPLUS",
+    "league": {
+      "id": "LCK21",
+      "name": "LCK",
+      "region": "KR"
+    },
+    "tournament": {
+      "id": "LCK 2026 Rounds 3-4",
+      "name": "LCK 2026 Rounds 3-4"
+    },
+    "stage": {
+      "id": "Rounds 3-4",
+      "name": "Rounds 3-4"
+    },
+    "team1Id": "GEN",
+    "team2Id": "DPLUS",
+    "scheduledAt": "2026-08-01T10:00:00Z",
+    "status": "completed",
+    "bestOf": 3,
+    "score": {
+      "team1": 0,
+      "team2": 2
+    },
+    "sources": [
+      {
+        "source": "leaguepedia",
+        "kind": "raw_fixture",
+        "ref": "raw/leaguepedia/page_data_lck_rounds34.wikitext"
+      }
+    ],
+    "lastUpdatedAt": "2026-09-29",
+    "_warnings": [
+      "dst flag is 'yes' but KST is a fixed-offset zone in the curated mapping; the flag was ignored for the offset computation"
+    ],
+    "_provisional": {
+      "teamIdSource": "leaguepedia-team-code (canonical team IDs unresolved)",
+      "bestOfSource": "MatchSchedule/Start tab context (verified by played-game count)",
+      "idType": "deterministic synthetic series id"
+    }
+  },
+  {
+    "id": "lp:LCK 2026 Rounds 3-4:2026-08-02:DN SOOPers:HANJIN BRION",
+    "league": {
+      "id": "LCK21",
+      "name": "LCK",
+      "region": "KR"
+    },
+    "tournament": {
+      "id": "LCK 2026 Rounds 3-4",
+      "name": "LCK 2026 Rounds 3-4"
+    },
+    "stage": {
+      "id": "Rounds 3-4",
+      "name": "Rounds 3-4"
+    },
+    "team1Id": "DN SOOPers",
+    "team2Id": "HANJIN BRION",
+    "scheduledAt": "2026-08-02T08:00:00Z",
+    "status": "completed",
+    "bestOf": 3,
+    "score": {
+      "team1": 2,
+      "team2": 1
+    },
+    "sources": [
+      {
+        "source": "leaguepedia",
+        "kind": "raw_fixture",
+        "ref": "raw/leaguepedia/page_data_lck_rounds34.wikitext"
+      }
+    ],
+    "lastUpdatedAt": "2026-09-29",
+    "_warnings": [
+      "dst flag is 'yes' but KST is a fixed-offset zone in the curated mapping; the flag was ignored for the offset computation"
+    ],
+    "_provisional": {
+      "teamIdSource": "leaguepedia-team-code (canonical team IDs unresolved)",
+      "bestOfSource": "MatchSchedule/Start tab context (verified by played-game count)",
+      "idType": "deterministic synthetic series id"
+    }
+  },
+  {
+    "id": "lp:LCK 2026 Rounds 3-4:2026-08-02:KT:HLE",
+    "league": {
+      "id": "LCK21",
+      "name": "LCK",
+      "region": "KR"
+    },
+    "tournament": {
+      "id": "LCK 2026 Rounds 3-4",
+      "name": "LCK 2026 Rounds 3-4"
+    },
+    "stage": {
+      "id": "Rounds 3-4",
+      "name": "Rounds 3-4"
+    },
+    "team1Id": "KT",
+    "team2Id": "HLE",
+    "scheduledAt": "2026-08-02T10:00:00Z",
+    "status": "completed",
+    "bestOf": 3,
+    "score": {
+      "team1": 2,
+      "team2": 1
+    },
+    "sources": [
+      {
+        "source": "leaguepedia",
+        "kind": "raw_fixture",
+        "ref": "raw/leaguepedia/page_data_lck_rounds34.wikitext"
+      }
+    ],
+    "lastUpdatedAt": "2026-09-29",
+    "_warnings": [
+      "dst flag is 'yes' but KST is a fixed-offset zone in the curated mapping; the flag was ignored for the offset computation"
+    ],
+    "_provisional": {
+      "teamIdSource": "leaguepedia-team-code (canonical team IDs unresolved)",
+      "bestOfSource": "MatchSchedule/Start tab context (verified by played-game count)",
+      "idType": "deterministic synthetic series id"
+    }
+  },
+  {
+    "id": "lp:LCK 2026 Rounds 3-4:2026-08-05:HANJIN BRION:NS",
+    "league": {
+      "id": "LCK21",
+      "name": "LCK",
+      "region": "KR"
+    },
+    "tournament": {
+      "id": "LCK 2026 Rounds 3-4",
+      "name": "LCK 2026 Rounds 3-4"
+    },
+    "stage": {
+      "id": "Rounds 3-4",
+      "name": "Rounds 3-4"
+    },
+    "team1Id": "HANJIN BRION",
+    "team2Id": "NS",
+    "scheduledAt": "2026-08-05T08:00:00Z",
+    "status": "completed",
+    "bestOf": 3,
+    "score": {
+      "team1": 2,
+      "team2": 1
+    },
+    "sources": [
+      {
+        "source": "leaguepedia",
+        "kind": "raw_fixture",
+        "ref": "raw/leaguepedia/page_data_lck_rounds34.wikitext"
+      }
+    ],
+    "lastUpdatedAt": "2026-09-29",
+    "_warnings": [
+      "dst flag is 'yes' but KST is a fixed-offset zone in the curated mapping; the flag was ignored for the offset computation"
+    ],
+    "_provisional": {
+      "teamIdSource": "leaguepedia-team-code (canonical team IDs unresolved)",
+      "bestOfSource": "MatchSchedule/Start tab context (verified by played-game count)",
+      "idType": "deterministic synthetic series id"
+    }
+  },
+  {
+    "id": "lp:LCK 2026 Rounds 3-4:2026-08-05:HLE:GEN",
+    "league": {
+      "id": "LCK21",
+      "name": "LCK",
+      "region": "KR"
+    },
+    "tournament": {
+      "id": "LCK 2026 Rounds 3-4",
+      "name": "LCK 2026 Rounds 3-4"
+    },
+    "stage": {
+      "id": "Rounds 3-4",
+      "name": "Rounds 3-4"
+    },
+    "team1Id": "HLE",
+    "team2Id": "GEN",
+    "scheduledAt": "2026-08-05T10:00:00Z",
+    "status": "completed",
+    "bestOf": 3,
+    "score": {
+      "team1": 1,
+      "team2": 2
+    },
+    "sources": [
+      {
+        "source": "leaguepedia",
+        "kind": "raw_fixture",
+        "ref": "raw/leaguepedia/page_data_lck_rounds34.wikitext"
+      }
+    ],
+    "lastUpdatedAt": "2026-09-29",
+    "_warnings": [
+      "dst flag is 'yes' but KST is a fixed-offset zone in the curated mapping; the flag was ignored for the offset computation"
+    ],
+    "_provisional": {
+      "teamIdSource": "leaguepedia-team-code (canonical team IDs unresolved)",
+      "bestOfSource": "MatchSchedule/Start tab context (verified by played-game count)",
+      "idType": "deterministic synthetic series id"
+    }
+  },
+  {
+    "id": "lp:LCK 2026 Rounds 3-4:2026-08-06:KRX:DN SOOPers",
+    "league": {
+      "id": "LCK21",
+      "name": "LCK",
+      "region": "KR"
+    },
+    "tournament": {
+      "id": "LCK 2026 Rounds 3-4",
+      "name": "LCK 2026 Rounds 3-4"
+    },
+    "stage": {
+      "id": "Rounds 3-4",
+      "name": "Rounds 3-4"
+    },
+    "team1Id": "KRX",
+    "team2Id": "DN SOOPers",
+    "scheduledAt": "2026-08-06T08:00:00Z",
+    "status": "completed",
+    "bestOf": 3,
+    "score": {
+      "team1": 2,
+      "team2": 0
+    },
+    "sources": [
+      {
+        "source": "leaguepedia",
+        "kind": "raw_fixture",
+        "ref": "raw/leaguepedia/page_data_lck_rounds34.wikitext"
+      }
+    ],
+    "lastUpdatedAt": "2026-09-29",
+    "_warnings": [
+      "dst flag is 'yes' but KST is a fixed-offset zone in the curated mapping; the flag was ignored for the offset computation"
+    ],
+    "_provisional": {
+      "teamIdSource": "leaguepedia-team-code (canonical team IDs unresolved)",
+      "bestOfSource": "MatchSchedule/Start tab context (verified by played-game count)",
+      "idType": "deterministic synthetic series id"
+    }
+  },
+  {
+    "id": "lp:LCK 2026 Rounds 3-4:2026-08-06:DPLUS:T1",
+    "league": {
+      "id": "LCK21",
+      "name": "LCK",
+      "region": "KR"
+    },
+    "tournament": {
+      "id": "LCK 2026 Rounds 3-4",
+      "name": "LCK 2026 Rounds 3-4"
+    },
+    "stage": {
+      "id": "Rounds 3-4",
+      "name": "Rounds 3-4"
+    },
+    "team1Id": "DPLUS",
+    "team2Id": "T1",
+    "scheduledAt": "2026-08-06T10:00:00Z",
+    "status": "completed",
+    "bestOf": 3,
+    "score": {
+      "team1": 0,
+      "team2": 2
+    },
+    "sources": [
+      {
+        "source": "leaguepedia",
+        "kind": "raw_fixture",
+        "ref": "raw/leaguepedia/page_data_lck_rounds34.wikitext"
+      }
+    ],
+    "lastUpdatedAt": "2026-09-29",
+    "_warnings": [
+      "dst flag is 'yes' but KST is a fixed-offset zone in the curated mapping; the flag was ignored for the offset computation"
+    ],
+    "_provisional": {
+      "teamIdSource": "leaguepedia-team-code (canonical team IDs unresolved)",
+      "bestOfSource": "MatchSchedule/Start tab context (verified by played-game count)",
+      "idType": "deterministic synthetic series id"
+    }
+  },
+  {
+    "id": "lp:LCK 2026 Rounds 3-4:2026-08-07:KT:GEN",
+    "league": {
+      "id": "LCK21",
+      "name": "LCK",
+      "region": "KR"
+    },
+    "tournament": {
+      "id": "LCK 2026 Rounds 3-4",
+      "name": "LCK 2026 Rounds 3-4"
+    },
+    "stage": {
+      "id": "Rounds 3-4",
+      "name": "Rounds 3-4"
+    },
+    "team1Id": "KT",
+    "team2Id": "GEN",
+    "scheduledAt": "2026-08-07T08:00:00Z",
+    "status": "completed",
+    "bestOf": 3,
+    "score": {
+      "team1": 0,
+      "team2": 2
+    },
+    "sources": [
+      {
+        "source": "leaguepedia",
+        "kind": "raw_fixture",
+        "ref": "raw/leaguepedia/page_data_lck_rounds34.wikitext"
+      }
+    ],
+    "lastUpdatedAt": "2026-09-29",
+    "_warnings": [
+      "dst flag is 'yes' but KST is a fixed-offset zone in the curated mapping; the flag was ignored for the offset computation"
+    ],
+    "_provisional": {
+      "teamIdSource": "leaguepedia-team-code (canonical team IDs unresolved)",
+      "bestOfSource": "MatchSchedule/Start tab context (verified by played-game count)",
+      "idType": "deterministic synthetic series id"
+    }
+  },
+  {
+    "id": "lp:LCK 2026 Rounds 3-4:2026-08-07:BNK FEARX:HANJIN BRION",
+    "league": {
+      "id": "LCK21",
+      "name": "LCK",
+      "region": "KR"
+    },
+    "tournament": {
+      "id": "LCK 2026 Rounds 3-4",
+      "name": "LCK 2026 Rounds 3-4"
+    },
+    "stage": {
+      "id": "Rounds 3-4",
+      "name": "Rounds 3-4"
+    },
+    "team1Id": "BNK FEARX",
+    "team2Id": "HANJIN BRION",
+    "scheduledAt": "2026-08-07T10:00:00Z",
+    "status": "completed",
+    "bestOf": 3,
+    "score": {
+      "team1": 0,
+      "team2": 2
+    },
+    "sources": [
+      {
+        "source": "leaguepedia",
+        "kind": "raw_fixture",
+        "ref": "raw/leaguepedia/page_data_lck_rounds34.wikitext"
+      }
+    ],
+    "lastUpdatedAt": "2026-09-29",
+    "_warnings": [
+      "dst flag is 'yes' but KST is a fixed-offset zone in the curated mapping; the flag was ignored for the offset computation"
+    ],
+    "_provisional": {
+      "teamIdSource": "leaguepedia-team-code (canonical team IDs unresolved)",
+      "bestOfSource": "MatchSchedule/Start tab context (verified by played-game count)",
+      "idType": "deterministic synthetic series id"
+    }
+  },
+  {
+    "id": "lp:LCK 2026 Rounds 3-4:2026-08-08:T1:HLE",
+    "league": {
+      "id": "LCK21",
+      "name": "LCK",
+      "region": "KR"
+    },
+    "tournament": {
+      "id": "LCK 2026 Rounds 3-4",
+      "name": "LCK 2026 Rounds 3-4"
+    },
+    "stage": {
+      "id": "Rounds 3-4",
+      "name": "Rounds 3-4"
+    },
+    "team1Id": "T1",
+    "team2Id": "HLE",
+    "scheduledAt": "2026-08-08T08:00:00Z",
+    "status": "completed",
+    "bestOf": 3,
+    "score": {
+      "team1": 1,
+      "team2": 2
+    },
+    "sources": [
+      {
+        "source": "leaguepedia",
+        "kind": "raw_fixture",
+        "ref": "raw/leaguepedia/page_data_lck_rounds34.wikitext"
+      }
+    ],
+    "lastUpdatedAt": "2026-09-29",
+    "_warnings": [
+      "dst flag is 'yes' but KST is a fixed-offset zone in the curated mapping; the flag was ignored for the offset computation"
+    ],
+    "_provisional": {
+      "teamIdSource": "leaguepedia-team-code (canonical team IDs unresolved)",
+      "bestOfSource": "MatchSchedule/Start tab context (verified by played-game count)",
+      "idType": "deterministic synthetic series id"
+    }
+  },
+  {
+    "id": "lp:LCK 2026 Rounds 3-4:2026-08-08:NS:DN SOOPers",
+    "league": {
+      "id": "LCK21",
+      "name": "LCK",
+      "region": "KR"
+    },
+    "tournament": {
+      "id": "LCK 2026 Rounds 3-4",
+      "name": "LCK 2026 Rounds 3-4"
+    },
+    "stage": {
+      "id": "Rounds 3-4",
+      "name": "Rounds 3-4"
+    },
+    "team1Id": "NS",
+    "team2Id": "DN SOOPers",
+    "scheduledAt": "2026-08-08T10:00:00Z",
+    "status": "completed",
+    "bestOf": 3,
+    "score": {
+      "team1": 0,
+      "team2": 2
+    },
+    "sources": [
+      {
+        "source": "leaguepedia",
+        "kind": "raw_fixture",
+        "ref": "raw/leaguepedia/page_data_lck_rounds34.wikitext"
+      }
+    ],
+    "lastUpdatedAt": "2026-09-29",
+    "_warnings": [
+      "dst flag is 'yes' but KST is a fixed-offset zone in the curated mapping; the flag was ignored for the offset computation"
+    ],
+    "_provisional": {
+      "teamIdSource": "leaguepedia-team-code (canonical team IDs unresolved)",
+      "bestOfSource": "MatchSchedule/Start tab context (verified by played-game count)",
+      "idType": "deterministic synthetic series id"
+    }
+  },
+  {
+    "id": "lp:LCK 2026 Rounds 3-4:2026-08-09:DPLUS:KT",
+    "league": {
+      "id": "LCK21",
+      "name": "LCK",
+      "region": "KR"
+    },
+    "tournament": {
+      "id": "LCK 2026 Rounds 3-4",
+      "name": "LCK 2026 Rounds 3-4"
+    },
+    "stage": {
+      "id": "Rounds 3-4",
+      "name": "Rounds 3-4"
+    },
+    "team1Id": "DPLUS",
+    "team2Id": "KT",
+    "scheduledAt": "2026-08-09T08:00:00Z",
+    "status": "completed",
+    "bestOf": 3,
+    "score": {
+      "team1": 2,
+      "team2": 1
+    },
+    "sources": [
+      {
+        "source": "leaguepedia",
+        "kind": "raw_fixture",
+        "ref": "raw/leaguepedia/page_data_lck_rounds34.wikitext"
+      }
+    ],
+    "lastUpdatedAt": "2026-09-29",
+    "_warnings": [
+      "dst flag is 'yes' but KST is a fixed-offset zone in the curated mapping; the flag was ignored for the offset computation"
+    ],
+    "_provisional": {
+      "teamIdSource": "leaguepedia-team-code (canonical team IDs unresolved)",
+      "bestOfSource": "MatchSchedule/Start tab context (verified by played-game count)",
+      "idType": "deterministic synthetic series id"
+    }
+  },
+  {
+    "id": "lp:LCK 2026 Rounds 3-4:2026-08-09:BNK FEARX:KRX",
+    "league": {
+      "id": "LCK21",
+      "name": "LCK",
+      "region": "KR"
+    },
+    "tournament": {
+      "id": "LCK 2026 Rounds 3-4",
+      "name": "LCK 2026 Rounds 3-4"
+    },
+    "stage": {
+      "id": "Rounds 3-4",
+      "name": "Rounds 3-4"
+    },
+    "team1Id": "BNK FEARX",
+    "team2Id": "KRX",
+    "scheduledAt": "2026-08-09T10:00:00Z",
+    "status": "completed",
+    "bestOf": 3,
+    "score": {
+      "team1": 2,
+      "team2": 0
+    },
+    "sources": [
+      {
+        "source": "leaguepedia",
+        "kind": "raw_fixture",
+        "ref": "raw/leaguepedia/page_data_lck_rounds34.wikitext"
+      }
+    ],
+    "lastUpdatedAt": "2026-09-29",
+    "_warnings": [
+      "dst flag is 'yes' but KST is a fixed-offset zone in the curated mapping; the flag was ignored for the offset computation"
+    ],
+    "_provisional": {
+      "teamIdSource": "leaguepedia-team-code (canonical team IDs unresolved)",
+      "bestOfSource": "MatchSchedule/Start tab context (verified by played-game count)",
+      "idType": "deterministic synthetic series id"
+    }
+  },
+  {
+    "id": "lp:LCK 2026 Rounds 3-4:2026-08-12:DN SOOPers:NS",
+    "league": {
+      "id": "LCK21",
+      "name": "LCK",
+      "region": "KR"
+    },
+    "tournament": {
+      "id": "LCK 2026 Rounds 3-4",
+      "name": "LCK 2026 Rounds 3-4"
+    },
+    "stage": {
+      "id": "Rounds 3-4",
+      "name": "Rounds 3-4"
+    },
+    "team1Id": "DN SOOPers",
+    "team2Id": "NS",
+    "scheduledAt": "2026-08-12T08:00:00Z",
+    "status": "completed",
+    "bestOf": 3,
+    "score": {
+      "team1": 2,
+      "team2": 1
+    },
+    "sources": [
+      {
+        "source": "leaguepedia",
+        "kind": "raw_fixture",
+        "ref": "raw/leaguepedia/page_data_lck_rounds34.wikitext"
+      }
+    ],
+    "lastUpdatedAt": "2026-09-29",
+    "_warnings": [
+      "dst flag is 'yes' but KST is a fixed-offset zone in the curated mapping; the flag was ignored for the offset computation"
+    ],
+    "_provisional": {
+      "teamIdSource": "leaguepedia-team-code (canonical team IDs unresolved)",
+      "bestOfSource": "MatchSchedule/Start tab context (verified by played-game count)",
+      "idType": "deterministic synthetic series id"
+    }
+  },
+  {
+    "id": "lp:LCK 2026 Rounds 3-4:2026-08-12:KT:DPLUS",
+    "league": {
+      "id": "LCK21",
+      "name": "LCK",
+      "region": "KR"
+    },
+    "tournament": {
+      "id": "LCK 2026 Rounds 3-4",
+      "name": "LCK 2026 Rounds 3-4"
+    },
+    "stage": {
+      "id": "Rounds 3-4",
+      "name": "Rounds 3-4"
+    },
+    "team1Id": "KT",
+    "team2Id": "DPLUS",
+    "scheduledAt": "2026-08-12T10:00:00Z",
+    "status": "completed",
+    "bestOf": 3,
+    "score": {
+      "team1": 0,
+      "team2": 2
+    },
+    "sources": [
+      {
+        "source": "leaguepedia",
+        "kind": "raw_fixture",
+        "ref": "raw/leaguepedia/page_data_lck_rounds34.wikitext"
+      }
+    ],
+    "lastUpdatedAt": "2026-09-29",
+    "_warnings": [
+      "dst flag is 'yes' but KST is a fixed-offset zone in the curated mapping; the flag was ignored for the offset computation"
+    ],
+    "_provisional": {
+      "teamIdSource": "leaguepedia-team-code (canonical team IDs unresolved)",
+      "bestOfSource": "MatchSchedule/Start tab context (verified by played-game count)",
+      "idType": "deterministic synthetic series id"
+    }
+  },
+  {
+    "id": "lp:LCK 2026 Rounds 3-4:2026-08-13:KRX:BNK FEARX",
+    "league": {
+      "id": "LCK21",
+      "name": "LCK",
+      "region": "KR"
+    },
+    "tournament": {
+      "id": "LCK 2026 Rounds 3-4",
+      "name": "LCK 2026 Rounds 3-4"
+    },
+    "stage": {
+      "id": "Rounds 3-4",
+      "name": "Rounds 3-4"
+    },
+    "team1Id": "KRX",
+    "team2Id": "BNK FEARX",
+    "scheduledAt": "2026-08-13T08:00:00Z",
+    "status": "completed",
+    "bestOf": 3,
+    "score": {
+      "team1": 1,
+      "team2": 2
+    },
+    "sources": [
+      {
+        "source": "leaguepedia",
+        "kind": "raw_fixture",
+        "ref": "raw/leaguepedia/page_data_lck_rounds34.wikitext"
+      }
+    ],
+    "lastUpdatedAt": "2026-09-29",
+    "_warnings": [
+      "dst flag is 'yes' but KST is a fixed-offset zone in the curated mapping; the flag was ignored for the offset computation"
+    ],
+    "_provisional": {
+      "teamIdSource": "leaguepedia-team-code (canonical team IDs unresolved)",
+      "bestOfSource": "MatchSchedule/Start tab context (verified by played-game count)",
+      "idType": "deterministic synthetic series id"
+    }
+  },
+  {
+    "id": "lp:LCK 2026 Rounds 3-4:2026-08-13:GEN:HLE",
+    "league": {
+      "id": "LCK21",
+      "name": "LCK",
+      "region": "KR"
+    },
+    "tournament": {
+      "id": "LCK 2026 Rounds 3-4",
+      "name": "LCK 2026 Rounds 3-4"
+    },
+    "stage": {
+      "id": "Rounds 3-4",
+      "name": "Rounds 3-4"
+    },
+    "team1Id": "GEN",
+    "team2Id": "HLE",
+    "scheduledAt": "2026-08-13T10:00:00Z",
+    "status": "completed",
+    "bestOf": 3,
+    "score": {
+      "team1": 2,
+      "team2": 0
+    },
+    "sources": [
+      {
+        "source": "leaguepedia",
+        "kind": "raw_fixture",
+        "ref": "raw/leaguepedia/page_data_lck_rounds34.wikitext"
+      }
+    ],
+    "lastUpdatedAt": "2026-09-29",
+    "_warnings": [
+      "dst flag is 'yes' but KST is a fixed-offset zone in the curated mapping; the flag was ignored for the offset computation"
+    ],
+    "_provisional": {
+      "teamIdSource": "leaguepedia-team-code (canonical team IDs unresolved)",
+      "bestOfSource": "MatchSchedule/Start tab context (verified by played-game count)",
+      "idType": "deterministic synthetic series id"
+    }
+  },
+  {
+    "id": "lp:LCK 2026 Rounds 3-4:2026-08-14:T1:DPLUS",
+    "league": {
+      "id": "LCK21",
+      "name": "LCK",
+      "region": "KR"
+    },
+    "tournament": {
+      "id": "LCK 2026 Rounds 3-4",
+      "name": "LCK 2026 Rounds 3-4"
+    },
+    "stage": {
+      "id": "Rounds 3-4",
+      "name": "Rounds 3-4"
+    },
+    "team1Id": "T1",
+    "team2Id": "DPLUS",
+    "scheduledAt": "2026-08-14T08:00:00Z",
+    "status": "completed",
+    "bestOf": 3,
+    "score": {
+      "team1": 1,
+      "team2": 2
+    },
+    "sources": [
+      {
+        "source": "leaguepedia",
+        "kind": "raw_fixture",
+        "ref": "raw/leaguepedia/page_data_lck_rounds34.wikitext"
+      }
+    ],
+    "lastUpdatedAt": "2026-09-29",
+    "_warnings": [
+      "dst flag is 'yes' but KST is a fixed-offset zone in the curated mapping; the flag was ignored for the offset computation"
+    ],
+    "_provisional": {
+      "teamIdSource": "leaguepedia-team-code (canonical team IDs unresolved)",
+      "bestOfSource": "MatchSchedule/Start tab context (verified by played-game count)",
+      "idType": "deterministic synthetic series id"
+    }
+  },
+  {
+    "id": "lp:LCK 2026 Rounds 3-4:2026-08-14:NS:HANJIN BRION",
+    "league": {
+      "id": "LCK21",
+      "name": "LCK",
+      "region": "KR"
+    },
+    "tournament": {
+      "id": "LCK 2026 Rounds 3-4",
+      "name": "LCK 2026 Rounds 3-4"
+    },
+    "stage": {
+      "id": "Rounds 3-4",
+      "name": "Rounds 3-4"
+    },
+    "team1Id": "NS",
+    "team2Id": "HANJIN BRION",
+    "scheduledAt": "2026-08-14T10:00:00Z",
+    "status": "completed",
+    "bestOf": 3,
+    "score": {
+      "team1": 2,
+      "team2": 0
+    },
+    "sources": [
+      {
+        "source": "leaguepedia",
+        "kind": "raw_fixture",
+        "ref": "raw/leaguepedia/page_data_lck_rounds34.wikitext"
+      }
+    ],
+    "lastUpdatedAt": "2026-09-29",
+    "_warnings": [
+      "dst flag is 'yes' but KST is a fixed-offset zone in the curated mapping; the flag was ignored for the offset computation"
+    ],
+    "_provisional": {
+      "teamIdSource": "leaguepedia-team-code (canonical team IDs unresolved)",
+      "bestOfSource": "MatchSchedule/Start tab context (verified by played-game count)",
+      "idType": "deterministic synthetic series id"
+    }
+  },
+  {
+    "id": "lp:LCK 2026 Rounds 3-4:2026-08-15:HLE:KT",
+    "league": {
+      "id": "LCK21",
+      "name": "LCK",
+      "region": "KR"
+    },
+    "tournament": {
+      "id": "LCK 2026 Rounds 3-4",
+      "name": "LCK 2026 Rounds 3-4"
+    },
+    "stage": {
+      "id": "Rounds 3-4",
+      "name": "Rounds 3-4"
+    },
+    "team1Id": "HLE",
+    "team2Id": "KT",
+    "scheduledAt": "2026-08-15T08:00:00Z",
+    "status": "completed",
+    "bestOf": 3,
+    "score": {
+      "team1": 2,
+      "team2": 1
+    },
+    "sources": [
+      {
+        "source": "leaguepedia",
+        "kind": "raw_fixture",
+        "ref": "raw/leaguepedia/page_data_lck_rounds34.wikitext"
+      }
+    ],
+    "lastUpdatedAt": "2026-09-29",
+    "_warnings": [
+      "dst flag is 'yes' but KST is a fixed-offset zone in the curated mapping; the flag was ignored for the offset computation"
+    ],
+    "_provisional": {
+      "teamIdSource": "leaguepedia-team-code (canonical team IDs unresolved)",
+      "bestOfSource": "MatchSchedule/Start tab context (verified by played-game count)",
+      "idType": "deterministic synthetic series id"
+    }
+  },
+  {
+    "id": "lp:LCK 2026 Rounds 3-4:2026-08-15:BNK FEARX:DN SOOPers",
+    "league": {
+      "id": "LCK21",
+      "name": "LCK",
+      "region": "KR"
+    },
+    "tournament": {
+      "id": "LCK 2026 Rounds 3-4",
+      "name": "LCK 2026 Rounds 3-4"
+    },
+    "stage": {
+      "id": "Rounds 3-4",
+      "name": "Rounds 3-4"
+    },
+    "team1Id": "BNK FEARX",
+    "team2Id": "DN SOOPers",
+    "scheduledAt": "2026-08-15T10:00:00Z",
+    "status": "completed",
+    "bestOf": 3,
+    "score": {
+      "team1": 0,
+      "team2": 2
+    },
+    "sources": [
+      {
+        "source": "leaguepedia",
+        "kind": "raw_fixture",
+        "ref": "raw/leaguepedia/page_data_lck_rounds34.wikitext"
+      }
+    ],
+    "lastUpdatedAt": "2026-09-29",
+    "_warnings": [
+      "dst flag is 'yes' but KST is a fixed-offset zone in the curated mapping; the flag was ignored for the offset computation"
+    ],
+    "_provisional": {
+      "teamIdSource": "leaguepedia-team-code (canonical team IDs unresolved)",
+      "bestOfSource": "MatchSchedule/Start tab context (verified by played-game count)",
+      "idType": "deterministic synthetic series id"
+    }
+  },
+  {
+    "id": "lp:LCK 2026 Rounds 3-4:2026-08-16:T1:GEN",
+    "league": {
+      "id": "LCK21",
+      "name": "LCK",
+      "region": "KR"
+    },
+    "tournament": {
+      "id": "LCK 2026 Rounds 3-4",
+      "name": "LCK 2026 Rounds 3-4"
+    },
+    "stage": {
+      "id": "Rounds 3-4",
+      "name": "Rounds 3-4"
+    },
+    "team1Id": "T1",
+    "team2Id": "GEN",
+    "scheduledAt": "2026-08-16T08:00:00Z",
+    "status": "completed",
+    "bestOf": 3,
+    "score": {
+      "team1": 0,
+      "team2": 2
+    },
+    "sources": [
+      {
+        "source": "leaguepedia",
+        "kind": "raw_fixture",
+        "ref": "raw/leaguepedia/page_data_lck_rounds34.wikitext"
+      }
+    ],
+    "lastUpdatedAt": "2026-09-29",
+    "_warnings": [
+      "dst flag is 'yes' but KST is a fixed-offset zone in the curated mapping; the flag was ignored for the offset computation"
+    ],
+    "_provisional": {
+      "teamIdSource": "leaguepedia-team-code (canonical team IDs unresolved)",
+      "bestOfSource": "MatchSchedule/Start tab context (verified by played-game count)",
+      "idType": "deterministic synthetic series id"
+    }
+  },
+  {
+    "id": "lp:LCK 2026 Rounds 3-4:2026-08-16:KRX:HANJIN BRION",
+    "league": {
+      "id": "LCK21",
+      "name": "LCK",
+      "region": "KR"
+    },
+    "tournament": {
+      "id": "LCK 2026 Rounds 3-4",
+      "name": "LCK 2026 Rounds 3-4"
+    },
+    "stage": {
+      "id": "Rounds 3-4",
+      "name": "Rounds 3-4"
+    },
+    "team1Id": "KRX",
+    "team2Id": "HANJIN BRION",
+    "scheduledAt": "2026-08-16T10:00:00Z",
+    "status": "completed",
+    "bestOf": 3,
+    "score": {
+      "team1": 1,
+      "team2": 2
+    },
+    "sources": [
+      {
+        "source": "leaguepedia",
+        "kind": "raw_fixture",
+        "ref": "raw/leaguepedia/page_data_lck_rounds34.wikitext"
+      }
+    ],
+    "lastUpdatedAt": "2026-09-29",
+    "_warnings": [
+      "dst flag is 'yes' but KST is a fixed-offset zone in the curated mapping; the flag was ignored for the offset computation"
+    ],
+    "_provisional": {
+      "teamIdSource": "leaguepedia-team-code (canonical team IDs unresolved)",
+      "bestOfSource": "MatchSchedule/Start tab context (verified by played-game count)",
+      "idType": "deterministic synthetic series id"
+    }
+  },
+  {
+    "id": "lp:LCK 2026 Rounds 3-4:2026-08-19:GEN:KT",
+    "league": {
+      "id": "LCK21",
+      "name": "LCK",
+      "region": "KR"
+    },
+    "tournament": {
+      "id": "LCK 2026 Rounds 3-4",
+      "name": "LCK 2026 Rounds 3-4"
+    },
+    "stage": {
+      "id": "Rounds 3-4",
+      "name": "Rounds 3-4"
+    },
+    "team1Id": "GEN",
+    "team2Id": "KT",
+    "scheduledAt": "2026-08-19T08:00:00Z",
+    "status": "completed",
+    "bestOf": 3,
+    "score": {
+      "team1": 2,
+      "team2": 1
+    },
+    "sources": [
+      {
+        "source": "leaguepedia",
+        "kind": "raw_fixture",
+        "ref": "raw/leaguepedia/page_data_lck_rounds34.wikitext"
+      }
+    ],
+    "lastUpdatedAt": "2026-09-29",
+    "_warnings": [
+      "dst flag is 'yes' but KST is a fixed-offset zone in the curated mapping; the flag was ignored for the offset computation"
+    ],
+    "_provisional": {
+      "teamIdSource": "leaguepedia-team-code (canonical team IDs unresolved)",
+      "bestOfSource": "MatchSchedule/Start tab context (verified by played-game count)",
+      "idType": "deterministic synthetic series id"
+    }
+  },
+  {
+    "id": "lp:LCK 2026 Rounds 3-4:2026-08-19:HANJIN BRION:DN SOOPers",
+    "league": {
+      "id": "LCK21",
+      "name": "LCK",
+      "region": "KR"
+    },
+    "tournament": {
+      "id": "LCK 2026 Rounds 3-4",
+      "name": "LCK 2026 Rounds 3-4"
+    },
+    "stage": {
+      "id": "Rounds 3-4",
+      "name": "Rounds 3-4"
+    },
+    "team1Id": "HANJIN BRION",
+    "team2Id": "DN SOOPers",
+    "scheduledAt": "2026-08-19T10:00:00Z",
+    "status": "completed",
+    "bestOf": 3,
+    "score": {
+      "team1": 2,
+      "team2": 0
+    },
+    "sources": [
+      {
+        "source": "leaguepedia",
+        "kind": "raw_fixture",
+        "ref": "raw/leaguepedia/page_data_lck_rounds34.wikitext"
+      }
+    ],
+    "lastUpdatedAt": "2026-09-29",
+    "_warnings": [
+      "dst flag is 'yes' but KST is a fixed-offset zone in the curated mapping; the flag was ignored for the offset computation"
+    ],
+    "_provisional": {
+      "teamIdSource": "leaguepedia-team-code (canonical team IDs unresolved)",
+      "bestOfSource": "MatchSchedule/Start tab context (verified by played-game count)",
+      "idType": "deterministic synthetic series id"
+    }
+  },
+  {
+    "id": "lp:LCK 2026 Rounds 3-4:2026-08-20:DPLUS:HLE",
+    "league": {
+      "id": "LCK21",
+      "name": "LCK",
+      "region": "KR"
+    },
+    "tournament": {
+      "id": "LCK 2026 Rounds 3-4",
+      "name": "LCK 2026 Rounds 3-4"
+    },
+    "stage": {
+      "id": "Rounds 3-4",
+      "name": "Rounds 3-4"
+    },
+    "team1Id": "DPLUS",
+    "team2Id": "HLE",
+    "scheduledAt": "2026-08-20T08:00:00Z",
+    "status": "completed",
+    "bestOf": 3,
+    "score": {
+      "team1": 0,
+      "team2": 2
+    },
+    "sources": [
+      {
+        "source": "leaguepedia",
+        "kind": "raw_fixture",
+        "ref": "raw/leaguepedia/page_data_lck_rounds34.wikitext"
+      }
+    ],
+    "lastUpdatedAt": "2026-09-29",
+    "_warnings": [
+      "dst flag is 'yes' but KST is a fixed-offset zone in the curated mapping; the flag was ignored for the offset computation"
+    ],
+    "_provisional": {
+      "teamIdSource": "leaguepedia-team-code (canonical team IDs unresolved)",
+      "bestOfSource": "MatchSchedule/Start tab context (verified by played-game count)",
+      "idType": "deterministic synthetic series id"
+    }
+  },
+  {
+    "id": "lp:LCK 2026 Rounds 3-4:2026-08-20:NS:KRX",
+    "league": {
+      "id": "LCK21",
+      "name": "LCK",
+      "region": "KR"
+    },
+    "tournament": {
+      "id": "LCK 2026 Rounds 3-4",
+      "name": "LCK 2026 Rounds 3-4"
+    },
+    "stage": {
+      "id": "Rounds 3-4",
+      "name": "Rounds 3-4"
+    },
+    "team1Id": "NS",
+    "team2Id": "KRX",
+    "scheduledAt": "2026-08-20T10:00:00Z",
+    "status": "completed",
+    "bestOf": 3,
+    "score": {
+      "team1": 2,
+      "team2": 0
+    },
+    "sources": [
+      {
+        "source": "leaguepedia",
+        "kind": "raw_fixture",
+        "ref": "raw/leaguepedia/page_data_lck_rounds34.wikitext"
+      }
+    ],
+    "lastUpdatedAt": "2026-09-29",
+    "_warnings": [
+      "dst flag is 'yes' but KST is a fixed-offset zone in the curated mapping; the flag was ignored for the offset computation"
+    ],
+    "_provisional": {
+      "teamIdSource": "leaguepedia-team-code (canonical team IDs unresolved)",
+      "bestOfSource": "MatchSchedule/Start tab context (verified by played-game count)",
+      "idType": "deterministic synthetic series id"
+    }
+  },
+  {
+    "id": "lp:LCK 2026 Rounds 3-4:2026-08-21:HANJIN BRION:BNK FEARX",
+    "league": {
+      "id": "LCK21",
+      "name": "LCK",
+      "region": "KR"
+    },
+    "tournament": {
+      "id": "LCK 2026 Rounds 3-4",
+      "name": "LCK 2026 Rounds 3-4"
+    },
+    "stage": {
+      "id": "Rounds 3-4",
+      "name": "Rounds 3-4"
+    },
+    "team1Id": "HANJIN BRION",
+    "team2Id": "BNK FEARX",
+    "scheduledAt": "2026-08-21T08:00:00Z",
+    "status": "completed",
+    "bestOf": 3,
+    "score": {
+      "team1": 1,
+      "team2": 2
+    },
+    "sources": [
+      {
+        "source": "leaguepedia",
+        "kind": "raw_fixture",
+        "ref": "raw/leaguepedia/page_data_lck_rounds34.wikitext"
+      }
+    ],
+    "lastUpdatedAt": "2026-09-29",
+    "_warnings": [
+      "dst flag is 'yes' but KST is a fixed-offset zone in the curated mapping; the flag was ignored for the offset computation"
+    ],
+    "_provisional": {
+      "teamIdSource": "leaguepedia-team-code (canonical team IDs unresolved)",
+      "bestOfSource": "MatchSchedule/Start tab context (verified by played-game count)",
+      "idType": "deterministic synthetic series id"
+    }
+  },
+  {
+    "id": "lp:LCK 2026 Rounds 3-4:2026-08-21:KT:T1",
+    "league": {
+      "id": "LCK21",
+      "name": "LCK",
+      "region": "KR"
+    },
+    "tournament": {
+      "id": "LCK 2026 Rounds 3-4",
+      "name": "LCK 2026 Rounds 3-4"
+    },
+    "stage": {
+      "id": "Rounds 3-4",
+      "name": "Rounds 3-4"
+    },
+    "team1Id": "KT",
+    "team2Id": "T1",
+    "scheduledAt": "2026-08-21T10:00:00Z",
+    "status": "completed",
+    "bestOf": 3,
+    "score": {
+      "team1": 1,
+      "team2": 2
+    },
+    "sources": [
+      {
+        "source": "leaguepedia",
+        "kind": "raw_fixture",
+        "ref": "raw/leaguepedia/page_data_lck_rounds34.wikitext"
+      }
+    ],
+    "lastUpdatedAt": "2026-09-29",
+    "_warnings": [
+      "dst flag is 'yes' but KST is a fixed-offset zone in the curated mapping; the flag was ignored for the offset computation"
+    ],
+    "_provisional": {
+      "teamIdSource": "leaguepedia-team-code (canonical team IDs unresolved)",
+      "bestOfSource": "MatchSchedule/Start tab context (verified by played-game count)",
+      "idType": "deterministic synthetic series id"
+    }
+  },
+  {
+    "id": "lp:LCK 2026 Rounds 3-4:2026-08-22:DPLUS:GEN",
+    "league": {
+      "id": "LCK21",
+      "name": "LCK",
+      "region": "KR"
+    },
+    "tournament": {
+      "id": "LCK 2026 Rounds 3-4",
+      "name": "LCK 2026 Rounds 3-4"
+    },
+    "stage": {
+      "id": "Rounds 3-4",
+      "name": "Rounds 3-4"
+    },
+    "team1Id": "DPLUS",
+    "team2Id": "GEN",
+    "scheduledAt": "2026-08-22T08:00:00Z",
+    "status": "completed",
+    "bestOf": 3,
+    "score": {
+      "team1": 2,
+      "team2": 1
+    },
+    "sources": [
+      {
+        "source": "leaguepedia",
+        "kind": "raw_fixture",
+        "ref": "raw/leaguepedia/page_data_lck_rounds34.wikitext"
+      }
+    ],
+    "lastUpdatedAt": "2026-09-29",
+    "_warnings": [
+      "dst flag is 'yes' but KST is a fixed-offset zone in the curated mapping; the flag was ignored for the offset computation"
+    ],
+    "_provisional": {
+      "teamIdSource": "leaguepedia-team-code (canonical team IDs unresolved)",
+      "bestOfSource": "MatchSchedule/Start tab context (verified by played-game count)",
+      "idType": "deterministic synthetic series id"
+    }
+  },
+  {
+    "id": "lp:LCK 2026 Rounds 3-4:2026-08-22:DN SOOPers:KRX",
+    "league": {
+      "id": "LCK21",
+      "name": "LCK",
+      "region": "KR"
+    },
+    "tournament": {
+      "id": "LCK 2026 Rounds 3-4",
+      "name": "LCK 2026 Rounds 3-4"
+    },
+    "stage": {
+      "id": "Rounds 3-4",
+      "name": "Rounds 3-4"
+    },
+    "team1Id": "DN SOOPers",
+    "team2Id": "KRX",
+    "scheduledAt": "2026-08-22T10:00:00Z",
+    "status": "completed",
+    "bestOf": 3,
+    "score": {
+      "team1": 2,
+      "team2": 0
+    },
+    "sources": [
+      {
+        "source": "leaguepedia",
+        "kind": "raw_fixture",
+        "ref": "raw/leaguepedia/page_data_lck_rounds34.wikitext"
+      }
+    ],
+    "lastUpdatedAt": "2026-09-29",
+    "_warnings": [
+      "dst flag is 'yes' but KST is a fixed-offset zone in the curated mapping; the flag was ignored for the offset computation"
+    ],
+    "_provisional": {
+      "teamIdSource": "leaguepedia-team-code (canonical team IDs unresolved)",
+      "bestOfSource": "MatchSchedule/Start tab context (verified by played-game count)",
+      "idType": "deterministic synthetic series id"
+    }
+  },
+  {
+    "id": "lp:LCK 2026 Rounds 3-4:2026-08-23:HLE:T1",
+    "league": {
+      "id": "LCK21",
+      "name": "LCK",
+      "region": "KR"
+    },
+    "tournament": {
+      "id": "LCK 2026 Rounds 3-4",
+      "name": "LCK 2026 Rounds 3-4"
+    },
+    "stage": {
+      "id": "Rounds 3-4",
+      "name": "Rounds 3-4"
+    },
+    "team1Id": "HLE",
+    "team2Id": "T1",
+    "scheduledAt": "2026-08-23T08:00:00Z",
+    "status": "completed",
+    "bestOf": 3,
+    "score": {
+      "team1": 2,
+      "team2": 0
+    },
+    "sources": [
+      {
+        "source": "leaguepedia",
+        "kind": "raw_fixture",
+        "ref": "raw/leaguepedia/page_data_lck_rounds34.wikitext"
+      }
+    ],
+    "lastUpdatedAt": "2026-09-29",
+    "_warnings": [
+      "dst flag is 'yes' but KST is a fixed-offset zone in the curated mapping; the flag was ignored for the offset computation"
+    ],
+    "_provisional": {
+      "teamIdSource": "leaguepedia-team-code (canonical team IDs unresolved)",
+      "bestOfSource": "MatchSchedule/Start tab context (verified by played-game count)",
+      "idType": "deterministic synthetic series id"
+    }
+  },
+  {
+    "id": "lp:LCK 2026 Rounds 3-4:2026-08-23:BNK FEARX:NS",
+    "league": {
+      "id": "LCK21",
+      "name": "LCK",
+      "region": "KR"
+    },
+    "tournament": {
+      "id": "LCK 2026 Rounds 3-4",
+      "name": "LCK 2026 Rounds 3-4"
+    },
+    "stage": {
+      "id": "Rounds 3-4",
+      "name": "Rounds 3-4"
+    },
+    "team1Id": "BNK FEARX",
+    "team2Id": "NS",
+    "scheduledAt": "2026-08-23T10:00:00Z",
+    "status": "completed",
+    "bestOf": 3,
+    "score": {
+      "team1": 1,
+      "team2": 2
+    },
+    "sources": [
+      {
+        "source": "leaguepedia",
+        "kind": "raw_fixture",
+        "ref": "raw/leaguepedia/page_data_lck_rounds34.wikitext"
+      }
+    ],
+    "lastUpdatedAt": "2026-09-29",
+    "_warnings": [
+      "dst flag is 'yes' but KST is a fixed-offset zone in the curated mapping; the flag was ignored for the offset computation"
+    ],
+    "_provisional": {
+      "teamIdSource": "leaguepedia-team-code (canonical team IDs unresolved)",
+      "bestOfSource": "MatchSchedule/Start tab context (verified by played-game count)",
+      "idType": "deterministic synthetic series id"
+    }
+  }
+]
