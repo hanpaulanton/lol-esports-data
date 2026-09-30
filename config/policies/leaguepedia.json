@@ -1,0 +1,18 @@
+{
+  "source": "leaguepedia",
+  "termsUrl": "https://www.fandom.com/terms-of-use",
+  "lastReviewedAt": "2026-09-29",
+  "policyStatus": "review-pending-terms-unfetchable",
+  "collectionAllowed": true,
+  "reviewScope": {
+    "apiEndpoint": "https://lol.fandom.com/api.php",
+    "observed": {
+      "cargotables": "HTTP 200 OK",
+      "cargoquery": "HTTP 200 with JSON error ratelimited (repeatedly observed, including with exponential backoff)",
+      "api.php?action=query": "HTTP 200 OK (opensearch/search/allpages/revisions)",
+      "plain webpage fetch": "HTTP 403 (Cloudflare-style blocking of HTTP clients)",
+      "fandom ToS fetch": "HTTP 403 (both www.fandom.com/terms-of-use and lol.fandom.com/robots.txt)"
+    }
+  },
+  "notes": "The Fandom Terms of Use could not be fetched by this environment (403 on www.fandom.com and lol.fandom.com), so no terms hash baseline exists yet. Until a human reviews the ToS in a real browser, cargoquery usage stays low-frequency with exponential backoff, and only small manual samples are collected. The api.php?action=query path was observed working and is used for raw page/wikitext collection."
+}

@@ -1,0 +1,8 @@
+{
+  "checkedAt": "2026-09-29T00:00:00Z",
+  "source": "leaguepedia",
+  "termsUrl": "https://www.fandom.com/terms-of-use",
+  "contentHash": null,
+  "observedStatus": "SOURCE_UNAVAILABLE",
+  "notes": "Baseline snapshot recorded without a hash: Fandom returns 403 to this environment's HTTP clients for its ToS pages (www.fandom.com/terms-of-use and lol.fandom.com/robots.txt). A human must review the Fandom ToS in a real browser and then re-run the checker to record a real BASELINE hash. Collection remains low-frequency with backoff in the meantime."
+}

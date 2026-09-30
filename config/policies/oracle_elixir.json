@@ -1,0 +1,18 @@
+{
+  "source": "oracle_elixir",
+  "termsUrl": "https://oracleselixir.com/tools/downloads",
+  "lastReviewedAt": "2026-09-29",
+  "policyStatus": "active",
+  "collectionAllowed": true,
+  "reviewScope": {
+    "verifiedInBrowser": true,
+    "observedWording": {
+      "freeOfCharge": "All data has been aggregated and released by Tim Sevenhuysen of OraclesElixir.com. It is provided free of charge, and is intended for use by analysts, commentators, and fans.",
+      "updateFrequency": "Data files are updated ONCE PER DAY. There is no value in downloading the files more frequently than this.",
+      "ownership": "Game statistics are the property of Riot Games, and any usage of such data must follow Riot Games' terms and policies.",
+      "sourceContent": "Some content is provided courtesy of Leaguepedia, under a CC-BY-SA 3.0 license.",
+      "endorsement": "Oracle's Elixir isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games..."
+    }
+  },
+  "notes": "Attribution requirement: no explicit mandatory attribution clause was observed on the downloads page; the page asks users to follow Riot Games' terms and policies and optionally supports the site on Patreon. Distribution license of the CSV files themselves is not explicitly stated on the page (recorded as UNCONFIRMED). Collection must not exceed once per day."
+}

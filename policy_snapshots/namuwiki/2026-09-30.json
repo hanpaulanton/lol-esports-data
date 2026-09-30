@@ -1,0 +1,8 @@
+{
+  "checkedAt": "2026-09-30T00:00:00Z",
+  "source": "namuwiki",
+  "termsUrl": "https://namu.wiki/Policy",
+  "contentHash": null,
+  "observedStatus": "BASELINE_PARTIAL",
+  "notes": "Baseline snapshot covers robots.txt only (sha256 6490ef1fb73482a3802d2d020585054257fc5351efe9254d8885e52254f8d0be, fetched 2026-09-29, saved to phase18nw-test/namu-robots-snapshot.txt). The terms page (https://namu.wiki/Policy) is client-rendered inside an iframe and only sections 1.1-2.5 could be reviewed in-browser (2026-09-30); sections 3.x onward are UNKNOWN. contentHash for the rendered terms is therefore not recorded — a full terms review in a real browser is required before any collection is enabled."
+}

@@ -1,0 +1,7 @@
+{
+  "error": {
+    "code": "internal_api_error_MWException",
+    "info": "[89e93f5b7ab7a3ecf1cbdf4f7e8bbb7e] Caught exception of type MWException",
+    "errorclass": "MWException"
+  }
+}

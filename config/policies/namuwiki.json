@@ -1,0 +1,33 @@
+{
+  "source": "namuwiki",
+  "role": "REFERENCE",
+  "enabled": false,
+  "canonicalDataAllowed": false,
+  "teamIdentityVerification": false,
+  "matchScheduleVerification": false,
+  "matchResultVerification": false,
+  "automatedCollection": "PENDING_POLICY_REVIEW",
+  "redistribution": "PENDING_LICENSE_REVIEW",
+  "humanReviewRequired": true,
+  "checkedAt": "2026-09-30T01:46:21+03:00",
+  "termsUrl": "https://namu.wiki/Policy",
+  "robotsUrl": "https://namu.wiki/robots.txt",
+  "license": {
+    "name": "CC BY-NC-SA 2.0 KR",
+    "source": "나무위키:기본방침/표기방침 (https://namu.wiki/w/나무위키:기본방침, fetched 2026-09-29)",
+    "scope": "문서 텍스트 기본 라이선스; 이미지는 별도 라이선스; 일부 문서/삽화 제외",
+    "implications": {
+      "nonCommercialRestriction": "project is non-commercial -> compatible on its face; legal conclusion NOT drawn",
+      "shareAlikeRestriction": "NamuWiki-derived content redistributed (e.g. JSON on GitHub Pages) would likely need to carry CC BY-NC-SA 2.0 KR -> mixes with other source licenses -> LEGAL_REVIEW_REQUIRED"
+    }
+  },
+  "notes": [
+    "Draft only: this policy is inactive; NamuWiki data has not been collected into the pipeline.",
+    "robots.txt (2026-09-29 fetch, HTTP 200, sha256 6490ef1f...8d0be): User-agent * -> Disallow:/ with an Allow whitelist including /w/, /history/, /Search, /discuss/, /sidebar.json; /api is NOT in the allow list.",
+    "이용자 관리 방침 4.2: 봇 계정 규정은 '자동적인 방법으로 문서를 편집'하는 자동화를 규율 (approval via 문의 게시판 required; 4.2.1). No read/API collection terms were found in 기본방침 or 이용자 관리 방침.",
+    "이용약관(Términos de uso, 운영사 umanle S.R.L.): served at https://namu.wiki/Policy as a client-rendered page (Spanish). Sections 1.1-2.5 rendered and reviewed (non-profit collaboration site, tacit acceptance); sections beyond 2.5 could not be rendered with in-page scrolling -> automated-collection and scraping clauses are UNKNOWN.",
+    "Site footer states protection by reCAPTCHA and hCaptcha (observed).",
+    "Data quality observation (T1 document, rendered 2026-09-30): prose-style document; former names (SK telecom T1 / SKT T1 lineage) and history appear in prose; no structured alias/short-name/former-name fields; no match schedule/result/score/game-id data observed.",
+    "Documents vary in accessibility: policy meta pages returned HTTP 200 to plain HTTP clients, but the T1(프로게임단) document returned 404 (does not exist) and /w/T1 required a real browser render. Some popular documents may be protected (unconfirmed)."
+  ]
+}

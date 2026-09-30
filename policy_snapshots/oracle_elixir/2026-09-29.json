@@ -1,0 +1,8 @@
+{
+  "checkedAt": "2026-09-29T18:20:00Z",
+  "source": "oracle_elixir",
+  "termsUrl": "https://oracleselixir.com/tools/downloads",
+  "contentHash": "4cc878d0edc9c126617f4467a3ec390e3cd276edab114678474682b93ca11841",
+  "observedStatus": "BASELINE",
+  "notes": "BASELINE hash of the served HTML shell (HTTP 200, 4229 bytes). The page is client-rendered: the meaningful terms wording (free of charge / once per day updates / Riot ownership of game statistics / Leaguepedia CC-BY-SA content) was verified separately in a real browser on 2026-09-29 and is recorded in config/policies/oracle_elixir.json. The shell hash detects changes to the served bytes only; visible wording changes may require a periodic manual browser review."
+}
