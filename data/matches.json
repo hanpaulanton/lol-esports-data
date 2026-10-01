@@ -19,7 +19,104 @@
       "region": "INT"
     }
   ],
-  "teams": [],
+  "teams": [
+    {
+      "id": "team-t1",
+      "name": "T1",
+      "shortName": "T1",
+      "region": "KR",
+      "aliases": [
+        "T1"
+      ]
+    },
+    {
+      "id": "team-geng",
+      "name": "Gen.G",
+      "shortName": "GEN",
+      "region": "KR",
+      "aliases": [
+        "GEN",
+        "Gen.G"
+      ]
+    },
+    {
+      "id": "team-kt",
+      "name": "KT Rolster",
+      "shortName": "KT",
+      "region": "KR",
+      "aliases": [
+        "KT",
+        "KT Rolster"
+      ]
+    },
+    {
+      "id": "team-hle",
+      "name": "Hanwha Life Esports",
+      "shortName": "HLE",
+      "region": "KR",
+      "aliases": [
+        "HLE",
+        "Hanwha Life Esports"
+      ]
+    },
+    {
+      "id": "team-dk",
+      "name": "Dplus Kia",
+      "shortName": "DPLUS",
+      "region": "KR",
+      "aliases": [
+        "DPLUS",
+        "Dplus Kia"
+      ]
+    },
+    {
+      "id": "team-krx",
+      "name": "Kiwoom DRX",
+      "shortName": "KRX",
+      "region": "KR",
+      "aliases": [
+        "KRX",
+        "Kiwoom DRX"
+      ]
+    },
+    {
+      "id": "team-ns",
+      "name": "Nongshim RedForce",
+      "shortName": "NS",
+      "region": "KR",
+      "aliases": [
+        "NS",
+        "Nongshim RedForce"
+      ]
+    },
+    {
+      "id": "team-dn-soopers",
+      "name": "DN SOOPers",
+      "shortName": "DN SOOPers",
+      "region": "KR",
+      "aliases": [
+        "DN SOOPers"
+      ]
+    },
+    {
+      "id": "team-bnk-fearx",
+      "name": "BNK FEARX",
+      "shortName": "BNK FEARX",
+      "region": "KR",
+      "aliases": [
+        "BNK FEARX"
+      ]
+    },
+    {
+      "id": "team-hanjin-brion",
+      "name": "HANJIN BRION",
+      "shortName": "HANJIN BRION",
+      "region": "KR",
+      "aliases": [
+        "HANJIN BRION"
+      ]
+    }
+  ],
   "matches": [
     {
       "id": "lp:LCK 2026 Rounds 3-4:2026-07-29:KRX:NS",
@@ -36,8 +133,8 @@
         "id": "Rounds 3-4",
         "name": "Rounds 3-4"
       },
-      "team1Id": "KRX",
-      "team2Id": "NS",
+      "team1Id": "team-krx",
+      "team2Id": "team-ns",
       "scheduledAt": "2026-07-29T08:00:00Z",
       "status": "completed",
       "bestOf": 3,
@@ -77,8 +174,8 @@
         "id": "Rounds 3-4",
         "name": "Rounds 3-4"
       },
-      "team1Id": "T1",
-      "team2Id": "KT",
+      "team1Id": "team-t1",
+      "team2Id": "team-kt",
       "scheduledAt": "2026-07-29T10:00:00Z",
       "status": "completed",
       "bestOf": 3,
@@ -118,8 +215,8 @@
         "id": "Rounds 3-4",
         "name": "Rounds 3-4"
       },
-      "team1Id": "DN SOOPers",
-      "team2Id": "BNK FEARX",
+      "team1Id": "team-dn-soopers",
+      "team2Id": "team-bnk-fearx",
       "scheduledAt": "2026-07-30T08:00:00Z",
       "status": "completed",
       "bestOf": 3,
@@ -159,8 +256,8 @@
         "id": "Rounds 3-4",
         "name": "Rounds 3-4"
       },
-      "team1Id": "HLE",
-      "team2Id": "DPLUS",
+      "team1Id": "team-hle",
+      "team2Id": "team-dk",
       "scheduledAt": "2026-07-30T10:00:00Z",
       "status": "completed",
       "bestOf": 3,
@@ -200,8 +297,8 @@
         "id": "Rounds 3-4",
         "name": "Rounds 3-4"
       },
-      "team1Id": "GEN",
-      "team2Id": "T1",
+      "team1Id": "team-geng",
+      "team2Id": "team-t1",
       "scheduledAt": "2026-07-31T08:00:00Z",
       "status": "completed",
       "bestOf": 3,
@@ -241,8 +338,8 @@
         "id": "Rounds 3-4",
         "name": "Rounds 3-4"
       },
-      "team1Id": "HANJIN BRION",
-      "team2Id": "KRX",
+      "team1Id": "team-hanjin-brion",
+      "team2Id": "team-krx",
       "scheduledAt": "2026-07-31T10:00:00Z",
       "status": "completed",
       "bestOf": 3,
@@ -282,8 +379,8 @@
         "id": "Rounds 3-4",
         "name": "Rounds 3-4"
       },
-      "team1Id": "NS",
-      "team2Id": "BNK FEARX",
+      "team1Id": "team-ns",
+      "team2Id": "team-bnk-fearx",
       "scheduledAt": "2026-08-01T08:00:00Z",
       "status": "completed",
       "bestOf": 3,
@@ -323,8 +420,8 @@
         "id": "Rounds 3-4",
         "name": "Rounds 3-4"
       },
-      "team1Id": "GEN",
-      "team2Id": "DPLUS",
+      "team1Id": "team-geng",
+      "team2Id": "team-dk",
       "scheduledAt": "2026-08-01T10:00:00Z",
       "status": "completed",
       "bestOf": 3,
@@ -364,8 +461,8 @@
         "id": "Rounds 3-4",
         "name": "Rounds 3-4"
       },
-      "team1Id": "DN SOOPers",
-      "team2Id": "HANJIN BRION",
+      "team1Id": "team-dn-soopers",
+      "team2Id": "team-hanjin-brion",
       "scheduledAt": "2026-08-02T08:00:00Z",
       "status": "completed",
       "bestOf": 3,
@@ -405,8 +502,8 @@
         "id": "Rounds 3-4",
         "name": "Rounds 3-4"
       },
-      "team1Id": "KT",
-      "team2Id": "HLE",
+      "team1Id": "team-kt",
+      "team2Id": "team-hle",
       "scheduledAt": "2026-08-02T10:00:00Z",
       "status": "completed",
       "bestOf": 3,
@@ -446,8 +543,8 @@
         "id": "Rounds 3-4",
         "name": "Rounds 3-4"
       },
-      "team1Id": "HANJIN BRION",
-      "team2Id": "NS",
+      "team1Id": "team-hanjin-brion",
+      "team2Id": "team-ns",
       "scheduledAt": "2026-08-05T08:00:00Z",
       "status": "completed",
       "bestOf": 3,
@@ -487,8 +584,8 @@
         "id": "Rounds 3-4",
         "name": "Rounds 3-4"
       },
-      "team1Id": "HLE",
-      "team2Id": "GEN",
+      "team1Id": "team-hle",
+      "team2Id": "team-geng",
       "scheduledAt": "2026-08-05T10:00:00Z",
       "status": "completed",
       "bestOf": 3,
@@ -528,8 +625,8 @@
         "id": "Rounds 3-4",
         "name": "Rounds 3-4"
       },
-      "team1Id": "KRX",
-      "team2Id": "DN SOOPers",
+      "team1Id": "team-krx",
+      "team2Id": "team-dn-soopers",
       "scheduledAt": "2026-08-06T08:00:00Z",
       "status": "completed",
       "bestOf": 3,
@@ -569,8 +666,8 @@
         "id": "Rounds 3-4",
         "name": "Rounds 3-4"
       },
-      "team1Id": "DPLUS",
-      "team2Id": "T1",
+      "team1Id": "team-dk",
+      "team2Id": "team-t1",
       "scheduledAt": "2026-08-06T10:00:00Z",
       "status": "completed",
       "bestOf": 3,
@@ -610,8 +707,8 @@
         "id": "Rounds 3-4",
         "name": "Rounds 3-4"
       },
-      "team1Id": "KT",
-      "team2Id": "GEN",
+      "team1Id": "team-kt",
+      "team2Id": "team-geng",
       "scheduledAt": "2026-08-07T08:00:00Z",
       "status": "completed",
       "bestOf": 3,
@@ -651,8 +748,8 @@
         "id": "Rounds 3-4",
         "name": "Rounds 3-4"
       },
-      "team1Id": "BNK FEARX",
-      "team2Id": "HANJIN BRION",
+      "team1Id": "team-bnk-fearx",
+      "team2Id": "team-hanjin-brion",
       "scheduledAt": "2026-08-07T10:00:00Z",
       "status": "completed",
       "bestOf": 3,
@@ -692,8 +789,8 @@
         "id": "Rounds 3-4",
         "name": "Rounds 3-4"
       },
-      "team1Id": "T1",
-      "team2Id": "HLE",
+      "team1Id": "team-t1",
+      "team2Id": "team-hle",
       "scheduledAt": "2026-08-08T08:00:00Z",
       "status": "completed",
       "bestOf": 3,
@@ -733,8 +830,8 @@
         "id": "Rounds 3-4",
         "name": "Rounds 3-4"
       },
-      "team1Id": "NS",
-      "team2Id": "DN SOOPers",
+      "team1Id": "team-ns",
+      "team2Id": "team-dn-soopers",
       "scheduledAt": "2026-08-08T10:00:00Z",
       "status": "completed",
       "bestOf": 3,
@@ -774,8 +871,8 @@
         "id": "Rounds 3-4",
         "name": "Rounds 3-4"
       },
-      "team1Id": "DPLUS",
-      "team2Id": "KT",
+      "team1Id": "team-dk",
+      "team2Id": "team-kt",
       "scheduledAt": "2026-08-09T08:00:00Z",
       "status": "completed",
       "bestOf": 3,
@@ -815,8 +912,8 @@
         "id": "Rounds 3-4",
         "name": "Rounds 3-4"
       },
-      "team1Id": "BNK FEARX",
-      "team2Id": "KRX",
+      "team1Id": "team-bnk-fearx",
+      "team2Id": "team-krx",
       "scheduledAt": "2026-08-09T10:00:00Z",
       "status": "completed",
       "bestOf": 3,
@@ -856,8 +953,8 @@
         "id": "Rounds 3-4",
         "name": "Rounds 3-4"
       },
-      "team1Id": "DN SOOPers",
-      "team2Id": "NS",
+      "team1Id": "team-dn-soopers",
+      "team2Id": "team-ns",
       "scheduledAt": "2026-08-12T08:00:00Z",
       "status": "completed",
       "bestOf": 3,
@@ -897,8 +994,8 @@
         "id": "Rounds 3-4",
         "name": "Rounds 3-4"
       },
-      "team1Id": "KT",
-      "team2Id": "DPLUS",
+      "team1Id": "team-kt",
+      "team2Id": "team-dk",
       "scheduledAt": "2026-08-12T10:00:00Z",
       "status": "completed",
       "bestOf": 3,
@@ -938,8 +1035,8 @@
         "id": "Rounds 3-4",
         "name": "Rounds 3-4"
       },
-      "team1Id": "KRX",
-      "team2Id": "BNK FEARX",
+      "team1Id": "team-krx",
+      "team2Id": "team-bnk-fearx",
       "scheduledAt": "2026-08-13T08:00:00Z",
       "status": "completed",
       "bestOf": 3,
@@ -979,8 +1076,8 @@
         "id": "Rounds 3-4",
         "name": "Rounds 3-4"
       },
-      "team1Id": "GEN",
-      "team2Id": "HLE",
+      "team1Id": "team-geng",
+      "team2Id": "team-hle",
       "scheduledAt": "2026-08-13T10:00:00Z",
       "status": "completed",
       "bestOf": 3,
@@ -1020,8 +1117,8 @@
         "id": "Rounds 3-4",
         "name": "Rounds 3-4"
       },
-      "team1Id": "T1",
-      "team2Id": "DPLUS",
+      "team1Id": "team-t1",
+      "team2Id": "team-dk",
       "scheduledAt": "2026-08-14T08:00:00Z",
       "status": "completed",
       "bestOf": 3,
@@ -1061,8 +1158,8 @@
         "id": "Rounds 3-4",
         "name": "Rounds 3-4"
       },
-      "team1Id": "NS",
-      "team2Id": "HANJIN BRION",
+      "team1Id": "team-ns",
+      "team2Id": "team-hanjin-brion",
       "scheduledAt": "2026-08-14T10:00:00Z",
       "status": "completed",
       "bestOf": 3,
@@ -1102,8 +1199,8 @@
         "id": "Rounds 3-4",
         "name": "Rounds 3-4"
       },
-      "team1Id": "HLE",
-      "team2Id": "KT",
+      "team1Id": "team-hle",
+      "team2Id": "team-kt",
       "scheduledAt": "2026-08-15T08:00:00Z",
       "status": "completed",
       "bestOf": 3,
@@ -1143,8 +1240,8 @@
         "id": "Rounds 3-4",
         "name": "Rounds 3-4"
       },
-      "team1Id": "BNK FEARX",
-      "team2Id": "DN SOOPers",
+      "team1Id": "team-bnk-fearx",
+      "team2Id": "team-dn-soopers",
       "scheduledAt": "2026-08-15T10:00:00Z",
       "status": "completed",
       "bestOf": 3,
@@ -1184,8 +1281,8 @@
         "id": "Rounds 3-4",
         "name": "Rounds 3-4"
       },
-      "team1Id": "T1",
-      "team2Id": "GEN",
+      "team1Id": "team-t1",
+      "team2Id": "team-geng",
       "scheduledAt": "2026-08-16T08:00:00Z",
       "status": "completed",
       "bestOf": 3,
@@ -1225,8 +1322,8 @@
         "id": "Rounds 3-4",
         "name": "Rounds 3-4"
       },
-      "team1Id": "KRX",
-      "team2Id": "HANJIN BRION",
+      "team1Id": "team-krx",
+      "team2Id": "team-hanjin-brion",
       "scheduledAt": "2026-08-16T10:00:00Z",
       "status": "completed",
       "bestOf": 3,
@@ -1266,8 +1363,8 @@
         "id": "Rounds 3-4",
         "name": "Rounds 3-4"
       },
-      "team1Id": "GEN",
-      "team2Id": "KT",
+      "team1Id": "team-geng",
+      "team2Id": "team-kt",
       "scheduledAt": "2026-08-19T08:00:00Z",
       "status": "completed",
       "bestOf": 3,
@@ -1307,8 +1404,8 @@
         "id": "Rounds 3-4",
         "name": "Rounds 3-4"
       },
-      "team1Id": "HANJIN BRION",
-      "team2Id": "DN SOOPers",
+      "team1Id": "team-hanjin-brion",
+      "team2Id": "team-dn-soopers",
       "scheduledAt": "2026-08-19T10:00:00Z",
       "status": "completed",
       "bestOf": 3,
@@ -1348,8 +1445,8 @@
         "id": "Rounds 3-4",
         "name": "Rounds 3-4"
       },
-      "team1Id": "DPLUS",
-      "team2Id": "HLE",
+      "team1Id": "team-dk",
+      "team2Id": "team-hle",
       "scheduledAt": "2026-08-20T08:00:00Z",
       "status": "completed",
       "bestOf": 3,
@@ -1389,8 +1486,8 @@
         "id": "Rounds 3-4",
         "name": "Rounds 3-4"
       },
-      "team1Id": "NS",
-      "team2Id": "KRX",
+      "team1Id": "team-ns",
+      "team2Id": "team-krx",
       "scheduledAt": "2026-08-20T10:00:00Z",
       "status": "completed",
       "bestOf": 3,
@@ -1430,8 +1527,8 @@
         "id": "Rounds 3-4",
         "name": "Rounds 3-4"
       },
-      "team1Id": "HANJIN BRION",
-      "team2Id": "BNK FEARX",
+      "team1Id": "team-hanjin-brion",
+      "team2Id": "team-bnk-fearx",
       "scheduledAt": "2026-08-21T08:00:00Z",
       "status": "completed",
       "bestOf": 3,
@@ -1471,8 +1568,8 @@
         "id": "Rounds 3-4",
         "name": "Rounds 3-4"
       },
-      "team1Id": "KT",
-      "team2Id": "T1",
+      "team1Id": "team-kt",
+      "team2Id": "team-t1",
       "scheduledAt": "2026-08-21T10:00:00Z",
       "status": "completed",
       "bestOf": 3,
@@ -1512,8 +1609,8 @@
         "id": "Rounds 3-4",
         "name": "Rounds 3-4"
       },
-      "team1Id": "DPLUS",
-      "team2Id": "GEN",
+      "team1Id": "team-dk",
+      "team2Id": "team-geng",
       "scheduledAt": "2026-08-22T08:00:00Z",
       "status": "completed",
       "bestOf": 3,
@@ -1553,8 +1650,8 @@
         "id": "Rounds 3-4",
         "name": "Rounds 3-4"
       },
-      "team1Id": "DN SOOPers",
-      "team2Id": "KRX",
+      "team1Id": "team-dn-soopers",
+      "team2Id": "team-krx",
       "scheduledAt": "2026-08-22T10:00:00Z",
       "status": "completed",
       "bestOf": 3,
@@ -1594,8 +1691,8 @@
         "id": "Rounds 3-4",
         "name": "Rounds 3-4"
       },
-      "team1Id": "HLE",
-      "team2Id": "T1",
+      "team1Id": "team-hle",
+      "team2Id": "team-t1",
       "scheduledAt": "2026-08-23T08:00:00Z",
       "status": "completed",
       "bestOf": 3,
@@ -1635,8 +1732,8 @@
         "id": "Rounds 3-4",
         "name": "Rounds 3-4"
       },
-      "team1Id": "BNK FEARX",
-      "team2Id": "NS",
+      "team1Id": "team-bnk-fearx",
+      "team2Id": "team-ns",
       "scheduledAt": "2026-08-23T10:00:00Z",
       "status": "completed",
       "bestOf": 3,
