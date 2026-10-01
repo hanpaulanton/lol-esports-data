@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "2026.10.01.03",
-  "generatedAt": "2026-10-01T06:50:26Z",
+  "dataVersion": "2026.10.01.04",
+  "generatedAt": "2026-10-01T08:57:58Z",
   "leagues": [
     {
       "id": "LCK21",
@@ -2081,9 +2081,12 @@
       "team1Id": "team-big",
       "team2Id": "team-snsh",
       "scheduledAt": "2026-09-30T13:00:00Z",
-      "status": "scheduled",
+      "status": "completed",
       "bestOf": 1,
-      "score": null,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
       "sources": [
         {
           "source": "leaguepedia",
@@ -2091,7 +2094,7 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-10-01T03:55:31Z",
+      "lastUpdatedAt": "2026-10-01T08:57:58Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -2115,7 +2118,7 @@
         "gameBlockCount": 1,
         "rpgidCount": {
           "total": 1,
-          "nonEmpty": 0
+          "nonEmpty": 1
         },
         "timeRaw": {
           "date": "2026-09-30",
@@ -2144,9 +2147,12 @@
       "team1Id": "team-bushido-wildcats",
       "team2Id": "team-magaza",
       "scheduledAt": "2026-09-30T13:00:00Z",
-      "status": "scheduled",
+      "status": "completed",
       "bestOf": 1,
-      "score": null,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
       "sources": [
         {
           "source": "leaguepedia",
@@ -2154,7 +2160,7 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-10-01T03:55:31Z",
+      "lastUpdatedAt": "2026-10-01T08:57:58Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -2178,7 +2184,7 @@
         "gameBlockCount": 1,
         "rpgidCount": {
           "total": 1,
-          "nonEmpty": 0
+          "nonEmpty": 1
         },
         "timeRaw": {
           "date": "2026-09-30",
@@ -2207,9 +2213,12 @@
       "team1Id": "team-fec",
       "team2Id": "team-otter-side",
       "scheduledAt": "2026-09-30T13:00:00Z",
-      "status": "scheduled",
+      "status": "completed",
       "bestOf": 1,
-      "score": null,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
       "sources": [
         {
           "source": "leaguepedia",
@@ -2217,7 +2226,7 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-10-01T03:55:31Z",
+      "lastUpdatedAt": "2026-10-01T08:57:58Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -2241,7 +2250,7 @@
         "gameBlockCount": 1,
         "rpgidCount": {
           "total": 1,
-          "nonEmpty": 0
+          "nonEmpty": 1
         },
         "timeRaw": {
           "date": "2026-09-30",
@@ -2270,9 +2279,12 @@
       "team1Id": "team-pcific-esports",
       "team2Id": "team-ruddy-corporation",
       "scheduledAt": "2026-09-30T14:00:00Z",
-      "status": "scheduled",
+      "status": "completed",
       "bestOf": 1,
-      "score": null,
+      "score": {
+        "team1": 0,
+        "team2": 1
+      },
       "sources": [
         {
           "source": "leaguepedia",
@@ -2280,7 +2292,7 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-10-01T03:55:31Z",
+      "lastUpdatedAt": "2026-10-01T08:57:58Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -2304,7 +2316,7 @@
         "gameBlockCount": 1,
         "rpgidCount": {
           "total": 1,
-          "nonEmpty": 0
+          "nonEmpty": 1
         },
         "timeRaw": {
           "date": "2026-09-30",
@@ -2333,9 +2345,12 @@
       "team1Id": "team-jsk-esports",
       "team2Id": "team-skillcamp",
       "scheduledAt": "2026-09-30T14:00:00Z",
-      "status": "scheduled",
+      "status": "completed",
       "bestOf": 1,
-      "score": null,
+      "score": {
+        "team1": 0,
+        "team2": 1
+      },
       "sources": [
         {
           "source": "leaguepedia",
@@ -2343,7 +2358,7 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-10-01T03:55:31Z",
+      "lastUpdatedAt": "2026-10-01T08:57:58Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -2367,7 +2382,7 @@
         "gameBlockCount": 1,
         "rpgidCount": {
           "total": 1,
-          "nonEmpty": 0
+          "nonEmpty": 1
         },
         "timeRaw": {
           "date": "2026-09-30",
@@ -2396,9 +2411,12 @@
       "team1Id": "team-colossal-gaming",
       "team2Id": "team-lodis-pl",
       "scheduledAt": "2026-09-30T14:00:00Z",
-      "status": "scheduled",
+      "status": "completed",
       "bestOf": 1,
-      "score": null,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
       "sources": [
         {
           "source": "leaguepedia",
@@ -2406,7 +2424,7 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-10-01T03:55:31Z",
+      "lastUpdatedAt": "2026-10-01T08:57:58Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -2430,7 +2448,7 @@
         "gameBlockCount": 1,
         "rpgidCount": {
           "total": 1,
-          "nonEmpty": 0
+          "nonEmpty": 1
         },
         "timeRaw": {
           "date": "2026-09-30",
@@ -2459,9 +2477,12 @@
       "team1Id": "team-tln-pirates",
       "team2Id": "team-valerion",
       "scheduledAt": "2026-09-30T15:00:00Z",
-      "status": "scheduled",
+      "status": "completed",
       "bestOf": 3,
-      "score": null,
+      "score": {
+        "team1": 2,
+        "team2": 0
+      },
       "sources": [
         {
           "source": "leaguepedia",
@@ -2469,7 +2490,7 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-10-01T03:55:31Z",
+      "lastUpdatedAt": "2026-10-01T08:57:58Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -2492,8 +2513,8 @@
         "bestOfSource": "row-level bestof",
         "gameBlockCount": 3,
         "rpgidCount": {
-          "total": 3,
-          "nonEmpty": 0
+          "total": 2,
+          "nonEmpty": 2
         },
         "timeRaw": {
           "date": "2026-09-30",
@@ -2522,9 +2543,12 @@
       "team1Id": "team-khk",
       "team2Id": "team-uol-se",
       "scheduledAt": "2026-09-30T15:00:00Z",
-      "status": "scheduled",
+      "status": "completed",
       "bestOf": 3,
-      "score": null,
+      "score": {
+        "team1": 2,
+        "team2": 0
+      },
       "sources": [
         {
           "source": "leaguepedia",
@@ -2532,7 +2556,7 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-10-01T03:55:31Z",
+      "lastUpdatedAt": "2026-10-01T08:57:58Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -2555,8 +2579,8 @@
         "bestOfSource": "row-level bestof",
         "gameBlockCount": 3,
         "rpgidCount": {
-          "total": 3,
-          "nonEmpty": 0
+          "total": 2,
+          "nonEmpty": 2
         },
         "timeRaw": {
           "date": "2026-09-30",
@@ -2585,9 +2609,12 @@
       "team1Id": "team-hmble",
       "team2Id": "team-barca",
       "scheduledAt": "2026-09-30T15:00:00Z",
-      "status": "scheduled",
+      "status": "completed",
       "bestOf": 3,
-      "score": null,
+      "score": {
+        "team1": 0,
+        "team2": 2
+      },
       "sources": [
         {
           "source": "leaguepedia",
@@ -2595,7 +2622,7 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-10-01T03:55:31Z",
+      "lastUpdatedAt": "2026-10-01T08:57:58Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -2618,8 +2645,8 @@
         "bestOfSource": "row-level bestof",
         "gameBlockCount": 3,
         "rpgidCount": {
-          "total": 3,
-          "nonEmpty": 0
+          "total": 2,
+          "nonEmpty": 2
         },
         "timeRaw": {
           "date": "2026-09-30",
@@ -2648,9 +2675,12 @@
       "team1Id": "team-esb",
       "team2Id": "team-ucam-esports",
       "scheduledAt": "2026-09-30T15:00:00Z",
-      "status": "scheduled",
+      "status": "completed",
       "bestOf": 3,
-      "score": null,
+      "score": {
+        "team1": 1,
+        "team2": 2
+      },
       "sources": [
         {
           "source": "leaguepedia",
@@ -2658,7 +2688,7 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-10-01T03:55:31Z",
+      "lastUpdatedAt": "2026-10-01T08:57:58Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -2682,7 +2712,7 @@
         "gameBlockCount": 3,
         "rpgidCount": {
           "total": 3,
-          "nonEmpty": 0
+          "nonEmpty": 3
         },
         "timeRaw": {
           "date": "2026-09-30",
@@ -2711,9 +2741,12 @@
       "team1Id": "team-g2-nord",
       "team2Id": "team-bomba-team",
       "scheduledAt": "2026-09-30T18:00:00Z",
-      "status": "scheduled",
+      "status": "completed",
       "bestOf": 3,
-      "score": null,
+      "score": {
+        "team1": 2,
+        "team2": 0
+      },
       "sources": [
         {
           "source": "leaguepedia",
@@ -2721,7 +2754,7 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-10-01T03:55:31Z",
+      "lastUpdatedAt": "2026-10-01T08:57:58Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -2744,8 +2777,8 @@
         "bestOfSource": "row-level bestof",
         "gameBlockCount": 3,
         "rpgidCount": {
-          "total": 3,
-          "nonEmpty": 0
+          "total": 2,
+          "nonEmpty": 2
         },
         "timeRaw": {
           "date": "2026-09-30",
@@ -2774,9 +2807,12 @@
       "team1Id": "team-hrts-a",
       "team2Id": "team-nightbirds",
       "scheduledAt": "2026-09-30T18:00:00Z",
-      "status": "scheduled",
+      "status": "completed",
       "bestOf": 3,
-      "score": null,
+      "score": {
+        "team1": 2,
+        "team2": 1
+      },
       "sources": [
         {
           "source": "leaguepedia",
@@ -2784,7 +2820,7 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-10-01T03:55:31Z",
+      "lastUpdatedAt": "2026-10-01T08:57:58Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -2808,7 +2844,7 @@
         "gameBlockCount": 3,
         "rpgidCount": {
           "total": 3,
-          "nonEmpty": 0
+          "nonEmpty": 3
         },
         "timeRaw": {
           "date": "2026-09-30",
@@ -2837,9 +2873,12 @@
       "team1Id": "team-phantasma",
       "team2Id": "team-gmce",
       "scheduledAt": "2026-09-30T18:00:00Z",
-      "status": "scheduled",
+      "status": "completed",
       "bestOf": 3,
-      "score": null,
+      "score": {
+        "team1": 2,
+        "team2": 1
+      },
       "sources": [
         {
           "source": "leaguepedia",
@@ -2847,7 +2886,7 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-10-01T03:55:31Z",
+      "lastUpdatedAt": "2026-10-01T08:57:58Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -2871,7 +2910,7 @@
         "gameBlockCount": 3,
         "rpgidCount": {
           "total": 3,
-          "nonEmpty": 0
+          "nonEmpty": 3
         },
         "timeRaw": {
           "date": "2026-09-30",
@@ -2900,9 +2939,12 @@
       "team1Id": "team-tsc-hr",
       "team2Id": "team-su-esports",
       "scheduledAt": "2026-09-30T18:00:00Z",
-      "status": "scheduled",
+      "status": "completed",
       "bestOf": 3,
-      "score": null,
+      "score": {
+        "team1": 2,
+        "team2": 0
+      },
       "sources": [
         {
           "source": "leaguepedia",
@@ -2910,7 +2952,7 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-10-01T03:55:31Z",
+      "lastUpdatedAt": "2026-10-01T08:57:58Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -2933,7 +2975,7 @@
         "bestOfSource": "row-level bestof",
         "gameBlockCount": 3,
         "rpgidCount": {
-          "total": 3,
+          "total": 0,
           "nonEmpty": 0
         },
         "timeRaw": {
