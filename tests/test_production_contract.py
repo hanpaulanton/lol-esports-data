@@ -49,29 +49,30 @@ PRODUCTION = ROOT / "data" / "matches.json"
 
 # =====================================================================
 # CURRENT PRODUCTION BASELINE
-# Baseline updated at PHASE 18-20 (dataVersion 2026.10.01.03; previous
-# baselines: 18-17 2026.10.01.02/75 matches, 18-15 2026.10.01.01).
+# Baseline updated at PHASE 18-21 (dataVersion 2026.10.01.04; previous
+# baselines: 18-20 2026.10.01.03/139 matches, 18-17 2026.10.01.02).
 # NOT universal invariants. Update ONLY as part of an approved production
 # promotion (docs/production-contract-gate.md §promotion workflow).
 # =====================================================================
 BASELINE = {
-    "dataVersion": "2026.10.01.03",
+    "dataVersion": "2026.10.01.04",
     "leagueCount": 3,
     "teamCount": 42,
     "matchCount": 139,
-    "completedCount": 104,
-    "scheduledCount": 35,
+    "completedCount": 118,
+    "scheduledCount": 21,
     "bestOfDistribution": {1: 66, 3: 67, 5: 6},
     "leagueIds": {"LCK21", "EM", "Worlds"},
     "leagueMatchCounts": {"LCK": 40, "EMEA Masters": 93, "World Championship": 6},
     "teamRegionCounts": {"KR": 10, "EMEA": 32},
-    # scheduled rows: known-team vs TBD split (EMEA) and Worlds unresolved rows
-    "emeaKnown": 14,
+    # scheduled rows: the 14 known-team EMEA rows transitioned to completed in
+    # PHASE 18-21, leaving only the 15 TBD rows; Worlds rows stay unresolved
+    "emeaKnown": 0,
     "emeaTbd": 15,
-    "emeaCompletedRows": 64,
+    "emeaCompletedRows": 78,
     "worldsRows": 6,
     # known legacy condition: lastUpdatedAt is mixed-format (audit 18-17;
-    # PHASE 18-20 added 64 ISO-Z rows)
+    # 18-20 added 64 ISO-Z rows; 18-21 refreshed 14 in place, split unchanged)
     "lastUpdatedAtDateOnly": 46,
     "lastUpdatedAtIsoZ": 93,
 }
