@@ -5,16 +5,47 @@
     "verificationSummary": {
       "gameIdMatchedGames": "14/14 (blue-gold-sum==team1g verified for all: team1 == blue side)",
       "conflicts": 0,
-      "resolvedCodes": ["T1", "GEN", "KT", "HLE", "DPLUS", "KRX", "NS", "DN SOOPers", "BNK FEARX", "HANJIN BRION"],
-      "humanProvidedPromoted": ["T1", "KT", "HLE"],
-      "humanProvidedCaseVariant": ["GEN (fixture spelling Gen.G is authoritative)"],
-      "humanProvidedNotObserved": ["DK", "DNS", "BFX", "BRO (codes never appear in Leaguepedia fixture; teams use DPLUS/DN SOOPers/BNK FEARX/HANJIN BRION)"],
-      "fixtureOnlyCodes": ["KRX (Kiwoom DRX)", "NS (Nongshim RedForce)"]
+      "resolvedCodes": [
+        "T1",
+        "GEN",
+        "KT",
+        "HLE",
+        "DPLUS",
+        "KRX",
+        "NS",
+        "DN SOOPers",
+        "BNK FEARX",
+        "HANJIN BRION"
+      ],
+      "humanProvidedPromoted": [
+        "T1",
+        "KT",
+        "HLE"
+      ],
+      "humanProvidedCaseVariant": [
+        "GEN (fixture spelling Gen.G is authoritative)"
+      ],
+      "humanProvidedNotObserved": [
+        "DK",
+        "DNS",
+        "BFX",
+        "BRO (codes never appear in Leaguepedia fixture; teams use DPLUS/DN SOOPers/BNK FEARX/HANJIN BRION)"
+      ],
+      "fixtureOnlyCodes": [
+        "KRX (Kiwoom DRX)",
+        "NS (Nongshim RedForce)"
+      ]
     },
     "fieldSemantics": {
       "leaguepediaCode": "the identifier Leaguepedia actually uses in MatchSchedule team1/team2. The normalizer uses this as the provisional team id.",
       "humanProvidedCode": "code supplied by the user (HUMAN_PROVIDED). Separate code system — never merged with leaguepediaCode.",
       "canonicalId": "still null: no stable canonical team ID confirmed from any source yet"
+    },
+    "emeaAddition": {
+      "phase": "PHASE 18-14 research + PHASE 18-15 promotion",
+      "scope": "EMEA Masters 2026 Summer Main Event schedule codes (28 expressions)",
+      "method": "riot_platform_game_id join between Data page MatchSchedule rows and Scoreboards pages (63 matched games, side-aware); reverse 1:1 name uniqueness verified; CONFLICT 0",
+      "note": "canonicalId stays null here: canonical Team ids live in the canonical envelope teams array (deterministic team-<code> ids, PHASE 18-12 convention)"
     }
   },
   "mappings": [
@@ -88,6 +119,202 @@
       "name": "HANJIN BRION",
       "humanProvidedCode": "BRO",
       "humanVerification": "human code BRO is NOT_OBSERVED in the Leaguepedia fixture (the team is coded HANJIN BRION there). code->name pairing confirmed by game-id matching (3 games)",
+      "canonicalId": null
+    },
+    {
+      "leaguepediaCode": "BIG",
+      "name": "Berlin International Gaming",
+      "humanProvidedCode": null,
+      "humanVerification": "OBSERVED - PHASE 18-14 rpgid join vs Leaguepedia Scoreboards (2 game(s)): schedule 'BIG' resolves to Scoreboard 'Berlin International Gaming'; identityStatus RESOLVED, CONFLICT 0",
+      "canonicalId": null
+    },
+    {
+      "leaguepediaCode": "SNSH",
+      "name": "Senshi eSports (Benelux Team)",
+      "humanProvidedCode": null,
+      "humanVerification": "OBSERVED - PHASE 18-14 rpgid join vs Leaguepedia Scoreboards (2 game(s)): schedule 'SNSH' resolves to Scoreboard 'Senshi eSports (Benelux Team)'; identityStatus RESOLVED, CONFLICT 0",
+      "canonicalId": null
+    },
+    {
+      "leaguepediaCode": "Bushido Wildcats",
+      "name": "Bushido Wildcats",
+      "humanProvidedCode": null,
+      "humanVerification": "OBSERVED - PHASE 18-14 rpgid join vs Leaguepedia Scoreboards (4 game(s)): schedule code equals the Scoreboard full name; identityStatus RESOLVED, CONFLICT 0",
+      "canonicalId": null
+    },
+    {
+      "leaguepediaCode": "Magaza",
+      "name": "Magaza Esports",
+      "humanProvidedCode": null,
+      "humanVerification": "OBSERVED - PHASE 18-14 rpgid join vs Leaguepedia Scoreboards (1 game(s)): schedule 'Magaza' resolves to Scoreboard 'Magaza Esports'; identityStatus RESOLVED, CONFLICT 0",
+      "canonicalId": null
+    },
+    {
+      "leaguepediaCode": "FEC",
+      "name": "Frites Esports Club",
+      "humanProvidedCode": null,
+      "humanVerification": "OBSERVED - PHASE 18-14 rpgid join vs Leaguepedia Scoreboards (2 game(s)): schedule 'FEC' resolves to Scoreboard 'Frites Esports Club'; identityStatus RESOLVED, CONFLICT 0",
+      "canonicalId": null
+    },
+    {
+      "leaguepediaCode": "Otter Side",
+      "name": "Otter Side",
+      "humanProvidedCode": null,
+      "humanVerification": "OBSERVED - PHASE 18-14 rpgid join vs Leaguepedia Scoreboards (4 game(s)): schedule code equals the Scoreboard full name; identityStatus RESOLVED, CONFLICT 0",
+      "canonicalId": null
+    },
+    {
+      "leaguepediaCode": "PCIFIC Esports",
+      "name": "PCIFIC Esports",
+      "humanProvidedCode": null,
+      "humanVerification": "OBSERVED - PHASE 18-14 rpgid join vs Leaguepedia Scoreboards (4 game(s)): schedule code equals the Scoreboard full name; identityStatus RESOLVED, CONFLICT 0",
+      "canonicalId": null
+    },
+    {
+      "leaguepediaCode": "Ruddy Corporation",
+      "name": "Ruddy Corporation",
+      "humanProvidedCode": null,
+      "humanVerification": "OBSERVED - PHASE 18-14 rpgid join vs Leaguepedia Scoreboards (4 game(s)): schedule code equals the Scoreboard full name; identityStatus RESOLVED, CONFLICT 0",
+      "canonicalId": null
+    },
+    {
+      "leaguepediaCode": "JSK Esports",
+      "name": "JSK Esports",
+      "humanProvidedCode": null,
+      "humanVerification": "OBSERVED - PHASE 18-14 rpgid join vs Leaguepedia Scoreboards (4 game(s)): schedule code equals the Scoreboard full name; identityStatus RESOLVED, CONFLICT 0",
+      "canonicalId": null
+    },
+    {
+      "leaguepediaCode": "Skillcamp",
+      "name": "Skillcamp",
+      "humanProvidedCode": null,
+      "humanVerification": "OBSERVED - PHASE 18-14 rpgid join vs Leaguepedia Scoreboards (4 game(s)): schedule code equals the Scoreboard full name; identityStatus RESOLVED, CONFLICT 0",
+      "canonicalId": null
+    },
+    {
+      "leaguepediaCode": "Colossal Gaming",
+      "name": "Colossal Gaming",
+      "humanProvidedCode": null,
+      "humanVerification": "OBSERVED - PHASE 18-14 rpgid join vs Leaguepedia Scoreboards (4 game(s)): schedule code equals the Scoreboard full name; identityStatus RESOLVED, CONFLICT 0",
+      "canonicalId": null
+    },
+    {
+      "leaguepediaCode": "LODIS PL",
+      "name": "LODIS (Polish Team)",
+      "humanProvidedCode": null,
+      "humanVerification": "OBSERVED - PHASE 18-14 rpgid join vs Leaguepedia Scoreboards (2 game(s)): schedule 'LODIS PL' resolves to Scoreboard 'LODIS (Polish Team)'; identityStatus RESOLVED, CONFLICT 0",
+      "canonicalId": null
+    },
+    {
+      "leaguepediaCode": "TLN Pirates",
+      "name": "TLN Pirates",
+      "humanProvidedCode": null,
+      "humanVerification": "OBSERVED - PHASE 18-14 rpgid join vs Leaguepedia Scoreboards (4 game(s)): schedule code equals the Scoreboard full name; identityStatus RESOLVED, CONFLICT 0",
+      "canonicalId": null
+    },
+    {
+      "leaguepediaCode": "Valerion",
+      "name": "Valerion",
+      "humanProvidedCode": null,
+      "humanVerification": "OBSERVED - PHASE 18-14 rpgid join vs Leaguepedia Scoreboards (4 game(s)): schedule code equals the Scoreboard full name; identityStatus RESOLVED, CONFLICT 0",
+      "canonicalId": null
+    },
+    {
+      "leaguepediaCode": "KHK",
+      "name": "Kaufland Hangry Knights",
+      "humanProvidedCode": null,
+      "humanVerification": "OBSERVED - PHASE 18-14 rpgid join vs Leaguepedia Scoreboards (2 game(s)): schedule 'KHK' resolves to Scoreboard 'Kaufland Hangry Knights'; identityStatus RESOLVED, CONFLICT 0",
+      "canonicalId": null
+    },
+    {
+      "leaguepediaCode": "UOL.SE",
+      "name": "Unicorns of Love Sexy Edition",
+      "humanProvidedCode": null,
+      "humanVerification": "OBSERVED - PHASE 18-14 rpgid join vs Leaguepedia Scoreboards (2 game(s)): schedule 'UOL.SE' resolves to Scoreboard 'Unicorns of Love Sexy Edition'; identityStatus RESOLVED, CONFLICT 0",
+      "canonicalId": null
+    },
+    {
+      "leaguepediaCode": "HMBLE",
+      "name": "HMBLE",
+      "humanProvidedCode": null,
+      "humanVerification": "OBSERVED - PHASE 18-14 rpgid join vs Leaguepedia Scoreboards (4 game(s)): schedule code equals the Scoreboard full name; identityStatus RESOLVED, CONFLICT 0",
+      "canonicalId": null
+    },
+    {
+      "leaguepediaCode": "Barca",
+      "name": "Barça eSports",
+      "humanProvidedCode": null,
+      "humanVerification": "OBSERVED - PHASE 18-14 rpgid join vs Leaguepedia Scoreboards (2 game(s)): schedule 'Barca' resolves to Scoreboard 'Barça eSports'; identityStatus RESOLVED, CONFLICT 0",
+      "canonicalId": null
+    },
+    {
+      "leaguepediaCode": "ESB",
+      "name": "eSuba",
+      "humanProvidedCode": null,
+      "humanVerification": "OBSERVED - PHASE 18-14 rpgid join vs Leaguepedia Scoreboards (2 game(s)): schedule 'ESB' resolves to Scoreboard 'eSuba'; identityStatus RESOLVED, CONFLICT 0",
+      "canonicalId": null
+    },
+    {
+      "leaguepediaCode": "UCAM Esports",
+      "name": "UCAM Esports",
+      "humanProvidedCode": null,
+      "humanVerification": "OBSERVED - PHASE 18-14 rpgid join vs Leaguepedia Scoreboards (4 game(s)): schedule code equals the Scoreboard full name; identityStatus RESOLVED, CONFLICT 0",
+      "canonicalId": null
+    },
+    {
+      "leaguepediaCode": "G2 NORD",
+      "name": "G2 NORD",
+      "humanProvidedCode": null,
+      "humanVerification": "OBSERVED - PHASE 18-14 rpgid join vs Leaguepedia Scoreboards (4 game(s)): schedule code equals the Scoreboard full name; identityStatus RESOLVED, CONFLICT 0",
+      "canonicalId": null
+    },
+    {
+      "leaguepediaCode": "Bomba Team",
+      "name": "Bomba Team",
+      "humanProvidedCode": null,
+      "humanVerification": "OBSERVED - PHASE 18-14 rpgid join vs Leaguepedia Scoreboards (4 game(s)): schedule code equals the Scoreboard full name; identityStatus RESOLVED, CONFLICT 0",
+      "canonicalId": null
+    },
+    {
+      "leaguepediaCode": "HRTS.A",
+      "name": "Team Heretics Academy",
+      "humanProvidedCode": null,
+      "humanVerification": "OBSERVED - PHASE 18-14 rpgid join vs Leaguepedia Scoreboards (2 game(s)): schedule 'HRTS.A' resolves to Scoreboard 'Team Heretics Academy'; identityStatus RESOLVED, CONFLICT 0",
+      "canonicalId": null
+    },
+    {
+      "leaguepediaCode": "Nightbirds",
+      "name": "Nightbirds",
+      "humanProvidedCode": null,
+      "humanVerification": "OBSERVED - PHASE 18-14 rpgid join vs Leaguepedia Scoreboards (4 game(s)): schedule code equals the Scoreboard full name; identityStatus RESOLVED, CONFLICT 0",
+      "canonicalId": null
+    },
+    {
+      "leaguepediaCode": "Phantasma",
+      "name": "Team Phantasma",
+      "humanProvidedCode": null,
+      "humanVerification": "OBSERVED - PHASE 18-14 rpgid join vs Leaguepedia Scoreboards (2 game(s)): schedule 'Phantasma' resolves to Scoreboard 'Team Phantasma'; identityStatus RESOLVED, CONFLICT 0",
+      "canonicalId": null
+    },
+    {
+      "leaguepediaCode": "GMCE",
+      "name": "Gamespace Mediterranean College Esports",
+      "humanProvidedCode": null,
+      "humanVerification": "OBSERVED - PHASE 18-14 rpgid join vs Leaguepedia Scoreboards (2 game(s)): schedule 'GMCE' resolves to Scoreboard 'Gamespace Mediterranean College Esports'; identityStatus RESOLVED, CONFLICT 0",
+      "canonicalId": null
+    },
+    {
+      "leaguepediaCode": "TSC HR",
+      "name": "The Secret Club",
+      "humanProvidedCode": null,
+      "humanVerification": "OBSERVED - PHASE 18-14 rpgid join vs Leaguepedia Scoreboards (1 game(s)): schedule 'TSC HR' resolves to Scoreboard 'The Secret Club'; identityStatus RESOLVED, CONFLICT 0",
+      "canonicalId": null
+    },
+    {
+      "leaguepediaCode": "SU Esports",
+      "name": "SU Esports",
+      "humanProvidedCode": null,
+      "humanVerification": "OBSERVED - PHASE 18-14 rpgid join vs Leaguepedia Scoreboards (4 game(s)): schedule code equals the Scoreboard full name; identityStatus RESOLVED, CONFLICT 0",
       "canonicalId": null
     }
   ]

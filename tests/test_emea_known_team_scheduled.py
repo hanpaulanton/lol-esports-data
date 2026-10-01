@@ -126,14 +126,34 @@ class EmeaKnownTeamScheduledTests(unittest.TestCase):
                 self.assertEqual("", (args.get("winner") or "").strip())
                 self.assertEqual(3, len(games))
 
-    def test_resolver_fails_closed_for_unmapped_emea_teams(self):
-        """None of the EMEA teams are in team_mappings.json (LCK-only config):
-        every scheduled team value must resolve UNKNOWN — no guessing."""
+    def test_resolver_resolves_emea_teams_to_verified_identities(self):
+        """PHASE 18-15: the 28 verified EMEA mappings (PHASE 18-14 rpgid
+        joins, CONFLICT 0) are in team_mappings.json. Every scheduled team
+        value must resolve RESOLVED, and the schedule code and its verified
+        full name must converge to the same canonical identity (1:1)."""
+        import json
+
+        mappings = json.loads(
+            (ROOT / "config" / "team_mappings.json").read_text(encoding="utf-8")
+        )["mappings"]
+        name_to_code = {
+            entry["name"]: entry["leaguepediaCode"]
+            for entry in mappings
+            if entry.get("name")
+        }
         resolver = TeamIdentityResolver()
         for _context, args, _games in self.scheduled:
             for field in ("team1", "team2"):
-                with self.subTest(field=field, value=args.get(field)):
-                    self.assertIs(IdentityStatus.UNKNOWN, resolver.resolve(args.get(field)).status)
+                value = (args.get(field) or "").strip()
+                with self.subTest(field=field, value=value):
+                    resolved = resolver.resolve(value)
+                    self.assertIs(IdentityStatus.RESOLVED, resolved.status)
+                    verified_name = name_to_code.get(value)
+                    if verified_name is not None and verified_name != value:
+                        # value is a full name whose canonical is the code
+                        self.assertEqual(verified_name, resolved.canonical)
+                    else:
+                        self.assertEqual(value, resolved.canonical)
 
     def test_series_score_helper_fails_closed_on_scheduled_rows(self):
         resolver = TeamIdentityResolver()

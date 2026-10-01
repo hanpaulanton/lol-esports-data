@@ -43,6 +43,7 @@ SLOT_TBD = "TBD"
 SLOT_EMPTY = "EMPTY"
 
 PENDING_TZ = "PENDING_TIMEZONE_REVIEW"
+CONVERTED_TZ = "CONVERTED"  # success path: normalize_local_to_utc produced a verified UTC value
 
 
 def classify_team_slot(raw: str | None) -> str:
@@ -144,7 +145,7 @@ def normalize_scheduled_series(
         }
     if time_result is not None:
         scheduled_at = time_result.utc_iso
-        utc_conversion = "CONVERTED"
+        utc_conversion = CONVERTED_TZ
         warnings.extend(time_result.warnings)
     # time_result None -> unknown abbreviation (e.g. PST): scheduledAt stays
     # null and the raw values are preserved; the offset is NOT guessed.

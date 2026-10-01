@@ -23,8 +23,10 @@ ROOT = pathlib.Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "scripts"))
 
 from lib.validator import validate_scheduled_match  # noqa: E402
-from lib.series_score import TeamIdentityResolver  # noqa: E402
+from lib.series_score import IdentityStatus, TeamIdentityResolver  # noqa: E402
+from lib.timezones import normalize_local_to_utc  # noqa: E402
 from scheduled_normalize import (  # noqa: E402
+    CONVERTED_TZ,
     PENDING_TZ,
     SLOT_EMPTY,
     SLOT_KNOWN,
@@ -236,28 +238,48 @@ class EmeaFixtureTests(unittest.TestCase):
         self.assertEqual(6, len(bo1))
         self.assertTrue(all(r["_provisional"]["bestOfSource"] == "row-level bestof" for r in bo1))
 
-    def test_t11_t12_identity_resolution_failure_is_not_parse_failure(self):
-        """EMEA teams are not in the LCK-only mapping: all KNOWN slots are
-        identity UNKNOWN, yet every record exists and validates."""
+    def test_t11_t12_known_slots_resolve_after_18_15_promotion(self):
+        """PHASE 18-15: the 28 verified EMEA mappings are in the config, so
+        every KNOWN slot resolves RESOLVED to its own Leaguepedia code, while
+        TBD slots stay UNKNOWN with null team ids. Every record still
+        validates (identity resolution is not a parse failure in any state)."""
         resolver = make_resolver()
         for record in self.records:
             states = record["_provisional"]["identityStatus"]
+            canonical = record["_provisional"]["canonicalTeamId"]
             with self.subTest(id=record["id"]):
                 for side in ("team1", "team2"):
                     if record["_provisional"]["teamSlotState"][side] == "KNOWN":
+                        raw = record["_provisional"]["teamSlotRaw"][side]
+                        self.assertEqual("RESOLVED", states[side])
+                        self.assertEqual(raw, canonical[side])
+                        self.assertEqual(
+                            IdentityStatus.RESOLVED, resolver.resolve(raw).status
+                        )
+                    else:
                         self.assertEqual("UNKNOWN", states[side])
                 errors, _ = validate_scheduled_match(record)
                 self.assertEqual([], errors, f"{record['id']}: {errors}")
 
-    def test_t14_unresolved_dst_pst_not_guessed(self):
-        """PST is not in the curated mapping: scheduledAt must be null and
-        the raw values preserved with PENDING_TIMEZONE_REVIEW."""
+    def test_t14_pst_converted_with_verified_daylight_offset(self):
+        """PHASE 18-15: PST is curated (dst=yes means PDT, UTC-07:00 —
+        PHASE 18-14 evidence). scheduledAt must equal the UTC conversion of
+        the preserved raw values recomputed here, and the raw provenance
+        (date/time/timezone/dst) must remain untouched."""
         for record in self.records:
             with self.subTest(id=record["id"]):
-                self.assertIsNone(record["scheduledAt"])
                 time_raw = record["_provisional"]["timeRaw"]
                 self.assertEqual("PST", time_raw["timezone"])
-                self.assertEqual(PENDING_TZ, time_raw["utcConversion"])
+                self.assertEqual("yes", time_raw["dst"])
+                self.assertEqual(CONVERTED_TZ, time_raw["utcConversion"])
+                expected = normalize_local_to_utc(
+                    time_raw["date"], time_raw["time"], time_raw["timezone"], time_raw["dst"]
+                )
+                self.assertIsNotNone(expected)
+                self.assertEqual(expected.utc_iso, record["scheduledAt"])
+                # spot-check the verified -07:00 offset on the 06:00 row
+                if time_raw["time"] == "06:00":
+                    self.assertEqual(time_raw["date"] + "T13:00:00Z", record["scheduledAt"])
 
     def test_t2_tbd_rows_preserve_tbd_state(self):
         tbd = self.by_slot[("TBD", "TBD")]

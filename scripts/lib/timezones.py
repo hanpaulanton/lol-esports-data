@@ -77,21 +77,31 @@ def normalize_local_to_utc(
 
     local = datetime.datetime.fromisoformat(f"{date_str.strip()}T{time_str.strip()}:00")
 
-    offset_minutes: int | None = None
-    used_zoneinfo = False
-    for iana in entry.get("ianaCandidates", []):
-        candidate = _zoneinfo_offset_minutes(iana, local)
-        if candidate is not None:
-            offset_minutes = candidate
-            used_zoneinfo = True
-            break
-
-    if offset_minutes is None:
-        offset_minutes = int(entry["standardOffsetMinutes"])
-
     # dst flag cross-check: only meaningful for zones that actually have DST.
     has_dst_offsets = entry.get("dstOffsetMinutes") is not None
     dst = dst_flag.strip().lower() == "yes"
+
+    offset_minutes: int | None = None
+    used_zoneinfo = False
+    if not has_dst_offsets:
+        # Fixed-offset zone (e.g. KST): zoneinfo first, then the curated
+        # standard offset. The dst flag is metadata only (see warning below).
+        for iana in entry.get("ianaCandidates", []):
+            candidate = _zoneinfo_offset_minutes(iana, local)
+            if candidate is not None:
+                offset_minutes = candidate
+                used_zoneinfo = True
+                break
+        if offset_minutes is None:
+            offset_minutes = int(entry["standardOffsetMinutes"])
+    else:
+        # The curated entry documents both offsets for an abbreviation whose
+        # label stays fixed year-round (e.g. Leaguepedia 'PST' rows with
+        # dst=yes mean the daylight offset). The row's dst flag selects the
+        # offset deterministically, so results do not depend on whether the
+        # running machine has a tz database.
+        offset_minutes = int(entry["dstOffsetMinutes"] if dst else entry["standardOffsetMinutes"])
+
     if dst and not has_dst_offsets:
         warnings.append(
             f"dst flag is '{dst_flag.strip()}' but {timezone_abbr} is a fixed-offset zone "

@@ -9,7 +9,17 @@
   "KST": {
     "standardOffsetMinutes": 540,
     "dstOffsetMinutes": null,
-    "ianaCandidates": ["Asia/Seoul"],
+    "ianaCandidates": [
+      "Asia/Seoul"
+    ],
     "notes": "South Korea does not observe DST; the fixture's dst=yes flag on KST rows is a data anomaly recorded as a warning, not used for offsets."
+  },
+  "PST": {
+    "standardOffsetMinutes": -480,
+    "dstOffsetMinutes": -420,
+    "ianaCandidates": [
+      "America/Los_Angeles"
+    ],
+    "notes": "Leaguepedia labels Pacific times 'PST' year-round; dst=yes means the daylight offset (PDT, UTC-07:00) is in effect. Verified PHASE 18-14 against Scoreboards pages for EM 2026 Summer Main Event rounds 1-4: 63 same-game rpgid pairs, effective offset UTC-07:00 (a UTC-08:00 reading would show ~10h differences; zero observed). US Pacific DST 2026: Mar 8 - Nov 1, so 2026-09-30..10-02 are all PDT. Added PHASE 18-15; applies to EMEA rows only - Worlds rows stay PENDING until their own review."
   }
 }
