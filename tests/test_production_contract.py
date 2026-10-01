@@ -49,28 +49,31 @@ PRODUCTION = ROOT / "data" / "matches.json"
 
 # =====================================================================
 # CURRENT PRODUCTION BASELINE
-# Approved at PHASE 18-17 (commit b67121e, dataVersion 2026.10.01.02).
+# Baseline updated at PHASE 18-20 (dataVersion 2026.10.01.03; previous
+# baselines: 18-17 2026.10.01.02/75 matches, 18-15 2026.10.01.01).
 # NOT universal invariants. Update ONLY as part of an approved production
 # promotion (docs/production-contract-gate.md §promotion workflow).
 # =====================================================================
 BASELINE = {
-    "dataVersion": "2026.10.01.02",
+    "dataVersion": "2026.10.01.03",
     "leagueCount": 3,
-    "teamCount": 38,
-    "matchCount": 75,
-    "completedCount": 40,
+    "teamCount": 42,
+    "matchCount": 139,
+    "completedCount": 104,
     "scheduledCount": 35,
-    "bestOfDistribution": {1: 6, 3: 63, 5: 6},
+    "bestOfDistribution": {1: 66, 3: 67, 5: 6},
     "leagueIds": {"LCK21", "EM", "Worlds"},
-    "leagueMatchCounts": {"LCK": 40, "EMEA Masters": 29, "World Championship": 6},
-    "teamRegionCounts": {"KR": 10, "EMEA": 28},
+    "leagueMatchCounts": {"LCK": 40, "EMEA Masters": 93, "World Championship": 6},
+    "teamRegionCounts": {"KR": 10, "EMEA": 32},
     # scheduled rows: known-team vs TBD split (EMEA) and Worlds unresolved rows
     "emeaKnown": 14,
     "emeaTbd": 15,
+    "emeaCompletedRows": 64,
     "worldsRows": 6,
-    # known legacy condition: lastUpdatedAt is mixed-format (audit 18-17)
+    # known legacy condition: lastUpdatedAt is mixed-format (audit 18-17;
+    # PHASE 18-20 added 64 ISO-Z rows)
     "lastUpdatedAtDateOnly": 46,
-    "lastUpdatedAtIsoZ": 29,
+    "lastUpdatedAtIsoZ": 93,
 }
 
 DATE_ONLY_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
@@ -237,8 +240,11 @@ def synthetic_problems(doc: dict) -> list[str]:
             problems.append(f"synthetic({m.get('id')}): top-level rpgid field exists")
         provisional = m.get("_provisional") or {}
         count = provisional.get("rpgidCount") or {}
-        if isinstance(count, dict) and count.get("nonEmpty"):
-            problems.append(f"synthetic({m.get('id')}): {count.get('nonEmpty')} non-empty rpgid(s) on a record")
+        # non-empty rpgids are legitimate provenance on COMPLETED rows (the
+        # games were played); on SCHEDULED rows they must stay at zero in the
+        # current production baseline (existing V12 warning semantics).
+        if m.get("status") == "scheduled" and isinstance(count, dict) and count.get("nonEmpty"):
+            problems.append(f"synthetic({m.get('id')}): {count.get('nonEmpty')} non-empty rpgid(s) on a scheduled record")
     text_ids = [m.get("id", "") for m in doc.get("matches", [])]
     if any("sample" in mid.lower() for mid in text_ids):
         problems.append("synthetic: match ids contain 'sample' (SampleData contamination)")
@@ -285,13 +291,17 @@ def emea_problems(doc: dict) -> list[str]:
     if len(emea) != BASELINE["leagueMatchCounts"]["EMEA Masters"]:
         problems.append(f"baseline: EMEA row count {len(emea)} changed")
         return problems
-    known = []
-    for m in emea:
+    scheduled = [m for m in emea if m.get("status") == "scheduled"]
+    completed = [m for m in emea if m.get("status") == "completed"]
+    if len(completed) != BASELINE.get("emeaCompletedRows", 0):
+        problems.append(f"baseline: EMEA completed rows {len(completed)} != {BASELINE.get('emeaCompletedRows', 0)}")
+
+    def check_provenance(m: dict) -> None:
         provisional = m.get("_provisional") or {}
         time_raw = provisional.get("timeRaw")
         if not isinstance(time_raw, dict):
             problems.append(f"emea({m.get('id')}): timeRaw provenance lost")
-            continue
+            return
         if time_raw.get("timezone") != "PST" or time_raw.get("dst") != "yes":
             problems.append(f"emea({m.get('id')}): unexpected raw timezone {time_raw.get('timezone')!r}/{time_raw.get('dst')!r}")
         if time_raw.get("utcConversion") != "CONVERTED":
@@ -304,6 +314,11 @@ def emea_problems(doc: dict) -> list[str]:
             problems.append(f"emea({m.get('id')}): conversion no longer possible with curated config")
         elif result.utc_iso != m.get("scheduledAt"):
             problems.append(f"emea({m.get('id')}): scheduledAt {m.get('scheduledAt')!r} != recomputed {result.utc_iso}")
+
+    known = []
+    for m in scheduled:
+        check_provenance(m)
+        provisional = m.get("_provisional") or {}
         slot_state = provisional.get("teamSlotState") or {}
         if slot_state.get("team1") == "KNOWN" and slot_state.get("team2") == "KNOWN":
             known.append(m)
@@ -311,10 +326,15 @@ def emea_problems(doc: dict) -> list[str]:
             if m.get("team1Id") is not None or m.get("team2Id") is not None:
                 problems.append(f"emea({m.get('id')}): TBD row carries team ids")
     if len(known) != BASELINE["emeaKnown"]:
-        problems.append(f"baseline: EMEA known-team rows {len(known)} != {BASELINE['emeaKnown']}")
-    tbd_count = len(emea) - len(known)
+        problems.append(f"baseline: EMEA known-team scheduled rows {len(known)} != {BASELINE['emeaKnown']}")
+    tbd_count = len(scheduled) - len(known)
     if tbd_count != BASELINE["emeaTbd"]:
         problems.append(f"baseline: EMEA TBD rows {tbd_count} != {BASELINE['emeaTbd']}")
+    for m in completed:
+        check_provenance(m)
+        # completed rows keep rpgid provenance instead of slot states
+        if not (m.get("_provisional") or {}).get("rpgidCount"):
+            problems.append(f"emea({m.get('id')}): completed row lost rpgidCount provenance")
     return problems
 
 
