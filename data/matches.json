@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "2026.10.01.01",
-  "generatedAt": "2026-09-30T15:20:51Z",
+  "dataVersion": "2026.10.01.02",
+  "generatedAt": "2026-10-01T03:55:31Z",
   "leagues": [
     {
       "id": "LCK21",
@@ -114,6 +114,271 @@
       "region": "KR",
       "aliases": [
         "HANJIN BRION"
+      ]
+    },
+    {
+      "id": "team-big",
+      "name": "Berlin International Gaming",
+      "shortName": "BIG",
+      "region": "EMEA",
+      "aliases": [
+        "BIG",
+        "Berlin International Gaming"
+      ]
+    },
+    {
+      "id": "team-snsh",
+      "name": "Senshi eSports (Benelux Team)",
+      "shortName": "SNSH",
+      "region": "EMEA",
+      "aliases": [
+        "SNSH",
+        "Senshi eSports (Benelux Team)"
+      ]
+    },
+    {
+      "id": "team-bushido-wildcats",
+      "name": "Bushido Wildcats",
+      "shortName": "Bushido Wildcats",
+      "region": "EMEA",
+      "aliases": [
+        "Bushido Wildcats"
+      ]
+    },
+    {
+      "id": "team-magaza",
+      "name": "Magaza Esports",
+      "shortName": "Magaza",
+      "region": "EMEA",
+      "aliases": [
+        "Magaza",
+        "Magaza Esports"
+      ]
+    },
+    {
+      "id": "team-fec",
+      "name": "Frites Esports Club",
+      "shortName": "FEC",
+      "region": "EMEA",
+      "aliases": [
+        "FEC",
+        "Frites Esports Club"
+      ]
+    },
+    {
+      "id": "team-otter-side",
+      "name": "Otter Side",
+      "shortName": "Otter Side",
+      "region": "EMEA",
+      "aliases": [
+        "Otter Side"
+      ]
+    },
+    {
+      "id": "team-pcific-esports",
+      "name": "PCIFIC Esports",
+      "shortName": "PCIFIC Esports",
+      "region": "EMEA",
+      "aliases": [
+        "PCIFIC Esports"
+      ]
+    },
+    {
+      "id": "team-ruddy-corporation",
+      "name": "Ruddy Corporation",
+      "shortName": "Ruddy Corporation",
+      "region": "EMEA",
+      "aliases": [
+        "Ruddy Corporation"
+      ]
+    },
+    {
+      "id": "team-jsk-esports",
+      "name": "JSK Esports",
+      "shortName": "JSK Esports",
+      "region": "EMEA",
+      "aliases": [
+        "JSK Esports"
+      ]
+    },
+    {
+      "id": "team-skillcamp",
+      "name": "Skillcamp",
+      "shortName": "Skillcamp",
+      "region": "EMEA",
+      "aliases": [
+        "Skillcamp"
+      ]
+    },
+    {
+      "id": "team-colossal-gaming",
+      "name": "Colossal Gaming",
+      "shortName": "Colossal Gaming",
+      "region": "EMEA",
+      "aliases": [
+        "Colossal Gaming"
+      ]
+    },
+    {
+      "id": "team-lodis-pl",
+      "name": "LODIS (Polish Team)",
+      "shortName": "LODIS PL",
+      "region": "EMEA",
+      "aliases": [
+        "LODIS PL",
+        "LODIS (Polish Team)"
+      ]
+    },
+    {
+      "id": "team-tln-pirates",
+      "name": "TLN Pirates",
+      "shortName": "TLN Pirates",
+      "region": "EMEA",
+      "aliases": [
+        "TLN Pirates"
+      ]
+    },
+    {
+      "id": "team-valerion",
+      "name": "Valerion",
+      "shortName": "Valerion",
+      "region": "EMEA",
+      "aliases": [
+        "Valerion"
+      ]
+    },
+    {
+      "id": "team-khk",
+      "name": "Kaufland Hangry Knights",
+      "shortName": "KHK",
+      "region": "EMEA",
+      "aliases": [
+        "KHK",
+        "Kaufland Hangry Knights"
+      ]
+    },
+    {
+      "id": "team-uol-se",
+      "name": "Unicorns of Love Sexy Edition",
+      "shortName": "UOL.SE",
+      "region": "EMEA",
+      "aliases": [
+        "UOL.SE",
+        "Unicorns of Love Sexy Edition"
+      ]
+    },
+    {
+      "id": "team-hmble",
+      "name": "HMBLE",
+      "shortName": "HMBLE",
+      "region": "EMEA",
+      "aliases": [
+        "HMBLE"
+      ]
+    },
+    {
+      "id": "team-barca",
+      "name": "Barça eSports",
+      "shortName": "Barca",
+      "region": "EMEA",
+      "aliases": [
+        "Barca",
+        "Barça eSports"
+      ]
+    },
+    {
+      "id": "team-esb",
+      "name": "eSuba",
+      "shortName": "ESB",
+      "region": "EMEA",
+      "aliases": [
+        "ESB",
+        "eSuba"
+      ]
+    },
+    {
+      "id": "team-ucam-esports",
+      "name": "UCAM Esports",
+      "shortName": "UCAM Esports",
+      "region": "EMEA",
+      "aliases": [
+        "UCAM Esports"
+      ]
+    },
+    {
+      "id": "team-g2-nord",
+      "name": "G2 NORD",
+      "shortName": "G2 NORD",
+      "region": "EMEA",
+      "aliases": [
+        "G2 NORD"
+      ]
+    },
+    {
+      "id": "team-bomba-team",
+      "name": "Bomba Team",
+      "shortName": "Bomba Team",
+      "region": "EMEA",
+      "aliases": [
+        "Bomba Team"
+      ]
+    },
+    {
+      "id": "team-hrts-a",
+      "name": "Team Heretics Academy",
+      "shortName": "HRTS.A",
+      "region": "EMEA",
+      "aliases": [
+        "HRTS.A",
+        "Team Heretics Academy"
+      ]
+    },
+    {
+      "id": "team-nightbirds",
+      "name": "Nightbirds",
+      "shortName": "Nightbirds",
+      "region": "EMEA",
+      "aliases": [
+        "Nightbirds"
+      ]
+    },
+    {
+      "id": "team-phantasma",
+      "name": "Team Phantasma",
+      "shortName": "Phantasma",
+      "region": "EMEA",
+      "aliases": [
+        "Phantasma",
+        "Team Phantasma"
+      ]
+    },
+    {
+      "id": "team-gmce",
+      "name": "Gamespace Mediterranean College Esports",
+      "shortName": "GMCE",
+      "region": "EMEA",
+      "aliases": [
+        "GMCE",
+        "Gamespace Mediterranean College Esports"
+      ]
+    },
+    {
+      "id": "team-tsc-hr",
+      "name": "The Secret Club",
+      "shortName": "TSC HR",
+      "region": "EMEA",
+      "aliases": [
+        "TSC HR",
+        "The Secret Club"
+      ]
+    },
+    {
+      "id": "team-su-esports",
+      "name": "SU Esports",
+      "shortName": "SU Esports",
+      "region": "EMEA",
+      "aliases": [
+        "SU Esports"
       ]
     }
   ],
@@ -1773,9 +2038,9 @@
         "id": "Round 5",
         "name": "Round 5"
       },
-      "team1Id": "BIG",
-      "team2Id": "SNSH",
-      "scheduledAt": null,
+      "team1Id": "team-big",
+      "team2Id": "team-snsh",
+      "scheduledAt": "2026-09-30T13:00:00Z",
       "status": "scheduled",
       "bestOf": 1,
       "score": null,
@@ -1786,7 +2051,7 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-09-30",
+      "lastUpdatedAt": "2026-10-01T03:55:31Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -1799,12 +2064,12 @@
           "team2": "SNSH"
         },
         "identityStatus": {
-          "team1": "UNKNOWN",
-          "team2": "UNKNOWN"
+          "team1": "RESOLVED",
+          "team2": "RESOLVED"
         },
         "canonicalTeamId": {
-          "team1": null,
-          "team2": null
+          "team1": "team-big",
+          "team2": "team-snsh"
         },
         "bestOfSource": "row-level bestof",
         "gameBlockCount": 1,
@@ -1817,7 +2082,7 @@
           "time": "06:00",
           "timezone": "PST",
           "dst": "yes",
-          "utcConversion": "PENDING_TIMEZONE_REVIEW"
+          "utcConversion": "CONVERTED"
         }
       }
     },
@@ -1836,9 +2101,9 @@
         "id": "Round 5",
         "name": "Round 5"
       },
-      "team1Id": "Bushido Wildcats",
-      "team2Id": "Magaza",
-      "scheduledAt": null,
+      "team1Id": "team-bushido-wildcats",
+      "team2Id": "team-magaza",
+      "scheduledAt": "2026-09-30T13:00:00Z",
       "status": "scheduled",
       "bestOf": 1,
       "score": null,
@@ -1849,7 +2114,7 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-09-30",
+      "lastUpdatedAt": "2026-10-01T03:55:31Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -1862,12 +2127,12 @@
           "team2": "Magaza"
         },
         "identityStatus": {
-          "team1": "UNKNOWN",
-          "team2": "UNKNOWN"
+          "team1": "RESOLVED",
+          "team2": "RESOLVED"
         },
         "canonicalTeamId": {
-          "team1": null,
-          "team2": null
+          "team1": "team-bushido-wildcats",
+          "team2": "team-magaza"
         },
         "bestOfSource": "row-level bestof",
         "gameBlockCount": 1,
@@ -1880,7 +2145,7 @@
           "time": "06:00",
           "timezone": "PST",
           "dst": "yes",
-          "utcConversion": "PENDING_TIMEZONE_REVIEW"
+          "utcConversion": "CONVERTED"
         }
       }
     },
@@ -1899,9 +2164,9 @@
         "id": "Round 5",
         "name": "Round 5"
       },
-      "team1Id": "FEC",
-      "team2Id": "Otter Side",
-      "scheduledAt": null,
+      "team1Id": "team-fec",
+      "team2Id": "team-otter-side",
+      "scheduledAt": "2026-09-30T13:00:00Z",
       "status": "scheduled",
       "bestOf": 1,
       "score": null,
@@ -1912,7 +2177,7 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-09-30",
+      "lastUpdatedAt": "2026-10-01T03:55:31Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -1925,12 +2190,12 @@
           "team2": "Otter Side"
         },
         "identityStatus": {
-          "team1": "UNKNOWN",
-          "team2": "UNKNOWN"
+          "team1": "RESOLVED",
+          "team2": "RESOLVED"
         },
         "canonicalTeamId": {
-          "team1": null,
-          "team2": null
+          "team1": "team-fec",
+          "team2": "team-otter-side"
         },
         "bestOfSource": "row-level bestof",
         "gameBlockCount": 1,
@@ -1943,7 +2208,7 @@
           "time": "06:00",
           "timezone": "PST",
           "dst": "yes",
-          "utcConversion": "PENDING_TIMEZONE_REVIEW"
+          "utcConversion": "CONVERTED"
         }
       }
     },
@@ -1962,9 +2227,9 @@
         "id": "Round 5",
         "name": "Round 5"
       },
-      "team1Id": "PCIFIC Esports",
-      "team2Id": "Ruddy Corporation",
-      "scheduledAt": null,
+      "team1Id": "team-pcific-esports",
+      "team2Id": "team-ruddy-corporation",
+      "scheduledAt": "2026-09-30T14:00:00Z",
       "status": "scheduled",
       "bestOf": 1,
       "score": null,
@@ -1975,7 +2240,7 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-09-30",
+      "lastUpdatedAt": "2026-10-01T03:55:31Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -1988,12 +2253,12 @@
           "team2": "Ruddy Corporation"
         },
         "identityStatus": {
-          "team1": "UNKNOWN",
-          "team2": "UNKNOWN"
+          "team1": "RESOLVED",
+          "team2": "RESOLVED"
         },
         "canonicalTeamId": {
-          "team1": null,
-          "team2": null
+          "team1": "team-pcific-esports",
+          "team2": "team-ruddy-corporation"
         },
         "bestOfSource": "row-level bestof",
         "gameBlockCount": 1,
@@ -2006,7 +2271,7 @@
           "time": "07:00",
           "timezone": "PST",
           "dst": "yes",
-          "utcConversion": "PENDING_TIMEZONE_REVIEW"
+          "utcConversion": "CONVERTED"
         }
       }
     },
@@ -2025,9 +2290,9 @@
         "id": "Round 5",
         "name": "Round 5"
       },
-      "team1Id": "JSK Esports",
-      "team2Id": "Skillcamp",
-      "scheduledAt": null,
+      "team1Id": "team-jsk-esports",
+      "team2Id": "team-skillcamp",
+      "scheduledAt": "2026-09-30T14:00:00Z",
       "status": "scheduled",
       "bestOf": 1,
       "score": null,
@@ -2038,7 +2303,7 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-09-30",
+      "lastUpdatedAt": "2026-10-01T03:55:31Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -2051,12 +2316,12 @@
           "team2": "Skillcamp"
         },
         "identityStatus": {
-          "team1": "UNKNOWN",
-          "team2": "UNKNOWN"
+          "team1": "RESOLVED",
+          "team2": "RESOLVED"
         },
         "canonicalTeamId": {
-          "team1": null,
-          "team2": null
+          "team1": "team-jsk-esports",
+          "team2": "team-skillcamp"
         },
         "bestOfSource": "row-level bestof",
         "gameBlockCount": 1,
@@ -2069,7 +2334,7 @@
           "time": "07:00",
           "timezone": "PST",
           "dst": "yes",
-          "utcConversion": "PENDING_TIMEZONE_REVIEW"
+          "utcConversion": "CONVERTED"
         }
       }
     },
@@ -2088,9 +2353,9 @@
         "id": "Round 5",
         "name": "Round 5"
       },
-      "team1Id": "Colossal Gaming",
-      "team2Id": "LODIS PL",
-      "scheduledAt": null,
+      "team1Id": "team-colossal-gaming",
+      "team2Id": "team-lodis-pl",
+      "scheduledAt": "2026-09-30T14:00:00Z",
       "status": "scheduled",
       "bestOf": 1,
       "score": null,
@@ -2101,7 +2366,7 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-09-30",
+      "lastUpdatedAt": "2026-10-01T03:55:31Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -2114,12 +2379,12 @@
           "team2": "LODIS PL"
         },
         "identityStatus": {
-          "team1": "UNKNOWN",
-          "team2": "UNKNOWN"
+          "team1": "RESOLVED",
+          "team2": "RESOLVED"
         },
         "canonicalTeamId": {
-          "team1": null,
-          "team2": null
+          "team1": "team-colossal-gaming",
+          "team2": "team-lodis-pl"
         },
         "bestOfSource": "row-level bestof",
         "gameBlockCount": 1,
@@ -2132,7 +2397,7 @@
           "time": "07:00",
           "timezone": "PST",
           "dst": "yes",
-          "utcConversion": "PENDING_TIMEZONE_REVIEW"
+          "utcConversion": "CONVERTED"
         }
       }
     },
@@ -2151,9 +2416,9 @@
         "id": "Round 5",
         "name": "Round 5"
       },
-      "team1Id": "TLN Pirates",
-      "team2Id": "Valerion",
-      "scheduledAt": null,
+      "team1Id": "team-tln-pirates",
+      "team2Id": "team-valerion",
+      "scheduledAt": "2026-09-30T15:00:00Z",
       "status": "scheduled",
       "bestOf": 3,
       "score": null,
@@ -2164,7 +2429,7 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-09-30",
+      "lastUpdatedAt": "2026-10-01T03:55:31Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -2177,12 +2442,12 @@
           "team2": "Valerion"
         },
         "identityStatus": {
-          "team1": "UNKNOWN",
-          "team2": "UNKNOWN"
+          "team1": "RESOLVED",
+          "team2": "RESOLVED"
         },
         "canonicalTeamId": {
-          "team1": null,
-          "team2": null
+          "team1": "team-tln-pirates",
+          "team2": "team-valerion"
         },
         "bestOfSource": "row-level bestof",
         "gameBlockCount": 3,
@@ -2195,7 +2460,7 @@
           "time": "08:00",
           "timezone": "PST",
           "dst": "yes",
-          "utcConversion": "PENDING_TIMEZONE_REVIEW"
+          "utcConversion": "CONVERTED"
         }
       }
     },
@@ -2214,9 +2479,9 @@
         "id": "Round 5",
         "name": "Round 5"
       },
-      "team1Id": "KHK",
-      "team2Id": "UOL.SE",
-      "scheduledAt": null,
+      "team1Id": "team-khk",
+      "team2Id": "team-uol-se",
+      "scheduledAt": "2026-09-30T15:00:00Z",
       "status": "scheduled",
       "bestOf": 3,
       "score": null,
@@ -2227,7 +2492,7 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-09-30",
+      "lastUpdatedAt": "2026-10-01T03:55:31Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -2240,12 +2505,12 @@
           "team2": "UOL.SE"
         },
         "identityStatus": {
-          "team1": "UNKNOWN",
-          "team2": "UNKNOWN"
+          "team1": "RESOLVED",
+          "team2": "RESOLVED"
         },
         "canonicalTeamId": {
-          "team1": null,
-          "team2": null
+          "team1": "team-khk",
+          "team2": "team-uol-se"
         },
         "bestOfSource": "row-level bestof",
         "gameBlockCount": 3,
@@ -2258,7 +2523,7 @@
           "time": "08:00",
           "timezone": "PST",
           "dst": "yes",
-          "utcConversion": "PENDING_TIMEZONE_REVIEW"
+          "utcConversion": "CONVERTED"
         }
       }
     },
@@ -2277,9 +2542,9 @@
         "id": "Round 5",
         "name": "Round 5"
       },
-      "team1Id": "HMBLE",
-      "team2Id": "Barca",
-      "scheduledAt": null,
+      "team1Id": "team-hmble",
+      "team2Id": "team-barca",
+      "scheduledAt": "2026-09-30T15:00:00Z",
       "status": "scheduled",
       "bestOf": 3,
       "score": null,
@@ -2290,7 +2555,7 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-09-30",
+      "lastUpdatedAt": "2026-10-01T03:55:31Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -2303,12 +2568,12 @@
           "team2": "Barca"
         },
         "identityStatus": {
-          "team1": "UNKNOWN",
-          "team2": "UNKNOWN"
+          "team1": "RESOLVED",
+          "team2": "RESOLVED"
         },
         "canonicalTeamId": {
-          "team1": null,
-          "team2": null
+          "team1": "team-hmble",
+          "team2": "team-barca"
         },
         "bestOfSource": "row-level bestof",
         "gameBlockCount": 3,
@@ -2321,7 +2586,7 @@
           "time": "08:00",
           "timezone": "PST",
           "dst": "yes",
-          "utcConversion": "PENDING_TIMEZONE_REVIEW"
+          "utcConversion": "CONVERTED"
         }
       }
     },
@@ -2340,9 +2605,9 @@
         "id": "Round 5",
         "name": "Round 5"
       },
-      "team1Id": "ESB",
-      "team2Id": "UCAM Esports",
-      "scheduledAt": null,
+      "team1Id": "team-esb",
+      "team2Id": "team-ucam-esports",
+      "scheduledAt": "2026-09-30T15:00:00Z",
       "status": "scheduled",
       "bestOf": 3,
       "score": null,
@@ -2353,7 +2618,7 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-09-30",
+      "lastUpdatedAt": "2026-10-01T03:55:31Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -2366,12 +2631,12 @@
           "team2": "UCAM Esports"
         },
         "identityStatus": {
-          "team1": "UNKNOWN",
-          "team2": "UNKNOWN"
+          "team1": "RESOLVED",
+          "team2": "RESOLVED"
         },
         "canonicalTeamId": {
-          "team1": null,
-          "team2": null
+          "team1": "team-esb",
+          "team2": "team-ucam-esports"
         },
         "bestOfSource": "row-level bestof",
         "gameBlockCount": 3,
@@ -2384,7 +2649,7 @@
           "time": "08:00",
           "timezone": "PST",
           "dst": "yes",
-          "utcConversion": "PENDING_TIMEZONE_REVIEW"
+          "utcConversion": "CONVERTED"
         }
       }
     },
@@ -2403,9 +2668,9 @@
         "id": "Round 5",
         "name": "Round 5"
       },
-      "team1Id": "G2 NORD",
-      "team2Id": "Bomba Team",
-      "scheduledAt": null,
+      "team1Id": "team-g2-nord",
+      "team2Id": "team-bomba-team",
+      "scheduledAt": "2026-09-30T18:00:00Z",
       "status": "scheduled",
       "bestOf": 3,
       "score": null,
@@ -2416,7 +2681,7 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-09-30",
+      "lastUpdatedAt": "2026-10-01T03:55:31Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -2429,12 +2694,12 @@
           "team2": "Bomba Team"
         },
         "identityStatus": {
-          "team1": "UNKNOWN",
-          "team2": "UNKNOWN"
+          "team1": "RESOLVED",
+          "team2": "RESOLVED"
         },
         "canonicalTeamId": {
-          "team1": null,
-          "team2": null
+          "team1": "team-g2-nord",
+          "team2": "team-bomba-team"
         },
         "bestOfSource": "row-level bestof",
         "gameBlockCount": 3,
@@ -2447,7 +2712,7 @@
           "time": "11:00",
           "timezone": "PST",
           "dst": "yes",
-          "utcConversion": "PENDING_TIMEZONE_REVIEW"
+          "utcConversion": "CONVERTED"
         }
       }
     },
@@ -2466,9 +2731,9 @@
         "id": "Round 5",
         "name": "Round 5"
       },
-      "team1Id": "HRTS.A",
-      "team2Id": "Nightbirds",
-      "scheduledAt": null,
+      "team1Id": "team-hrts-a",
+      "team2Id": "team-nightbirds",
+      "scheduledAt": "2026-09-30T18:00:00Z",
       "status": "scheduled",
       "bestOf": 3,
       "score": null,
@@ -2479,7 +2744,7 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-09-30",
+      "lastUpdatedAt": "2026-10-01T03:55:31Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -2492,12 +2757,12 @@
           "team2": "Nightbirds"
         },
         "identityStatus": {
-          "team1": "UNKNOWN",
-          "team2": "UNKNOWN"
+          "team1": "RESOLVED",
+          "team2": "RESOLVED"
         },
         "canonicalTeamId": {
-          "team1": null,
-          "team2": null
+          "team1": "team-hrts-a",
+          "team2": "team-nightbirds"
         },
         "bestOfSource": "row-level bestof",
         "gameBlockCount": 3,
@@ -2510,7 +2775,7 @@
           "time": "11:00",
           "timezone": "PST",
           "dst": "yes",
-          "utcConversion": "PENDING_TIMEZONE_REVIEW"
+          "utcConversion": "CONVERTED"
         }
       }
     },
@@ -2529,9 +2794,9 @@
         "id": "Round 5",
         "name": "Round 5"
       },
-      "team1Id": "Phantasma",
-      "team2Id": "GMCE",
-      "scheduledAt": null,
+      "team1Id": "team-phantasma",
+      "team2Id": "team-gmce",
+      "scheduledAt": "2026-09-30T18:00:00Z",
       "status": "scheduled",
       "bestOf": 3,
       "score": null,
@@ -2542,7 +2807,7 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-09-30",
+      "lastUpdatedAt": "2026-10-01T03:55:31Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -2555,12 +2820,12 @@
           "team2": "GMCE"
         },
         "identityStatus": {
-          "team1": "UNKNOWN",
-          "team2": "UNKNOWN"
+          "team1": "RESOLVED",
+          "team2": "RESOLVED"
         },
         "canonicalTeamId": {
-          "team1": null,
-          "team2": null
+          "team1": "team-phantasma",
+          "team2": "team-gmce"
         },
         "bestOfSource": "row-level bestof",
         "gameBlockCount": 3,
@@ -2573,7 +2838,7 @@
           "time": "11:00",
           "timezone": "PST",
           "dst": "yes",
-          "utcConversion": "PENDING_TIMEZONE_REVIEW"
+          "utcConversion": "CONVERTED"
         }
       }
     },
@@ -2592,9 +2857,9 @@
         "id": "Round 5",
         "name": "Round 5"
       },
-      "team1Id": "TSC HR",
-      "team2Id": "SU Esports",
-      "scheduledAt": null,
+      "team1Id": "team-tsc-hr",
+      "team2Id": "team-su-esports",
+      "scheduledAt": "2026-09-30T18:00:00Z",
       "status": "scheduled",
       "bestOf": 3,
       "score": null,
@@ -2605,7 +2870,7 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-09-30",
+      "lastUpdatedAt": "2026-10-01T03:55:31Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -2618,12 +2883,12 @@
           "team2": "SU Esports"
         },
         "identityStatus": {
-          "team1": "UNKNOWN",
-          "team2": "UNKNOWN"
+          "team1": "RESOLVED",
+          "team2": "RESOLVED"
         },
         "canonicalTeamId": {
-          "team1": null,
-          "team2": null
+          "team1": "team-tsc-hr",
+          "team2": "team-su-esports"
         },
         "bestOfSource": "row-level bestof",
         "gameBlockCount": 3,
@@ -2636,7 +2901,7 @@
           "time": "11:00",
           "timezone": "PST",
           "dst": "yes",
-          "utcConversion": "PENDING_TIMEZONE_REVIEW"
+          "utcConversion": "CONVERTED"
         }
       }
     },
@@ -2657,7 +2922,7 @@
       },
       "team1Id": null,
       "team2Id": null,
-      "scheduledAt": null,
+      "scheduledAt": "2026-10-01T15:00:00Z",
       "status": "scheduled",
       "bestOf": 3,
       "score": null,
@@ -2668,7 +2933,7 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-09-30",
+      "lastUpdatedAt": "2026-10-01T03:55:31Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -2699,7 +2964,7 @@
           "time": "08:00",
           "timezone": "PST",
           "dst": "yes",
-          "utcConversion": "PENDING_TIMEZONE_REVIEW"
+          "utcConversion": "CONVERTED"
         }
       }
     },
@@ -2720,7 +2985,7 @@
       },
       "team1Id": null,
       "team2Id": null,
-      "scheduledAt": null,
+      "scheduledAt": "2026-10-01T15:00:00Z",
       "status": "scheduled",
       "bestOf": 3,
       "score": null,
@@ -2731,7 +2996,7 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-09-30",
+      "lastUpdatedAt": "2026-10-01T03:55:31Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -2762,7 +3027,7 @@
           "time": "08:00",
           "timezone": "PST",
           "dst": "yes",
-          "utcConversion": "PENDING_TIMEZONE_REVIEW"
+          "utcConversion": "CONVERTED"
         }
       }
     },
@@ -2783,7 +3048,7 @@
       },
       "team1Id": null,
       "team2Id": null,
-      "scheduledAt": null,
+      "scheduledAt": "2026-10-01T15:00:00Z",
       "status": "scheduled",
       "bestOf": 3,
       "score": null,
@@ -2794,7 +3059,7 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-09-30",
+      "lastUpdatedAt": "2026-10-01T03:55:31Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -2825,7 +3090,7 @@
           "time": "08:00",
           "timezone": "PST",
           "dst": "yes",
-          "utcConversion": "PENDING_TIMEZONE_REVIEW"
+          "utcConversion": "CONVERTED"
         }
       }
     },
@@ -2846,7 +3111,7 @@
       },
       "team1Id": null,
       "team2Id": null,
-      "scheduledAt": null,
+      "scheduledAt": "2026-10-01T15:00:00Z",
       "status": "scheduled",
       "bestOf": 3,
       "score": null,
@@ -2857,7 +3122,7 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-09-30",
+      "lastUpdatedAt": "2026-10-01T03:55:31Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -2888,7 +3153,7 @@
           "time": "08:00",
           "timezone": "PST",
           "dst": "yes",
-          "utcConversion": "PENDING_TIMEZONE_REVIEW"
+          "utcConversion": "CONVERTED"
         }
       }
     },
@@ -2909,7 +3174,7 @@
       },
       "team1Id": null,
       "team2Id": null,
-      "scheduledAt": null,
+      "scheduledAt": "2026-10-01T15:00:00Z",
       "status": "scheduled",
       "bestOf": 3,
       "score": null,
@@ -2920,7 +3185,7 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-09-30",
+      "lastUpdatedAt": "2026-10-01T03:55:31Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -2951,7 +3216,7 @@
           "time": "08:00",
           "timezone": "PST",
           "dst": "yes",
-          "utcConversion": "PENDING_TIMEZONE_REVIEW"
+          "utcConversion": "CONVERTED"
         }
       }
     },
@@ -2972,7 +3237,7 @@
       },
       "team1Id": null,
       "team2Id": null,
-      "scheduledAt": null,
+      "scheduledAt": "2026-10-01T16:00:00Z",
       "status": "scheduled",
       "bestOf": 3,
       "score": null,
@@ -2983,7 +3248,7 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-09-30",
+      "lastUpdatedAt": "2026-10-01T03:55:31Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -3014,7 +3279,7 @@
           "time": "09:00",
           "timezone": "PST",
           "dst": "yes",
-          "utcConversion": "PENDING_TIMEZONE_REVIEW"
+          "utcConversion": "CONVERTED"
         }
       }
     },
@@ -3035,7 +3300,7 @@
       },
       "team1Id": null,
       "team2Id": null,
-      "scheduledAt": null,
+      "scheduledAt": "2026-10-01T16:00:00Z",
       "status": "scheduled",
       "bestOf": 3,
       "score": null,
@@ -3046,7 +3311,7 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-09-30",
+      "lastUpdatedAt": "2026-10-01T03:55:31Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -3077,7 +3342,7 @@
           "time": "09:00",
           "timezone": "PST",
           "dst": "yes",
-          "utcConversion": "PENDING_TIMEZONE_REVIEW"
+          "utcConversion": "CONVERTED"
         }
       }
     },
@@ -3098,7 +3363,7 @@
       },
       "team1Id": null,
       "team2Id": null,
-      "scheduledAt": null,
+      "scheduledAt": "2026-10-01T16:00:00Z",
       "status": "scheduled",
       "bestOf": 3,
       "score": null,
@@ -3109,7 +3374,7 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-09-30",
+      "lastUpdatedAt": "2026-10-01T03:55:31Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -3140,7 +3405,7 @@
           "time": "09:00",
           "timezone": "PST",
           "dst": "yes",
-          "utcConversion": "PENDING_TIMEZONE_REVIEW"
+          "utcConversion": "CONVERTED"
         }
       }
     },
@@ -3161,7 +3426,7 @@
       },
       "team1Id": null,
       "team2Id": null,
-      "scheduledAt": null,
+      "scheduledAt": "2026-10-01T16:00:00Z",
       "status": "scheduled",
       "bestOf": 3,
       "score": null,
@@ -3172,7 +3437,7 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-09-30",
+      "lastUpdatedAt": "2026-10-01T03:55:31Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -3203,7 +3468,7 @@
           "time": "09:00",
           "timezone": "PST",
           "dst": "yes",
-          "utcConversion": "PENDING_TIMEZONE_REVIEW"
+          "utcConversion": "CONVERTED"
         }
       }
     },
@@ -3224,7 +3489,7 @@
       },
       "team1Id": null,
       "team2Id": null,
-      "scheduledAt": null,
+      "scheduledAt": "2026-10-01T16:00:00Z",
       "status": "scheduled",
       "bestOf": 3,
       "score": null,
@@ -3235,7 +3500,7 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-09-30",
+      "lastUpdatedAt": "2026-10-01T03:55:31Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -3266,7 +3531,7 @@
           "time": "09:00",
           "timezone": "PST",
           "dst": "yes",
-          "utcConversion": "PENDING_TIMEZONE_REVIEW"
+          "utcConversion": "CONVERTED"
         }
       }
     },
@@ -3287,7 +3552,7 @@
       },
       "team1Id": null,
       "team2Id": null,
-      "scheduledAt": null,
+      "scheduledAt": "2026-10-02T15:00:00Z",
       "status": "scheduled",
       "bestOf": 3,
       "score": null,
@@ -3298,7 +3563,7 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-09-30",
+      "lastUpdatedAt": "2026-10-01T03:55:31Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -3329,7 +3594,7 @@
           "time": "08:00",
           "timezone": "PST",
           "dst": "yes",
-          "utcConversion": "PENDING_TIMEZONE_REVIEW"
+          "utcConversion": "CONVERTED"
         }
       }
     },
@@ -3350,7 +3615,7 @@
       },
       "team1Id": null,
       "team2Id": null,
-      "scheduledAt": null,
+      "scheduledAt": "2026-10-02T15:00:00Z",
       "status": "scheduled",
       "bestOf": 3,
       "score": null,
@@ -3361,7 +3626,7 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-09-30",
+      "lastUpdatedAt": "2026-10-01T03:55:31Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -3392,7 +3657,7 @@
           "time": "08:00",
           "timezone": "PST",
           "dst": "yes",
-          "utcConversion": "PENDING_TIMEZONE_REVIEW"
+          "utcConversion": "CONVERTED"
         }
       }
     },
@@ -3413,7 +3678,7 @@
       },
       "team1Id": null,
       "team2Id": null,
-      "scheduledAt": null,
+      "scheduledAt": "2026-10-02T15:00:00Z",
       "status": "scheduled",
       "bestOf": 3,
       "score": null,
@@ -3424,7 +3689,7 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-09-30",
+      "lastUpdatedAt": "2026-10-01T03:55:31Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -3455,7 +3720,7 @@
           "time": "08:00",
           "timezone": "PST",
           "dst": "yes",
-          "utcConversion": "PENDING_TIMEZONE_REVIEW"
+          "utcConversion": "CONVERTED"
         }
       }
     },
@@ -3476,7 +3741,7 @@
       },
       "team1Id": null,
       "team2Id": null,
-      "scheduledAt": null,
+      "scheduledAt": "2026-10-02T16:00:00Z",
       "status": "scheduled",
       "bestOf": 3,
       "score": null,
@@ -3487,7 +3752,7 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-09-30",
+      "lastUpdatedAt": "2026-10-01T03:55:31Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -3518,7 +3783,7 @@
           "time": "09:00",
           "timezone": "PST",
           "dst": "yes",
-          "utcConversion": "PENDING_TIMEZONE_REVIEW"
+          "utcConversion": "CONVERTED"
         }
       }
     },
@@ -3539,7 +3804,7 @@
       },
       "team1Id": null,
       "team2Id": null,
-      "scheduledAt": null,
+      "scheduledAt": "2026-10-02T16:00:00Z",
       "status": "scheduled",
       "bestOf": 3,
       "score": null,
@@ -3550,7 +3815,7 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-09-30",
+      "lastUpdatedAt": "2026-10-01T03:55:31Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -3581,7 +3846,7 @@
           "time": "09:00",
           "timezone": "PST",
           "dst": "yes",
-          "utcConversion": "PENDING_TIMEZONE_REVIEW"
+          "utcConversion": "CONVERTED"
         }
       }
     },
