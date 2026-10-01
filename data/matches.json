@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "2026.10.01.02",
-  "generatedAt": "2026-10-01T03:55:31Z",
+  "dataVersion": "2026.10.01.03",
+  "generatedAt": "2026-10-01T06:50:26Z",
   "leagues": [
     {
       "id": "LCK21",
@@ -379,6 +379,46 @@
       "region": "EMEA",
       "aliases": [
         "SU Esports"
+      ]
+    },
+    {
+      "id": "team-kcb",
+      "name": "Karmine Corp Blue",
+      "shortName": "KCB",
+      "region": "EMEA",
+      "aliases": [
+        "KCB",
+        "Karmine Corp Blue"
+      ]
+    },
+    {
+      "id": "team-fsk",
+      "name": "Forsaken (Polish Team)",
+      "shortName": "FSK",
+      "region": "EMEA",
+      "aliases": [
+        "FSK",
+        "Forsaken (Polish Team)"
+      ]
+    },
+    {
+      "id": "team-anubis-gaming",
+      "name": "Anubis Gaming",
+      "shortName": "Anubis Gaming",
+      "region": "EMEA",
+      "aliases": [
+        "Anubis Gaming",
+        "Anubis Gaming"
+      ]
+    },
+    {
+      "id": "team-white-dragons",
+      "name": "White Dragons",
+      "shortName": "White Dragons",
+      "region": "EMEA",
+      "aliases": [
+        "White Dragons",
+        "White Dragons"
       ]
     }
   ],
@@ -4225,6 +4265,3334 @@
           "timezone": "PST",
           "dst": "yes",
           "utcConversion": "PENDING_TIMEZONE_REVIEW"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-26:BIG:FEC",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 1",
+        "name": "Round 1"
+      },
+      "team1Id": "team-big",
+      "team2Id": "team-fec",
+      "scheduledAt": "2026-09-26T16:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "BIG",
+          "team2": "FEC"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-26",
+          "time": "09:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-26:JSK Esports:Barca",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 1",
+        "name": "Round 1"
+      },
+      "team1Id": "team-jsk-esports",
+      "team2Id": "team-barca",
+      "scheduledAt": "2026-09-26T16:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "JSK Esports",
+          "team2": "Barca"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-26",
+          "time": "09:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-26:Valerion:LODIS PL",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 1",
+        "name": "Round 1"
+      },
+      "team1Id": "team-valerion",
+      "team2Id": "team-lodis-pl",
+      "scheduledAt": "2026-09-26T16:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "Valerion",
+          "team2": "LODIS PL"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-26",
+          "time": "09:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-26:Skillcamp:Colossal Gaming",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 1",
+        "name": "Round 1"
+      },
+      "team1Id": "team-skillcamp",
+      "team2Id": "team-colossal-gaming",
+      "scheduledAt": "2026-09-26T16:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "Skillcamp",
+          "team2": "Colossal Gaming"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-26",
+          "time": "09:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-26:TLN Pirates:Magaza Esports",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 1",
+        "name": "Round 1"
+      },
+      "team1Id": "team-tln-pirates",
+      "team2Id": "team-magaza",
+      "scheduledAt": "2026-09-26T17:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "TLN Pirates",
+          "team2": "Magaza Esports"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-26",
+          "time": "10:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-26:Ruddy Corporation:KHK",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 1",
+        "name": "Round 1"
+      },
+      "team1Id": "team-ruddy-corporation",
+      "team2Id": "team-khk",
+      "scheduledAt": "2026-09-26T17:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 0,
+        "team2": 1
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "Ruddy Corporation",
+          "team2": "KHK"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-26",
+          "time": "10:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-26:UCAM Esports:HMBLE",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 1",
+        "name": "Round 1"
+      },
+      "team1Id": "team-ucam-esports",
+      "team2Id": "team-hmble",
+      "scheduledAt": "2026-09-26T17:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "UCAM Esports",
+          "team2": "HMBLE"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-26",
+          "time": "10:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-26:SNSH:Bushido Wildcats",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 1",
+        "name": "Round 1"
+      },
+      "team1Id": "team-snsh",
+      "team2Id": "team-bushido-wildcats",
+      "scheduledAt": "2026-09-26T17:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "SNSH",
+          "team2": "Bushido Wildcats"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-26",
+          "time": "10:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-26:KCB:White Dragons",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 1",
+        "name": "Round 1"
+      },
+      "team1Id": "team-kcb",
+      "team2Id": "team-white-dragons",
+      "scheduledAt": "2026-09-26T18:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "KCB",
+          "team2": "White Dragons"
+        },
+        "rpgidCount": {
+          "total": 0,
+          "nonEmpty": 0
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-26",
+          "time": "11:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-26:Phantasma:SU Esports",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 1",
+        "name": "Round 1"
+      },
+      "team1Id": "team-phantasma",
+      "team2Id": "team-su-esports",
+      "scheduledAt": "2026-09-26T18:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 0,
+        "team2": 1
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "Phantasma",
+          "team2": "SU Esports"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-26",
+          "time": "11:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-26:FSK:G2 NORD",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 1",
+        "name": "Round 1"
+      },
+      "team1Id": "team-fsk",
+      "team2Id": "team-g2-nord",
+      "scheduledAt": "2026-09-26T18:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 0,
+        "team2": 1
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "FSK",
+          "team2": "G2 NORD"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-26",
+          "time": "11:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-26:HRTS.A:ESB",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 1",
+        "name": "Round 1"
+      },
+      "team1Id": "team-hrts-a",
+      "team2Id": "team-esb",
+      "scheduledAt": "2026-09-26T18:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "HRTS.A",
+          "team2": "ESB"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-26",
+          "time": "11:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-26:Bomba Team:GMCE",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 1",
+        "name": "Round 1"
+      },
+      "team1Id": "team-bomba-team",
+      "team2Id": "team-gmce",
+      "scheduledAt": "2026-09-26T19:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "Bomba Team",
+          "team2": "GMCE"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-26",
+          "time": "12:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-26:Nightbirds:Otter Side",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 1",
+        "name": "Round 1"
+      },
+      "team1Id": "team-nightbirds",
+      "team2Id": "team-otter-side",
+      "scheduledAt": "2026-09-26T19:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "Nightbirds",
+          "team2": "Otter Side"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-26",
+          "time": "12:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-26:Anubis Gaming:The Secret Club",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 1",
+        "name": "Round 1"
+      },
+      "team1Id": "team-anubis-gaming",
+      "team2Id": "team-tsc-hr",
+      "scheduledAt": "2026-09-26T19:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "Anubis Gaming",
+          "team2": "The Secret Club"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-26",
+          "time": "12:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-26:UOL.SE:PCIFIC Esports",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 1",
+        "name": "Round 1"
+      },
+      "team1Id": "team-uol-se",
+      "team2Id": "team-pcific-esports",
+      "scheduledAt": "2026-09-26T19:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "UOL.SE",
+          "team2": "PCIFIC Esports"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-26",
+          "time": "12:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-27:TLN Pirates:Bomba Team",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 2",
+        "name": "Round 2"
+      },
+      "team1Id": "team-tln-pirates",
+      "team2Id": "team-bomba-team",
+      "scheduledAt": "2026-09-27T16:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "TLN Pirates",
+          "team2": "Bomba Team"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-27",
+          "time": "09:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-27:G2 NORD:Nightbirds",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 2",
+        "name": "Round 2"
+      },
+      "team1Id": "team-g2-nord",
+      "team2Id": "team-nightbirds",
+      "scheduledAt": "2026-09-27T16:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 0,
+        "team2": 1
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "G2 NORD",
+          "team2": "Nightbirds"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-27",
+          "time": "09:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-27:Team Heretics Academy:Senshi eSports (Benelux Team)",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 2",
+        "name": "Round 2"
+      },
+      "team1Id": "team-hrts-a",
+      "team2Id": "team-snsh",
+      "scheduledAt": "2026-09-27T16:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "Team Heretics Academy",
+          "team2": "Senshi eSports (Benelux Team)"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-27",
+          "time": "09:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-27:Colossal Gaming:Ruddy Corporation",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 2",
+        "name": "Round 2"
+      },
+      "team1Id": "team-colossal-gaming",
+      "team2Id": "team-ruddy-corporation",
+      "scheduledAt": "2026-09-27T16:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 0,
+        "team2": 1
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "Colossal Gaming",
+          "team2": "Ruddy Corporation"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-27",
+          "time": "09:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-27:Kaufland Hangry Knights:Skillcamp",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 2",
+        "name": "Round 2"
+      },
+      "team1Id": "team-khk",
+      "team2Id": "team-skillcamp",
+      "scheduledAt": "2026-09-27T17:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 0,
+        "team2": 1
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "Kaufland Hangry Knights",
+          "team2": "Skillcamp"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-27",
+          "time": "10:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-27:JSK Esports:SU Esports",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 2",
+        "name": "Round 2"
+      },
+      "team1Id": "team-jsk-esports",
+      "team2Id": "team-su-esports",
+      "scheduledAt": "2026-09-27T17:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "JSK Esports",
+          "team2": "SU Esports"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-27",
+          "time": "10:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-27:Team Phantasma:Barça eSports",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 2",
+        "name": "Round 2"
+      },
+      "team1Id": "team-phantasma",
+      "team2Id": "team-barca",
+      "scheduledAt": "2026-09-27T17:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "Team Phantasma",
+          "team2": "Barça eSports"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-27",
+          "time": "10:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-27:Frites Esports Club:LODIS (Polish Team)",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 2",
+        "name": "Round 2"
+      },
+      "team1Id": "team-fec",
+      "team2Id": "team-lodis-pl",
+      "scheduledAt": "2026-09-27T17:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "Frites Esports Club",
+          "team2": "LODIS (Polish Team)"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-27",
+          "time": "10:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-27:Berlin International Gaming:Valerion",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 2",
+        "name": "Round 2"
+      },
+      "team1Id": "team-big",
+      "team2Id": "team-valerion",
+      "scheduledAt": "2026-09-27T18:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 0,
+        "team2": 1
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "Berlin International Gaming",
+          "team2": "Valerion"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-27",
+          "time": "11:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-27:Karmine Corp Blue:UCAM Esports",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 2",
+        "name": "Round 2"
+      },
+      "team1Id": "team-kcb",
+      "team2Id": "team-ucam-esports",
+      "scheduledAt": "2026-09-27T18:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "Karmine Corp Blue",
+          "team2": "UCAM Esports"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-27",
+          "time": "11:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-27:PCIFIC Esports:The Secret Club",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 2",
+        "name": "Round 2"
+      },
+      "team1Id": "team-pcific-esports",
+      "team2Id": "team-tsc-hr",
+      "scheduledAt": "2026-09-27T18:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "PCIFIC Esports",
+          "team2": "The Secret Club"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-27",
+          "time": "11:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-27:Forsaken (Polish Team):Otter Side",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 2",
+        "name": "Round 2"
+      },
+      "team1Id": "team-fsk",
+      "team2Id": "team-otter-side",
+      "scheduledAt": "2026-09-27T18:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 0,
+        "team2": 1
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "Forsaken (Polish Team)",
+          "team2": "Otter Side"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-27",
+          "time": "11:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-27:Anubis Gaming:Unicorns of Love Sexy Edition",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 2",
+        "name": "Round 2"
+      },
+      "team1Id": "team-anubis-gaming",
+      "team2Id": "team-uol-se",
+      "scheduledAt": "2026-09-27T19:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "Anubis Gaming",
+          "team2": "Unicorns of Love Sexy Edition"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-27",
+          "time": "12:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-27:Bushido Wildcats:eSuba",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 2",
+        "name": "Round 2"
+      },
+      "team1Id": "team-bushido-wildcats",
+      "team2Id": "team-esb",
+      "scheduledAt": "2026-09-27T19:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "Bushido Wildcats",
+          "team2": "eSuba"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-27",
+          "time": "12:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-27:HMBLE:White Dragons",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 2",
+        "name": "Round 2"
+      },
+      "team1Id": "team-hmble",
+      "team2Id": "team-white-dragons",
+      "scheduledAt": "2026-09-27T19:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "HMBLE",
+          "team2": "White Dragons"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-27",
+          "time": "12:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-27:Magaza Esports:Gamespace Mediterranean College Esports",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 2",
+        "name": "Round 2"
+      },
+      "team1Id": "team-magaza",
+      "team2Id": "team-gmce",
+      "scheduledAt": "2026-09-27T19:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "Magaza Esports",
+          "team2": "Gamespace Mediterranean College Esports"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-27",
+          "time": "12:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-28:Anubis Gaming:Skillcamp",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 3",
+        "name": "Round 3"
+      },
+      "team1Id": "team-anubis-gaming",
+      "team2Id": "team-skillcamp",
+      "scheduledAt": "2026-09-28T16:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "Anubis Gaming",
+          "team2": "Skillcamp"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-28",
+          "time": "09:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-28:G2 NORD:Frites Esports Club",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 3",
+        "name": "Round 3"
+      },
+      "team1Id": "team-g2-nord",
+      "team2Id": "team-fec",
+      "scheduledAt": "2026-09-28T16:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "G2 NORD",
+          "team2": "Frites Esports Club"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-28",
+          "time": "09:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-28:PCIFIC Esports:UCAM Esports",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 3",
+        "name": "Round 3"
+      },
+      "team1Id": "team-pcific-esports",
+      "team2Id": "team-ucam-esports",
+      "scheduledAt": "2026-09-28T16:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "PCIFIC Esports",
+          "team2": "UCAM Esports"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-28",
+          "time": "09:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-28:eSuba:LODIS (Polish Team)",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 3",
+        "name": "Round 3"
+      },
+      "team1Id": "team-esb",
+      "team2Id": "team-lodis-pl",
+      "scheduledAt": "2026-09-28T16:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 0,
+        "team2": 1
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "eSuba",
+          "team2": "LODIS (Polish Team)"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-28",
+          "time": "09:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-28:TLN Pirates:JSK Esports",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 3",
+        "name": "Round 3"
+      },
+      "team1Id": "team-tln-pirates",
+      "team2Id": "team-jsk-esports",
+      "scheduledAt": "2026-09-28T17:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "TLN Pirates",
+          "team2": "JSK Esports"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-28",
+          "time": "10:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-28:Kaufland Hangry Knights:Senshi eSports (Benelux Team)",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 3",
+        "name": "Round 3"
+      },
+      "team1Id": "team-khk",
+      "team2Id": "team-snsh",
+      "scheduledAt": "2026-09-28T17:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "Kaufland Hangry Knights",
+          "team2": "Senshi eSports (Benelux Team)"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-28",
+          "time": "10:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-28:Bomba Team:SU Esports",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 3",
+        "name": "Round 3"
+      },
+      "team1Id": "team-bomba-team",
+      "team2Id": "team-su-esports",
+      "scheduledAt": "2026-09-28T17:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "Bomba Team",
+          "team2": "SU Esports"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-28",
+          "time": "10:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-28:Team Phantasma:Otter Side",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 3",
+        "name": "Round 3"
+      },
+      "team1Id": "team-phantasma",
+      "team2Id": "team-otter-side",
+      "scheduledAt": "2026-09-28T17:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 0,
+        "team2": 1
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "Team Phantasma",
+          "team2": "Otter Side"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-28",
+          "time": "10:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-28:Team Heretics Academy:Valerion",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 3",
+        "name": "Round 3"
+      },
+      "team1Id": "team-hrts-a",
+      "team2Id": "team-valerion",
+      "scheduledAt": "2026-09-28T18:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "Team Heretics Academy",
+          "team2": "Valerion"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-28",
+          "time": "11:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-28:Karmine Corp Blue:Nightbirds",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 3",
+        "name": "Round 3"
+      },
+      "team1Id": "team-kcb",
+      "team2Id": "team-nightbirds",
+      "scheduledAt": "2026-09-28T18:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "Karmine Corp Blue",
+          "team2": "Nightbirds"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-28",
+          "time": "11:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-28:Berlin International Gaming:Magaza Esports",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 3",
+        "name": "Round 3"
+      },
+      "team1Id": "team-big",
+      "team2Id": "team-magaza",
+      "scheduledAt": "2026-09-28T18:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "Berlin International Gaming",
+          "team2": "Magaza Esports"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-28",
+          "time": "11:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-28:Colossal Gaming:White Dragons",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 3",
+        "name": "Round 3"
+      },
+      "team1Id": "team-colossal-gaming",
+      "team2Id": "team-white-dragons",
+      "scheduledAt": "2026-09-28T18:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "Colossal Gaming",
+          "team2": "White Dragons"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-28",
+          "time": "11:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-28:Bushido Wildcats:Ruddy Corporation",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 3",
+        "name": "Round 3"
+      },
+      "team1Id": "team-bushido-wildcats",
+      "team2Id": "team-ruddy-corporation",
+      "scheduledAt": "2026-09-28T19:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 0,
+        "team2": 1
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "Bushido Wildcats",
+          "team2": "Ruddy Corporation"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-28",
+          "time": "12:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-28:HMBLE:Unicorns of Love Sexy Edition",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 3",
+        "name": "Round 3"
+      },
+      "team1Id": "team-hmble",
+      "team2Id": "team-uol-se",
+      "scheduledAt": "2026-09-28T19:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 0,
+        "team2": 1
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "HMBLE",
+          "team2": "Unicorns of Love Sexy Edition"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-28",
+          "time": "12:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-28:Forsaken (Polish Team):Barça eSports",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 3",
+        "name": "Round 3"
+      },
+      "team1Id": "team-fsk",
+      "team2Id": "team-barca",
+      "scheduledAt": "2026-09-28T19:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 0,
+        "team2": 1
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "Forsaken (Polish Team)",
+          "team2": "Barça eSports"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-28",
+          "time": "12:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-28:The Secret Club:Gamespace Mediterranean College Esports",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 3",
+        "name": "Round 3"
+      },
+      "team1Id": "team-tsc-hr",
+      "team2Id": "team-gmce",
+      "scheduledAt": "2026-09-28T19:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 0,
+        "team2": 1
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "The Secret Club",
+          "team2": "Gamespace Mediterranean College Esports"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-28",
+          "time": "12:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-29:G2 NORD:Ruddy Corporation",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 4",
+        "name": "Round 4"
+      },
+      "team1Id": "team-g2-nord",
+      "team2Id": "team-ruddy-corporation",
+      "scheduledAt": "2026-09-29T15:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "G2 NORD",
+          "team2": "Ruddy Corporation"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-29",
+          "time": "08:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-29:Valerion:Skillcamp",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 4",
+        "name": "Round 4"
+      },
+      "team1Id": "team-valerion",
+      "team2Id": "team-skillcamp",
+      "scheduledAt": "2026-09-29T15:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "Valerion",
+          "team2": "Skillcamp"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-29",
+          "time": "08:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-29:Colossal Gaming:SU Esports",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 4",
+        "name": "Round 4"
+      },
+      "team1Id": "team-colossal-gaming",
+      "team2Id": "team-su-esports",
+      "scheduledAt": "2026-09-29T15:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "Colossal Gaming",
+          "team2": "SU Esports"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-29",
+          "time": "08:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-29:Magaza:Barca",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 4",
+        "name": "Round 4"
+      },
+      "team1Id": "team-magaza",
+      "team2Id": "team-barca",
+      "scheduledAt": "2026-09-29T15:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "Magaza",
+          "team2": "Barca"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-29",
+          "time": "08:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-29:BIG:Bomba Team",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 4",
+        "name": "Round 4"
+      },
+      "team1Id": "team-big",
+      "team2Id": "team-bomba-team",
+      "scheduledAt": "2026-09-29T16:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 0,
+        "team2": 1
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "BIG",
+          "team2": "Bomba Team"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-29",
+          "time": "09:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-29:PCIFIC Esports:Nightbirds",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 4",
+        "name": "Round 4"
+      },
+      "team1Id": "team-pcific-esports",
+      "team2Id": "team-nightbirds",
+      "scheduledAt": "2026-09-29T16:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 0,
+        "team2": 1
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "PCIFIC Esports",
+          "team2": "Nightbirds"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-29",
+          "time": "09:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-29:JSK Esports:UOL.SE",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 4",
+        "name": "Round 4"
+      },
+      "team1Id": "team-jsk-esports",
+      "team2Id": "team-uol-se",
+      "scheduledAt": "2026-09-29T16:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 0,
+        "team2": 1
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "JSK Esports",
+          "team2": "UOL.SE"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-29",
+          "time": "09:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-29:FEC:GMCE",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 4",
+        "name": "Round 4"
+      },
+      "team1Id": "team-fec",
+      "team2Id": "team-gmce",
+      "scheduledAt": "2026-09-29T16:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "FEC",
+          "team2": "GMCE"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-29",
+          "time": "09:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-29:KHK:Otter Side",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 4",
+        "name": "Round 4"
+      },
+      "team1Id": "team-khk",
+      "team2Id": "team-otter-side",
+      "scheduledAt": "2026-09-29T17:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "KHK",
+          "team2": "Otter Side"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-29",
+          "time": "10:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-29:Bushido Wildcats:UCAM Esports",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 4",
+        "name": "Round 4"
+      },
+      "team1Id": "team-bushido-wildcats",
+      "team2Id": "team-ucam-esports",
+      "scheduledAt": "2026-09-29T17:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 1,
+        "team2": 0
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "Bushido Wildcats",
+          "team2": "UCAM Esports"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-29",
+          "time": "10:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-29:HMBLE:SNSH",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 4",
+        "name": "Round 4"
+      },
+      "team1Id": "team-hmble",
+      "team2Id": "team-snsh",
+      "scheduledAt": "2026-09-29T17:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 0,
+        "team2": 1
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "HMBLE",
+          "team2": "SNSH"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-29",
+          "time": "10:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-29:Phantasma:LODIS PL",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 4",
+        "name": "Round 4"
+      },
+      "team1Id": "team-phantasma",
+      "team2Id": "team-lodis-pl",
+      "scheduledAt": "2026-09-29T17:00:00Z",
+      "status": "completed",
+      "bestOf": 1,
+      "score": {
+        "team1": 0,
+        "team2": 1
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "Phantasma",
+          "team2": "LODIS PL"
+        },
+        "rpgidCount": {
+          "total": 1,
+          "nonEmpty": 1
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-29",
+          "time": "10:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-29:TLN Pirates:Anubis Gaming",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 4",
+        "name": "Round 4"
+      },
+      "team1Id": "team-tln-pirates",
+      "team2Id": "team-anubis-gaming",
+      "scheduledAt": "2026-09-29T18:00:00Z",
+      "status": "completed",
+      "bestOf": 3,
+      "score": {
+        "team1": 0,
+        "team2": 2
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "TLN Pirates",
+          "team2": "Anubis Gaming"
+        },
+        "rpgidCount": {
+          "total": 2,
+          "nonEmpty": 2
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-29",
+          "time": "11:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-29:HRTS.A:KCB",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 4",
+        "name": "Round 4"
+      },
+      "team1Id": "team-hrts-a",
+      "team2Id": "team-kcb",
+      "scheduledAt": "2026-09-29T18:00:00Z",
+      "status": "completed",
+      "bestOf": 3,
+      "score": {
+        "team1": 1,
+        "team2": 2
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "HRTS.A",
+          "team2": "KCB"
+        },
+        "rpgidCount": {
+          "total": 3,
+          "nonEmpty": 3
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-29",
+          "time": "11:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-29:FSK:TSC HR",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 4",
+        "name": "Round 4"
+      },
+      "team1Id": "team-fsk",
+      "team2Id": "team-tsc-hr",
+      "scheduledAt": "2026-09-29T18:00:00Z",
+      "status": "completed",
+      "bestOf": 3,
+      "score": {
+        "team1": 1,
+        "team2": 2
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "FSK",
+          "team2": "TSC HR"
+        },
+        "rpgidCount": {
+          "total": 3,
+          "nonEmpty": 3
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-29",
+          "time": "11:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
+        }
+      }
+    },
+    {
+      "id": "lp:EM 2026 Summer Main Event:2026-09-29:ESB:White Dragons",
+      "league": {
+        "id": "EM",
+        "name": "EMEA Masters",
+        "region": "EU"
+      },
+      "tournament": {
+        "id": "EM 2026 Summer Main Event",
+        "name": "EM 2026 Summer Main Event"
+      },
+      "stage": {
+        "id": "Round 4",
+        "name": "Round 4"
+      },
+      "team1Id": "team-esb",
+      "team2Id": "team-white-dragons",
+      "scheduledAt": "2026-09-29T18:00:00Z",
+      "status": "completed",
+      "bestOf": 3,
+      "score": {
+        "team1": 2,
+        "team2": 0
+      },
+      "lastUpdatedAt": "2026-10-01T06:50:26Z",
+      "sources": [
+        {
+          "source": "leaguepedia",
+          "kind": "raw_fixture",
+          "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
+        }
+      ],
+      "_provisional": {
+        "teamIdSource": "leaguepedia raw value (exact resolver + verified promotion map)",
+        "teamSlotRaw": {
+          "team1": "ESB",
+          "team2": "White Dragons"
+        },
+        "rpgidCount": {
+          "total": 2,
+          "nonEmpty": 2
+        },
+        "bestOfSource": "row-level bestof",
+        "timeRaw": {
+          "date": "2026-09-29",
+          "time": "11:00",
+          "timezone": "PST",
+          "dst": "yes",
+          "utcConversion": "CONVERTED"
         }
       }
     }

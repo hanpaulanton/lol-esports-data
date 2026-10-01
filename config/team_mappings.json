@@ -46,6 +46,11 @@
       "scope": "EMEA Masters 2026 Summer Main Event schedule codes (28 expressions)",
       "method": "riot_platform_game_id join between Data page MatchSchedule rows and Scoreboards pages (63 matched games, side-aware); reverse 1:1 name uniqueness verified; CONFLICT 0",
       "note": "canonicalId stays null here: canonical Team ids live in the canonical envelope teams array (deterministic team-<code> ids, PHASE 18-12 convention)"
+    },
+    "emeaCompletedAddition": {
+      "phase": "PHASE 18-20",
+      "scope": "4 additional EMEA Masters team representations found in completed rounds (R1-R4)",
+      "note": "existing 28 mappings unchanged; full-name forms of the 28 already resolve via the existing name->code entries"
     }
   },
   "mappings": [
@@ -315,6 +320,34 @@
       "name": "SU Esports",
       "humanProvidedCode": null,
       "humanVerification": "OBSERVED - PHASE 18-14 rpgid join vs Leaguepedia Scoreboards (4 game(s)): schedule code equals the Scoreboard full name; identityStatus RESOLVED, CONFLICT 0",
+      "canonicalId": null
+    },
+    {
+      "leaguepediaCode": "KCB",
+      "name": "Karmine Corp Blue",
+      "humanProvidedCode": null,
+      "humanVerification": "OBSERVED - cargo Teams Short='KCB' for Name='Karmine Corp Blue' (explicit documented alias; the schedule code appears only on a forfeit row with no games, so no rpgid join exists - cargo alias + fixture co-use of the full name is the evidence; PHASE 18-20",
+      "canonicalId": null
+    },
+    {
+      "leaguepediaCode": "FSK",
+      "name": "Forsaken (Polish Team)",
+      "humanProvidedCode": null,
+      "humanVerification": "OBSERVED - PHASE 18-20 rpgid joins vs Leaguepedia Scoreboards (e.g. LOLTMNT05_223276: schedule 'FSK' vs G2 NORD == Scoreboard 'Forsaken (Polish Team)' vs G2 NORD; also 226043/227056); CONFLICT 0",
+      "canonicalId": null
+    },
+    {
+      "leaguepediaCode": "Anubis Gaming",
+      "name": "Anubis Gaming",
+      "humanProvidedCode": null,
+      "humanVerification": "OBSERVED - name-form team: Leaguepedia game records use 'Anubis Gaming' directly (223284/225389/225423/226041/227058); cargo Short='ANB' consistent; PHASE 18-20",
+      "canonicalId": null
+    },
+    {
+      "leaguepediaCode": "White Dragons",
+      "name": "White Dragons",
+      "humanProvidedCode": null,
+      "humanVerification": "OBSERVED - name-form team: Leaguepedia game records use 'White Dragons' directly (223396/223470/226040/227057); no cargo entry exists, the wiki game records are the identity evidence; PHASE 18-20",
       "canonicalId": null
     }
   ]
