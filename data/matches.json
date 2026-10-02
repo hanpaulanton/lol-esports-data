@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "2026.10.02.01",
-  "generatedAt": "2026-10-02T03:08:36Z",
+  "dataVersion": "2026.10.02.02",
+  "generatedAt": "2026-10-02T05:04:25Z",
   "leagues": [
     {
       "id": "LCK21",
@@ -3979,7 +3979,7 @@
       },
       "team1Id": null,
       "team2Id": null,
-      "scheduledAt": null,
+      "scheduledAt": "2026-10-15T18:00:00Z",
       "status": "scheduled",
       "bestOf": 5,
       "score": null,
@@ -3990,7 +3990,7 @@
           "ref": "raw/leaguepedia/page_Data_2026 Season World Championship_Play-In.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-09-30",
+      "lastUpdatedAt": "2026-10-02T05:04:25Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -4021,7 +4021,7 @@
           "time": "11:00",
           "timezone": "PST",
           "dst": "yes",
-          "utcConversion": "PENDING_TIMEZONE_REVIEW"
+          "utcConversion": "CONVERTED"
         }
       }
     },
@@ -4042,7 +4042,7 @@
       },
       "team1Id": null,
       "team2Id": null,
-      "scheduledAt": null,
+      "scheduledAt": "2026-10-15T23:00:00Z",
       "status": "scheduled",
       "bestOf": 5,
       "score": null,
@@ -4053,7 +4053,7 @@
           "ref": "raw/leaguepedia/page_Data_2026 Season World Championship_Play-In.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-09-30",
+      "lastUpdatedAt": "2026-10-02T05:04:25Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -4084,7 +4084,7 @@
           "time": "16:00",
           "timezone": "PST",
           "dst": "yes",
-          "utcConversion": "PENDING_TIMEZONE_REVIEW"
+          "utcConversion": "CONVERTED"
         }
       }
     },
@@ -4105,7 +4105,7 @@
       },
       "team1Id": null,
       "team2Id": null,
-      "scheduledAt": null,
+      "scheduledAt": "2026-10-16T23:00:00Z",
       "status": "scheduled",
       "bestOf": 5,
       "score": null,
@@ -4116,7 +4116,7 @@
           "ref": "raw/leaguepedia/page_Data_2026 Season World Championship_Play-In.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-09-30",
+      "lastUpdatedAt": "2026-10-02T05:04:25Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -4147,7 +4147,7 @@
           "time": "16:00",
           "timezone": "PST",
           "dst": "yes",
-          "utcConversion": "PENDING_TIMEZONE_REVIEW"
+          "utcConversion": "CONVERTED"
         }
       }
     },
@@ -4168,7 +4168,7 @@
       },
       "team1Id": null,
       "team2Id": null,
-      "scheduledAt": null,
+      "scheduledAt": "2026-10-16T18:00:00Z",
       "status": "scheduled",
       "bestOf": 5,
       "score": null,
@@ -4179,7 +4179,7 @@
           "ref": "raw/leaguepedia/page_Data_2026 Season World Championship_Play-In.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-09-30",
+      "lastUpdatedAt": "2026-10-02T05:04:25Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -4210,7 +4210,7 @@
           "time": "11:00",
           "timezone": "PST",
           "dst": "yes",
-          "utcConversion": "PENDING_TIMEZONE_REVIEW"
+          "utcConversion": "CONVERTED"
         }
       }
     },
@@ -4231,7 +4231,7 @@
       },
       "team1Id": null,
       "team2Id": null,
-      "scheduledAt": null,
+      "scheduledAt": "2026-10-17T18:00:00Z",
       "status": "scheduled",
       "bestOf": 5,
       "score": null,
@@ -4242,7 +4242,7 @@
           "ref": "raw/leaguepedia/page_Data_2026 Season World Championship_Play-In.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-09-30",
+      "lastUpdatedAt": "2026-10-02T05:04:25Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -4273,7 +4273,7 @@
           "time": "11:00",
           "timezone": "PST",
           "dst": "yes",
-          "utcConversion": "PENDING_TIMEZONE_REVIEW"
+          "utcConversion": "CONVERTED"
         }
       }
     },
@@ -4294,7 +4294,7 @@
       },
       "team1Id": null,
       "team2Id": null,
-      "scheduledAt": null,
+      "scheduledAt": "2026-10-18T18:00:00Z",
       "status": "scheduled",
       "bestOf": 5,
       "score": null,
@@ -4305,7 +4305,7 @@
           "ref": "raw/leaguepedia/page_Data_2026 Season World Championship_Play-In.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-09-30",
+      "lastUpdatedAt": "2026-10-02T05:04:25Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
@@ -4336,7 +4336,7 @@
           "time": "11:00",
           "timezone": "PST",
           "dst": "yes",
-          "utcConversion": "PENDING_TIMEZONE_REVIEW"
+          "utcConversion": "CONVERTED"
         }
       }
     },
