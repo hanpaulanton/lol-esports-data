@@ -49,13 +49,13 @@ PRODUCTION = ROOT / "data" / "matches.json"
 
 # =====================================================================
 # CURRENT PRODUCTION BASELINE
-# Baseline updated at PHASE 18-22 (dataVersion 2026.10.02.01; previous
-# baselines: 18-21 2026.10.01.04, 18-20 2026.10.01.03, 18-17 2026.10.01.02).
+# Baseline updated at PHASE 18-24 (dataVersion 2026.10.02.02; previous
+# baselines: 18-22 2026.10.02.01, 18-21 2026.10.01.04, 18-20 2026.10.01.03).
 # NOT universal invariants. Update ONLY as part of an approved production
 # promotion (docs/production-contract-gate.md §promotion workflow).
 # =====================================================================
 BASELINE = {
-    "dataVersion": "2026.10.02.01",
+    "dataVersion": "2026.10.02.02",
     "leagueCount": 3,
     "teamCount": 42,
     "matchCount": 139,
@@ -66,15 +66,19 @@ BASELINE = {
     "leagueMatchCounts": {"LCK": 40, "EMEA Masters": 93, "World Championship": 6},
     "teamRegionCounts": {"KR": 10, "EMEA": 32},
     # scheduled rows: PHASE 18-22 transitioned the 10 Round 6 rows to
-    # completed, leaving the 5 Round 7 rows TBD; Worlds stay unresolved
+    # completed, leaving the 5 Round 7 rows TBD; the 6 Worlds Play-In rows
+    # keep their unresolved slots but gained verified UTC schedule times in
+    # PHASE 18-24 (PST + dst=yes -> UTC-07, Module:TimeUtil verified)
     "emeaKnown": 0,
     "emeaTbd": 5,
     "emeaCompletedRows": 88,
     "worldsRows": 6,
-    # known legacy condition: lastUpdatedAt is mixed-format (18-20 added 64;
-    # in-place transitions 18-21/18-22 keep the split unchanged)
-    "lastUpdatedAtDateOnly": 46,
-    "lastUpdatedAtIsoZ": 93,
+    "worldsScheduledConverted": 6,
+    # known legacy condition: lastUpdatedAt is mixed-format (18-20 added 64,
+    # 18-21/18-22 refreshed 24, 18-24 refreshed the 6 Worlds rows -> 99
+    # ISO-Z; 40 date-only LCK rows remain)
+    "lastUpdatedAtDateOnly": 40,
+    "lastUpdatedAtIsoZ": 99,
 }
 
 DATE_ONLY_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
@@ -349,6 +353,12 @@ def worlds_problems(doc: dict) -> list[str]:
     if len(worlds) != BASELINE["worldsRows"]:
         problems.append(f"baseline: Worlds row count {len(worlds)} != {BASELINE['worldsRows']}")
         return problems
+    # PHASE 18-24: the previous PENDING_TIMEZONE_REVIEW enforcement was
+    # intentionally replaced — the PST + dst=yes -> UTC-07 rule is now
+    # verified (Module:TimeUtil source + 63 EMEA same-label/dst joins) and
+    # the six rows carry converted UTC schedule times. The gate now verifies
+    # that converted state instead: deterministic conversion of the preserved
+    # timeRaw, unresolved slots, no score, no rpgid.
     for m in worlds:
         if m.get("status") != "scheduled":
             problems.append(f"worlds({m.get('id')}): status {m.get('status')!r}")
@@ -356,13 +366,27 @@ def worlds_problems(doc: dict) -> list[str]:
             problems.append(f"worlds({m.get('id')}): unresolved row grew team ids")
         if m.get("score") is not None:
             problems.append(f"worlds({m.get('id')}): score is not null")
-        if m.get("scheduledAt") is not None:
-            problems.append(f"worlds({m.get('id')}): scheduledAt is not null (timezone still pending)")
+        if m.get("bestOf") != 5:
+            problems.append(f"worlds({m.get('id')}): bestOf {m.get('bestOf')!r} != 5")
         provisional = m.get("_provisional") or {}
         if (provisional.get("teamSlotState") or {}) != {"team1": "EMPTY", "team2": "EMPTY"}:
             problems.append(f"worlds({m.get('id')}): slot state is not EMPTY/EMPTY")
-        if (provisional.get("timeRaw") or {}).get("utcConversion") != "PENDING_TIMEZONE_REVIEW":
-            problems.append(f"worlds({m.get('id')}): utcConversion is not PENDING_TIMEZONE_REVIEW")
+        count = provisional.get("rpgidCount") or {}
+        if isinstance(count, dict) and count.get("nonEmpty"):
+            problems.append(f"worlds({m.get('id')}): rpgid present on an unresolved scheduled row")
+        time_raw = provisional.get("timeRaw") or {}
+        if time_raw.get("timezone") != "PST" or time_raw.get("dst") != "yes":
+            problems.append(f"worlds({m.get('id')}): unexpected raw timezone {time_raw.get('timezone')!r}/{time_raw.get('dst')!r}")
+        if time_raw.get("utcConversion") != "CONVERTED":
+            problems.append(f"worlds({m.get('id')}): utcConversion {time_raw.get('utcConversion')!r} != CONVERTED")
+        else:
+            result = normalize_local_to_utc(
+                time_raw.get("date", ""), time_raw.get("time", ""), time_raw.get("timezone", ""), time_raw.get("dst", ""),
+            )
+            if result is None:
+                problems.append(f"worlds({m.get('id')}): conversion no longer possible with curated config")
+            elif result.utc_iso != m.get("scheduledAt"):
+                problems.append(f"worlds({m.get('id')}): scheduledAt {m.get('scheduledAt')!r} != recomputed {result.utc_iso}")
     return problems
 
 
