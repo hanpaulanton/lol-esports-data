@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "2026.10.01.04",
-  "generatedAt": "2026-10-01T08:57:58Z",
+  "dataVersion": "2026.10.02.01",
+  "generatedAt": "2026-10-02T03:08:36Z",
   "leagues": [
     {
       "id": "LCK21",
@@ -3002,12 +3002,15 @@
         "id": "Round 6",
         "name": "Round 6"
       },
-      "team1Id": null,
-      "team2Id": null,
+      "team1Id": "team-bushido-wildcats",
+      "team2Id": "team-fec",
       "scheduledAt": "2026-10-01T15:00:00Z",
-      "status": "scheduled",
+      "status": "completed",
       "bestOf": 3,
-      "score": null,
+      "score": {
+        "team1": 2,
+        "team2": 1
+      },
       "sources": [
         {
           "source": "leaguepedia",
@@ -3015,31 +3018,31 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-10-01T03:55:31Z",
+      "lastUpdatedAt": "2026-10-02T03:08:36Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
         "teamSlotState": {
-          "team1": "TBD",
-          "team2": "TBD"
+          "team1": "KNOWN",
+          "team2": "KNOWN"
         },
         "teamSlotRaw": {
-          "team1": "TBD",
-          "team2": "TBD"
+          "team1": "Bushido Wildcats",
+          "team2": "FEC"
         },
         "identityStatus": {
-          "team1": "UNKNOWN",
-          "team2": "UNKNOWN"
+          "team1": "RESOLVED",
+          "team2": "RESOLVED"
         },
         "canonicalTeamId": {
-          "team1": null,
-          "team2": null
+          "team1": "team-bushido-wildcats",
+          "team2": "team-fec"
         },
         "bestOfSource": "row-level bestof",
         "gameBlockCount": 3,
         "rpgidCount": {
           "total": 3,
-          "nonEmpty": 0
+          "nonEmpty": 3
         },
         "timeRaw": {
           "date": "2026-10-01",
@@ -3065,12 +3068,15 @@
         "id": "Round 6",
         "name": "Round 6"
       },
-      "team1Id": null,
-      "team2Id": null,
+      "team1Id": "team-valerion",
+      "team2Id": "team-ruddy-corporation",
       "scheduledAt": "2026-10-01T15:00:00Z",
-      "status": "scheduled",
+      "status": "completed",
       "bestOf": 3,
-      "score": null,
+      "score": {
+        "team1": 1,
+        "team2": 2
+      },
       "sources": [
         {
           "source": "leaguepedia",
@@ -3078,31 +3084,31 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-10-01T03:55:31Z",
+      "lastUpdatedAt": "2026-10-02T03:08:36Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
         "teamSlotState": {
-          "team1": "TBD",
-          "team2": "TBD"
+          "team1": "KNOWN",
+          "team2": "KNOWN"
         },
         "teamSlotRaw": {
-          "team1": "TBD",
-          "team2": "TBD"
+          "team1": "Valerion",
+          "team2": "Ruddy Corporation"
         },
         "identityStatus": {
-          "team1": "UNKNOWN",
-          "team2": "UNKNOWN"
+          "team1": "RESOLVED",
+          "team2": "RESOLVED"
         },
         "canonicalTeamId": {
-          "team1": null,
-          "team2": null
+          "team1": "team-valerion",
+          "team2": "team-ruddy-corporation"
         },
         "bestOfSource": "row-level bestof",
         "gameBlockCount": 3,
         "rpgidCount": {
           "total": 3,
-          "nonEmpty": 0
+          "nonEmpty": 3
         },
         "timeRaw": {
           "date": "2026-10-01",
@@ -3128,12 +3134,15 @@
         "id": "Round 6",
         "name": "Round 6"
       },
-      "team1Id": null,
-      "team2Id": null,
+      "team1Id": "team-colossal-gaming",
+      "team2Id": "team-uol-se",
       "scheduledAt": "2026-10-01T15:00:00Z",
-      "status": "scheduled",
+      "status": "completed",
       "bestOf": 3,
-      "score": null,
+      "score": {
+        "team1": 0,
+        "team2": 2
+      },
       "sources": [
         {
           "source": "leaguepedia",
@@ -3141,31 +3150,31 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-10-01T03:55:31Z",
+      "lastUpdatedAt": "2026-10-02T03:08:36Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
         "teamSlotState": {
-          "team1": "TBD",
-          "team2": "TBD"
+          "team1": "KNOWN",
+          "team2": "KNOWN"
         },
         "teamSlotRaw": {
-          "team1": "TBD",
-          "team2": "TBD"
+          "team1": "Colossal Gaming",
+          "team2": "UOL.SE"
         },
         "identityStatus": {
-          "team1": "UNKNOWN",
-          "team2": "UNKNOWN"
+          "team1": "RESOLVED",
+          "team2": "RESOLVED"
         },
         "canonicalTeamId": {
-          "team1": null,
-          "team2": null
+          "team1": "team-colossal-gaming",
+          "team2": "team-uol-se"
         },
         "bestOfSource": "row-level bestof",
         "gameBlockCount": 3,
         "rpgidCount": {
-          "total": 3,
-          "nonEmpty": 0
+          "total": 2,
+          "nonEmpty": 2
         },
         "timeRaw": {
           "date": "2026-10-01",
@@ -3191,12 +3200,15 @@
         "id": "Round 6",
         "name": "Round 6"
       },
-      "team1Id": null,
-      "team2Id": null,
+      "team1Id": "team-bomba-team",
+      "team2Id": "team-skillcamp",
       "scheduledAt": "2026-10-01T15:00:00Z",
-      "status": "scheduled",
+      "status": "completed",
       "bestOf": 3,
-      "score": null,
+      "score": {
+        "team1": 1,
+        "team2": 2
+      },
       "sources": [
         {
           "source": "leaguepedia",
@@ -3204,31 +3216,31 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-10-01T03:55:31Z",
+      "lastUpdatedAt": "2026-10-02T03:08:36Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
         "teamSlotState": {
-          "team1": "TBD",
-          "team2": "TBD"
+          "team1": "KNOWN",
+          "team2": "KNOWN"
         },
         "teamSlotRaw": {
-          "team1": "TBD",
-          "team2": "TBD"
+          "team1": "Bomba Team",
+          "team2": "Skillcamp"
         },
         "identityStatus": {
-          "team1": "UNKNOWN",
-          "team2": "UNKNOWN"
+          "team1": "RESOLVED",
+          "team2": "RESOLVED"
         },
         "canonicalTeamId": {
-          "team1": null,
-          "team2": null
+          "team1": "team-bomba-team",
+          "team2": "team-skillcamp"
         },
         "bestOfSource": "row-level bestof",
         "gameBlockCount": 3,
         "rpgidCount": {
           "total": 3,
-          "nonEmpty": 0
+          "nonEmpty": 3
         },
         "timeRaw": {
           "date": "2026-10-01",
@@ -3254,12 +3266,15 @@
         "id": "Round 6",
         "name": "Round 6"
       },
-      "team1Id": null,
-      "team2Id": null,
+      "team1Id": "team-magaza",
+      "team2Id": "team-otter-side",
       "scheduledAt": "2026-10-01T15:00:00Z",
-      "status": "scheduled",
+      "status": "completed",
       "bestOf": 3,
-      "score": null,
+      "score": {
+        "team1": 2,
+        "team2": 0
+      },
       "sources": [
         {
           "source": "leaguepedia",
@@ -3267,31 +3282,31 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-10-01T03:55:31Z",
+      "lastUpdatedAt": "2026-10-02T03:08:36Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
         "teamSlotState": {
-          "team1": "TBD",
-          "team2": "TBD"
+          "team1": "KNOWN",
+          "team2": "KNOWN"
         },
         "teamSlotRaw": {
-          "team1": "TBD",
-          "team2": "TBD"
+          "team1": "Magaza",
+          "team2": "Otter Side"
         },
         "identityStatus": {
-          "team1": "UNKNOWN",
-          "team2": "UNKNOWN"
+          "team1": "RESOLVED",
+          "team2": "RESOLVED"
         },
         "canonicalTeamId": {
-          "team1": null,
-          "team2": null
+          "team1": "team-magaza",
+          "team2": "team-otter-side"
         },
         "bestOfSource": "row-level bestof",
         "gameBlockCount": 3,
         "rpgidCount": {
-          "total": 3,
-          "nonEmpty": 0
+          "total": 2,
+          "nonEmpty": 2
         },
         "timeRaw": {
           "date": "2026-10-01",
@@ -3317,12 +3332,15 @@
         "id": "Round 6",
         "name": "Round 6"
       },
-      "team1Id": null,
-      "team2Id": null,
-      "scheduledAt": "2026-10-01T16:00:00Z",
-      "status": "scheduled",
+      "team1Id": "team-big",
+      "team2Id": "team-nightbirds",
+      "scheduledAt": "2026-10-01T18:00:00Z",
+      "status": "completed",
       "bestOf": 3,
-      "score": null,
+      "score": {
+        "team1": 2,
+        "team2": 0
+      },
       "sources": [
         {
           "source": "leaguepedia",
@@ -3330,35 +3348,35 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-10-01T03:55:31Z",
+      "lastUpdatedAt": "2026-10-02T03:08:36Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
         "teamSlotState": {
-          "team1": "TBD",
-          "team2": "TBD"
+          "team1": "KNOWN",
+          "team2": "KNOWN"
         },
         "teamSlotRaw": {
-          "team1": "TBD",
-          "team2": "TBD"
+          "team1": "BIG",
+          "team2": "Nightbirds"
         },
         "identityStatus": {
-          "team1": "UNKNOWN",
-          "team2": "UNKNOWN"
+          "team1": "RESOLVED",
+          "team2": "RESOLVED"
         },
         "canonicalTeamId": {
-          "team1": null,
-          "team2": null
+          "team1": "team-big",
+          "team2": "team-nightbirds"
         },
         "bestOfSource": "row-level bestof",
         "gameBlockCount": 3,
         "rpgidCount": {
-          "total": 3,
-          "nonEmpty": 0
+          "total": 2,
+          "nonEmpty": 2
         },
         "timeRaw": {
           "date": "2026-10-01",
-          "time": "09:00",
+          "time": "11:00",
           "timezone": "PST",
           "dst": "yes",
           "utcConversion": "CONVERTED"
@@ -3380,12 +3398,15 @@
         "id": "Round 6",
         "name": "Round 6"
       },
-      "team1Id": null,
-      "team2Id": null,
-      "scheduledAt": "2026-10-01T16:00:00Z",
-      "status": "scheduled",
+      "team1Id": "team-pcific-esports",
+      "team2Id": "team-lodis-pl",
+      "scheduledAt": "2026-10-01T18:00:00Z",
+      "status": "completed",
       "bestOf": 3,
-      "score": null,
+      "score": {
+        "team1": 2,
+        "team2": 0
+      },
       "sources": [
         {
           "source": "leaguepedia",
@@ -3393,35 +3414,35 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-10-01T03:55:31Z",
+      "lastUpdatedAt": "2026-10-02T03:08:36Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
         "teamSlotState": {
-          "team1": "TBD",
-          "team2": "TBD"
+          "team1": "KNOWN",
+          "team2": "KNOWN"
         },
         "teamSlotRaw": {
-          "team1": "TBD",
-          "team2": "TBD"
+          "team1": "PCIFIC Esports",
+          "team2": "LODIS PL"
         },
         "identityStatus": {
-          "team1": "UNKNOWN",
-          "team2": "UNKNOWN"
+          "team1": "RESOLVED",
+          "team2": "RESOLVED"
         },
         "canonicalTeamId": {
-          "team1": null,
-          "team2": null
+          "team1": "team-pcific-esports",
+          "team2": "team-lodis-pl"
         },
         "bestOfSource": "row-level bestof",
         "gameBlockCount": 3,
         "rpgidCount": {
-          "total": 3,
-          "nonEmpty": 0
+          "total": 2,
+          "nonEmpty": 2
         },
         "timeRaw": {
           "date": "2026-10-01",
-          "time": "09:00",
+          "time": "11:00",
           "timezone": "PST",
           "dst": "yes",
           "utcConversion": "CONVERTED"
@@ -3443,12 +3464,15 @@
         "id": "Round 6",
         "name": "Round 6"
       },
-      "team1Id": null,
-      "team2Id": null,
-      "scheduledAt": "2026-10-01T16:00:00Z",
-      "status": "scheduled",
+      "team1Id": "team-jsk-esports",
+      "team2Id": "team-ucam-esports",
+      "scheduledAt": "2026-10-01T18:00:00Z",
+      "status": "completed",
       "bestOf": 3,
-      "score": null,
+      "score": {
+        "team1": 0,
+        "team2": 2
+      },
       "sources": [
         {
           "source": "leaguepedia",
@@ -3456,35 +3480,35 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-10-01T03:55:31Z",
+      "lastUpdatedAt": "2026-10-02T03:08:36Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
         "teamSlotState": {
-          "team1": "TBD",
-          "team2": "TBD"
+          "team1": "KNOWN",
+          "team2": "KNOWN"
         },
         "teamSlotRaw": {
-          "team1": "TBD",
-          "team2": "TBD"
+          "team1": "JSK Esports",
+          "team2": "UCAM Esports"
         },
         "identityStatus": {
-          "team1": "UNKNOWN",
-          "team2": "UNKNOWN"
+          "team1": "RESOLVED",
+          "team2": "RESOLVED"
         },
         "canonicalTeamId": {
-          "team1": null,
-          "team2": null
+          "team1": "team-jsk-esports",
+          "team2": "team-ucam-esports"
         },
         "bestOfSource": "row-level bestof",
         "gameBlockCount": 3,
         "rpgidCount": {
-          "total": 3,
-          "nonEmpty": 0
+          "total": 2,
+          "nonEmpty": 2
         },
         "timeRaw": {
           "date": "2026-10-01",
-          "time": "09:00",
+          "time": "11:00",
           "timezone": "PST",
           "dst": "yes",
           "utcConversion": "CONVERTED"
@@ -3506,12 +3530,15 @@
         "id": "Round 6",
         "name": "Round 6"
       },
-      "team1Id": null,
-      "team2Id": null,
-      "scheduledAt": "2026-10-01T16:00:00Z",
-      "status": "scheduled",
+      "team1Id": "team-phantasma",
+      "team2Id": "team-tsc-hr",
+      "scheduledAt": "2026-10-01T18:00:00Z",
+      "status": "completed",
       "bestOf": 3,
-      "score": null,
+      "score": {
+        "team1": 1,
+        "team2": 2
+      },
       "sources": [
         {
           "source": "leaguepedia",
@@ -3519,35 +3546,35 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-10-01T03:55:31Z",
+      "lastUpdatedAt": "2026-10-02T03:08:36Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
         "teamSlotState": {
-          "team1": "TBD",
-          "team2": "TBD"
+          "team1": "KNOWN",
+          "team2": "KNOWN"
         },
         "teamSlotRaw": {
-          "team1": "TBD",
-          "team2": "TBD"
+          "team1": "Phantasma",
+          "team2": "TSC HR"
         },
         "identityStatus": {
-          "team1": "UNKNOWN",
-          "team2": "UNKNOWN"
+          "team1": "RESOLVED",
+          "team2": "RESOLVED"
         },
         "canonicalTeamId": {
-          "team1": null,
-          "team2": null
+          "team1": "team-phantasma",
+          "team2": "team-tsc-hr"
         },
         "bestOfSource": "row-level bestof",
         "gameBlockCount": 3,
         "rpgidCount": {
           "total": 3,
-          "nonEmpty": 0
+          "nonEmpty": 3
         },
         "timeRaw": {
           "date": "2026-10-01",
-          "time": "09:00",
+          "time": "11:00",
           "timezone": "PST",
           "dst": "yes",
           "utcConversion": "CONVERTED"
@@ -3569,12 +3596,15 @@
         "id": "Round 6",
         "name": "Round 6"
       },
-      "team1Id": null,
-      "team2Id": null,
-      "scheduledAt": "2026-10-01T16:00:00Z",
-      "status": "scheduled",
+      "team1Id": "team-snsh",
+      "team2Id": "team-barca",
+      "scheduledAt": "2026-10-01T18:00:00Z",
+      "status": "completed",
       "bestOf": 3,
-      "score": null,
+      "score": {
+        "team1": 0,
+        "team2": 2
+      },
       "sources": [
         {
           "source": "leaguepedia",
@@ -3582,35 +3612,35 @@
           "ref": "raw/leaguepedia/page_EMEA_Masters_2026_Summer_Main_Event.wikitext"
         }
       ],
-      "lastUpdatedAt": "2026-10-01T03:55:31Z",
+      "lastUpdatedAt": "2026-10-02T03:08:36Z",
       "_warnings": [],
       "_provisional": {
         "teamIdSource": "leaguepedia raw value (identity resolution per exact resolver)",
         "teamSlotState": {
-          "team1": "TBD",
-          "team2": "TBD"
+          "team1": "KNOWN",
+          "team2": "KNOWN"
         },
         "teamSlotRaw": {
-          "team1": "TBD",
-          "team2": "TBD"
+          "team1": "SNSH",
+          "team2": "Barca"
         },
         "identityStatus": {
-          "team1": "UNKNOWN",
-          "team2": "UNKNOWN"
+          "team1": "RESOLVED",
+          "team2": "RESOLVED"
         },
         "canonicalTeamId": {
-          "team1": null,
-          "team2": null
+          "team1": "team-snsh",
+          "team2": "team-barca"
         },
         "bestOfSource": "row-level bestof",
         "gameBlockCount": 3,
         "rpgidCount": {
-          "total": 3,
-          "nonEmpty": 0
+          "total": 2,
+          "nonEmpty": 2
         },
         "timeRaw": {
           "date": "2026-10-01",
-          "time": "09:00",
+          "time": "11:00",
           "timezone": "PST",
           "dst": "yes",
           "utcConversion": "CONVERTED"
