@@ -1,7 +1,15 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "2026.10.02.02",
-  "generatedAt": "2026-10-02T05:04:25Z",
+  "dataVersion": "2026.10.14.01",
+  "generatedAt": "2026-10-14T20:44:03Z",
+  "license": "CC-BY-SA-3.0",
+  "attribution": {
+    "source": "Leaguepedia",
+    "url": "https://lol.fandom.com",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "notice": "Derived from Leaguepedia; normalized by an unofficial fan project. Not affiliated with Riot Games or Fandom."
+  },
   "leagues": [
     {
       "id": "LCK21",

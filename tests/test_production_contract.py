@@ -49,13 +49,15 @@ PRODUCTION = ROOT / "data" / "matches.json"
 
 # =====================================================================
 # CURRENT PRODUCTION BASELINE
-# Baseline updated at PHASE 18-24 (dataVersion 2026.10.02.02; previous
-# baselines: 18-22 2026.10.02.01, 18-21 2026.10.01.04, 18-20 2026.10.01.03).
+# Baseline updated at PHASE LIC (dataVersion 2026.10.14.01: license +
+# attribution metadata added by scripts/add_attribution_v1.py; matches /
+# teams / leagues unchanged). Previous baselines: 18-24 2026.10.02.02,
+# 18-22 2026.10.02.01, 18-21 2026.10.01.04, 18-20 2026.10.01.03.
 # NOT universal invariants. Update ONLY as part of an approved production
 # promotion (docs/production-contract-gate.md §promotion workflow).
 # =====================================================================
 BASELINE = {
-    "dataVersion": "2026.10.02.02",
+    "dataVersion": "2026.10.14.01",  # PHASE LIC (approved: license/attribution fields only)
     "leagueCount": 3,
     "teamCount": 42,
     "matchCount": 139,
@@ -122,6 +124,26 @@ def envelope_problems(doc: dict) -> list[str]:
     for key in ("leagues", "teams", "matches"):
         if not isinstance(doc.get(key), list):
             problems.append(f"envelope: {key} must be a list")
+    return problems
+
+
+# PHASE LIC: the published envelope must carry license + attribution metadata.
+EXPECTED_LICENSE = "CC-BY-SA-3.0"
+EXPECTED_ATTRIBUTION = {
+    "source": "Leaguepedia",
+    "url": "https://lol.fandom.com",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "notice": "Derived from Leaguepedia; normalized by an unofficial fan project. Not affiliated with Riot Games or Fandom.",
+}
+
+
+def attribution_problems(doc: dict) -> list[str]:
+    problems: list[str] = []
+    if doc.get("license") != EXPECTED_LICENSE:
+        problems.append(f"license: expected {EXPECTED_LICENSE!r}, got {doc.get('license')!r}")
+    if doc.get("attribution") != EXPECTED_ATTRIBUTION:
+        problems.append(f"attribution: expected {EXPECTED_ATTRIBUTION!r}, got {doc.get('attribution')!r}")
     return problems
 
 
@@ -430,6 +452,7 @@ def collect_problems(doc: dict) -> list[str]:
     problems: list[str] = []
     for check in (
         envelope_problems,
+        attribution_problems,
         version_problems,
         distribution_problems,
         id_problems,
@@ -458,6 +481,9 @@ class ProductionContractTests(unittest.TestCase):
 
     def test_a_envelope_required_keys_and_schema_version(self):
         self.assertEqual([], envelope_problems(self.doc))
+
+    def test_a_license_and_attribution_present(self):
+        self.assertEqual([], attribution_problems(self.doc))
 
     def test_a_dataversion_format_is_valid(self):
         self.assertIsNotNone(parse_version(self.doc.get("dataVersion", "")))
