@@ -44,6 +44,10 @@ def row_datetime(args, offset):
     return datetime.datetime(date.year, date.month, date.day, int(hh), int(mm), tzinfo=datetime.timezone.utc) - offset
 
 
+@unittest.skipUnless(
+    EMEA.exists(),
+    "third-party raw fixture removed from public repo (PHASE LIC); available only in local evidence",
+)
 class EmeaKnownTeamScheduledTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):

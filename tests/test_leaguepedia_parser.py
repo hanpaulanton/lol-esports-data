@@ -78,6 +78,10 @@ class FindTemplatesTests(unittest.TestCase):
         self.assertEqual(2, len(templates))
 
 
+@unittest.skipUnless(
+    RAW.exists(),
+    "third-party raw fixture removed from public repo (PHASE LIC); available only in local evidence",
+)
 class RealFixtureTests(unittest.TestCase):
     """Uses the actual collected LCK fixture — no invented values."""
 

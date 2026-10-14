@@ -10,35 +10,40 @@ repository.**
 - Target operating cost: **0 KRW / 0 USD** (free public sources + GitHub
   Actions/Pages free tiers; no servers, no databases, no API keys).
 
-## Current status (PHASE 16)
+## Data source & license
 
-- **Leaguepedia** (lol.fandom.com) is being investigated as the **primary**
-  source. Raw samples were collected on 2026-09-29 (see `raw/leaguepedia/` and
-  `docs/leaguepedia-schema.md`). Observed: `api.php?action=cargotables` and
-  `api.php?action=query` work; `action=cargoquery` is persistently rate limited
-  from this environment, so a page-wikitext fallback path is also implemented.
-- **Oracle's Elixir** is being investigated as the **secondary verification**
-  source (completed-match results). Its downloads page terms were verified in a
-  browser on 2026-09-29: data is provided free of charge, files are updated
-  **once per day**, game statistics are the property of Riot Games and usage
-  must follow Riot's terms and policies, and some content is provided courtesy
-  of Leaguepedia under CC-BY-SA 3.0. No explicit redistribution license for the
-  CSV files was stated on the page (recorded as unconfirmed).
-- **Liquipedia** is backup-only; its API terms page returns 403 to plain HTTP
-  clients, so automation against it is not attempted (`collectionAllowed: false`).
+- **Data**: schedule and result data is derived from
+  [Leaguepedia](https://lol.fandom.com), (c) Leaguepedia contributors, licensed
+  under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+  Changes: extracted and normalized into JSON; times converted to UTC. The data
+  files in this repository are therefore also licensed under CC BY-SA 3.0 - see
+  `LICENSE-DATA`.
+- **Code**: MIT License - see `LICENSE`.
+- This repository does **not** redistribute third-party page text (wiki text,
+  terms-of-service copies, etc.). Such raw material was removed from the public
+  repository and its history (PHASE LIC) and is kept locally only; `raw/`,
+  `phase*-test/` and `_local-evidence/` are git-ignored. Tests that need those
+  files are skipped when they are absent.
+- Unofficial fan project; not affiliated with Riot Games or Fandom.
+
+## Current status
+
+- **v1 data is in production**: `data/matches.json` (canonical, `schemaVersion 1`)
+  is published through GitHub Pages and consumed by the Android app. See
+  `CLAUDE.md` and the root `PROJECT-HANDOFF.md` for the audited promotion history.
+- **v2 redesign is planned** (automatic refresh from the Leaguepedia Cargo API
+  with automated validation gates): see `docs/pipeline-v2-design.md`.
+- **Oracle's Elixir** is a secondary verification candidate (not implemented);
+  **Liquipedia** is backup-only (`collectionAllowed: false`).
 
 ## Collection principles
 
 - Low-frequency collection only, with exponential backoff (1s, 2s, 4s, 8s, cap
   30s) and a hard attempt limit; `ratelimited` JSON errors are retried, other
-  errors fail fast. Oracle's Elixir files must not be downloaded more than once
-  per day (per the page's own wording).
-- **Raw data and normalized data are strictly separated.** `raw/` stores
-  unmodified API/page responses; `data/` will hold normalized canonical output.
-- **A production canonical `matches.json` has NOT been produced yet** (that is
-  the normalizer phase). The Android app remains on its bundled sample data.
-- **The Android app has NOT been connected to this repository's output.** The
-  app's `DEFAULT_DATA_URL` is unchanged.
+  errors fail fast.
+- **Raw data and normalized data are strictly separated.** Raw responses are
+  stored locally only (not in this repository); `data/` holds the normalized
+  canonical output.
 - No CAPTCHA/Cloudflare circumvention, no block evasion, no API keys.
 
 ## Policy-change safety (fail closed)
@@ -53,10 +58,10 @@ data; nothing is ever auto-approved or deleted. See
 
 ```
 config/            source registry + per-source policy metadata
-data/              normalized canonical output (empty; future phase)
-docs/              observed schema + policy event model
+data/              normalized canonical output (matches.json)
+docs/              observed schema, policy event model, design documents
 policy_snapshots/  per-source terms snapshots (hash + status)
-raw/               unmodified collected responses (leaguepedia/)
+raw/               (local only, git-ignored) unmodified collected responses
 schema/            canonical schema definitions (future phase)
 scripts/
   collectors/      one collector per source (leaguepedia.py implemented)

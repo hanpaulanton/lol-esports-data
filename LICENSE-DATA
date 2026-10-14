@@ -1,0 +1,24 @@
+Data license: Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+
+Full legal text: https://creativecommons.org/licenses/by-sa/3.0/legalcode
+Human-readable summary: https://creativecommons.org/licenses/by-sa/3.0/
+
+Scope
+-----
+This license applies to the data in this repository, namely:
+
+  - data/            (including data/matches.json and data/matches.sample.json)
+  - config/team_mappings.json
+  - any other data file derived from Leaguepedia content
+
+The source code (scripts/, tests/) is licensed under the MIT License; see LICENSE.
+
+Attribution
+-----------
+Esports schedule and result data in this repository is derived from Leaguepedia (https://lol.fandom.com), (c) Leaguepedia contributors, licensed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/). Changes: extracted and normalized into JSON; times converted to UTC.
+
+Disclaimer
+----------
+This is an unofficial fan project. It is not affiliated with, endorsed by, or
+connected to Riot Games or Fandom. League of Legends is a trademark of Riot
+Games, Inc.

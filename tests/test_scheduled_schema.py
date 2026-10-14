@@ -20,6 +20,10 @@ TOURN_PAGE = pathlib.Path(__file__).resolve().parents[1] / "raw" / "leaguepedia"
 RESOLVER = TeamIdentityResolver()
 
 
+@unittest.skipUnless(
+    DATA_PAGE.exists() and TOURN_PAGE.exists(),
+    "third-party raw fixture removed from public repo (PHASE LIC); available only in local evidence",
+)
 class ScheduledSchemaTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):

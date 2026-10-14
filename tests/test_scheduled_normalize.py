@@ -178,6 +178,10 @@ class PureFunctionUnitTests(unittest.TestCase):
         self.assertTrue(any("non-empty rpgid" in w for w in warnings))
 
 
+@unittest.skipUnless(
+    EMEA.exists(),
+    "third-party raw fixture removed from public repo (PHASE LIC); available only in local evidence",
+)
 class EmeaFixtureTests(unittest.TestCase):
     """Evidence-based: EMEA Masters 2026 Summer Main Event fixture."""
 
@@ -319,6 +323,10 @@ class EmeaFixtureTests(unittest.TestCase):
             self.assertIn(record["status"], {"scheduled"})
 
 
+@unittest.skipUnless(
+    PLAYIN.exists(),
+    "third-party raw fixture removed from public repo (PHASE LIC); available only in local evidence",
+)
 class PlayinFixtureTests(unittest.TestCase):
     """Evidence-based: Worlds Play-In fixture (empty team slots)."""
 

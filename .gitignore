@@ -3,3 +3,9 @@ __pycache__/
 tests/.tmp-policy/
 .DS_Store
 .venv/
+
+# Third-party raw material and local-only evidence (PHASE LIC) - never commit
+raw/
+phase*-test/
+_local-evidence/
+p0-spike/

@@ -40,6 +40,10 @@ GAME_KEY_SET = (
 )
 
 
+@unittest.skipUnless(
+    MAIN_EVENT.exists(),
+    "third-party raw fixture removed from public repo (PHASE LIC); available only in local evidence",
+)
 class MainEventScheduledFixtureTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):

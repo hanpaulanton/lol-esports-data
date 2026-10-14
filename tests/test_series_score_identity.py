@@ -195,6 +195,10 @@ class ComputeSeriesScoreTests(unittest.TestCase):
         self.assertEqual((0, 0), (result.computed_team1_wins, result.computed_team2_wins))
 
 
+@unittest.skipUnless(
+    ROAD_TO_MSI.exists(),
+    "third-party raw fixture removed from public repo (PHASE LIC); available only in local evidence",
+)
 class MixedRepresentationTests(unittest.TestCase):
     """The exact mixed representations observed in Data:LCK/2026 Season/Road
     to MSI (handoff sections 16-17)."""
@@ -234,6 +238,10 @@ class MixedRepresentationTests(unittest.TestCase):
         self.assertEqual((3, 2), (result.computed_team1_wins, result.computed_team2_wins))
 
 
+@unittest.skipUnless(
+    ROUNDS34.exists() and PLAYOFFS.exists() and ROAD_TO_MSI.exists(),
+    "third-party raw fixture removed from public repo (PHASE LIC); available only in local evidence",
+)
 class RoadToMsiFixtureTests(unittest.TestCase):
     """Fixture-level verification (raw files unchanged)."""
 

@@ -54,6 +54,10 @@ def load_series():
     return list(iter_series_with_games(wikitext))
 
 
+@unittest.skipUnless(
+    PLAYIN.exists(),
+    "third-party raw fixture removed from public repo (PHASE LIC); available only in local evidence",
+)
 class PlayinScheduledFixtureTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
